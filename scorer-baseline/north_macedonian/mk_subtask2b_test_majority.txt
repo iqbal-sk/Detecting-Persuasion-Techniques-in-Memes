@@ -1,0 +1,602 @@
+[
+    {
+        "id": "mk_memes_251",
+        "text": "ПО ТРАКТОРИ ВЕ ВАКЦИНИРААТ КАКО СТОКА!!!\n",
+        "image": "mk_memes_251.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_116",
+        "text": "ПРЕД ВАКЦИНА \nПОСЛЕ ВАКЦИНА\n",
+        "image": "mk_memes_116.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_110",
+        "text": "Кај ви се мигрантите бе глуп\n\nДобро де, ќе има ама малце\n\nЖени и деца ќе бидат\n\nObvrzani sme da zememe\n",
+        "image": "mk_memes_110.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_308",
+        "text": "ВЛАДАТА НА НАШАТА СЕВЕРНА ЗЕМЈА, КОНЕЧНО ТРГНА ВО 0ФАНЗИВА ПРОТИВ КОВИД 19 НЕПРИЈАТЕЛОТ.\n",
+        "image": "mk_memes_308.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_117",
+        "text": "МАМО, ШТО Е ТОА ИМУНИТЕТ?\n\nОБИЧНА ТЕОРИЈА НА ЗАГОВОР. НИЕ СМЕ ОБРАЗОВАНИ.\n",
+        "image": "mk_memes_117.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_297",
+        "text": "ДЕНЕСКА МИ Е САБОТА ОФ АМАН КИРАЦА КОДИ НА ПАЗАР\n",
+        "image": "mk_memes_297.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_293",
+        "text": "ВЛЕГОВМЕ ВО НАТО ЗА ДА ДОБИЕМЕ ОД ВAКЦИНА\n",
+        "image": "mk_memes_293.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_177",
+        "text": "Не во НАТО!\n\nНе во ЕУ!\n",
+        "image": "mk_memes_177.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_5",
+        "text": "ВОСОЧНА ФИГУРА НА ГОЦЕ\nДЕЛЧЕВ ОД МУЗЕЈОТ ВО ВАРНА\n\n",
+        "image": "mk_memes_5.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_246",
+        "text": "ГЛЕДАШ? ЗАПИШУВААТ шТО КЕ КАЖАМ!\n\nПА НЕ МОЖАТ ДА ТИ ГИ ДОЗАПОМНАТ ГЛУПОСТИТЕ ЦРПЕ!\n",
+        "image": "mk_memes_246.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_106",
+        "text": "ПОСЛЕ ВАКЦИНА РАКАТА САМА МИ ПИШУВА ПО ТАСТАТУРА\n",
+        "image": "mk_memes_106.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_307",
+        "text": "\"Г\"Е МОЈОТ\nКОНЕЧЕН ОДГОВОР!\n\n5. ЗА ВАКСАЈНСИТЕ\nКОЈ ЛАЖЕ ПОВЕКЕ?\n\nA: СТЕВО\nB: ВЕНКО\nБ: БРАТ МУ НА ШЕМКО\nГ: БРАТ МУ НА ВИЦЕ\n",
+        "image": "mk_memes_307.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_174",
+        "text": "НЕ БИДИ МОСТ \n\n3a ЦЕНЗУС СЕВЕРНА\n\nВНИМАВАЈ!\n",
+        "image": "mk_memes_174.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_168",
+        "text": "НЕ ВЛАГАМЕ У ЕУ И НАТО ДУР НЕ ГО ИСПОРАЧАТЕ ГРУЈО\n",
+        "image": "mk_memes_168.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_111",
+        "text": "Слободен влез за невакцинирани\n\nМое тело сопственост!\n",
+        "image": "mk_memes_111.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_165",
+        "text": "ИЗЛЕЗИ EВРОПСКА МАКЕДОНИЈА\nMA СИРОМАШТИЈА\n",
+        "image": "mk_memes_165.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_248",
+        "text": "ИСЧЕЗНУВАМЕ",
+        "image": "mk_memes_248.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_182",
+        "text": "ВЛАДА НА РЕПУБЛИКА СЕВЕРНА\n",
+        "image": "mk_memes_182.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_355",
+        "text": "БАТКА\nПУШТИ 2 КРИШКИ ЛЕБ НА\nМАЧЕТО ОД МЕНЕ",
+        "image": "mk_memes_355.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_249",
+        "text": "PRESPA FORUM",
+        "image": "mk_memes_249.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_42",
+        "text": "БУГАРИТЕ КE\nНИ ДАДАТ ВАКЦ....\n\nБУГАРИТЕ ВОШКИТЕ\nНЕ СИ ГИ ДАВААТ\nНЕ ПА ВАКЦИНИТЕ\n\n",
+        "image": "mk_memes_42.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_113",
+        "text": "СЕ ВАКЦИНИРАВ САМО ЗА ДА МОЖАМ ДА ВЛЕЗАМ ВО КАФАНА\n",
+        "image": "mk_memes_113.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_171",
+        "text": "Ako треба и железни опинци\nke облечам, ама 500 евра ..\n\nА jас три пара такви искинав, за да те донесам\nдо дрвово!\n",
+        "image": "mk_memes_171.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_310",
+        "text": "Зоран Заев е промената во општеството\nкоја генерации граѓани ја чекаа\nза да ги исполнат соништата на своите деца.\nBenro Pusuwre\n",
+        "image": "mk_memes_310.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_282",
+        "text": "3ΔΡΑΒΕ\nКЕ НЕ БИДЕ!\n",
+        "image": "mk_memes_282.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_52",
+        "text": "KEEP\nCALM\nAND\nFUCK THE\nEU\n",
+        "image": "mk_memes_52.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_49",
+        "text": "СРБИТЕ\nНАБАВИЛЕ\n11МИЛИОНИ ВАКЦИНИ\n\nТОА СЕ 11\nМИЛИОНИ ВАКЦИНИ\n\nПОВЕЌЕ ОДКОЛКУ\nШО НАБАВИ ФИЛИПЧЕ\n\n",
+        "image": "mk_memes_49.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_178",
+        "text": "NATO\n",
+        "image": "mk_memes_178.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_161",
+        "text": "Македонци во Бугарија нема\n\nБугари во Македонија има\n",
+        "image": "mk_memes_161.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_255",
+        "text": "WE ARE IN THE FAPO\n",
+        "image": "mk_memes_255.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_350",
+        "text": "Јас: Мама, дали можи да купиме\nМама: Не, дома имаме\nдома:",
+        "image": "mk_memes_350.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_39",
+        "text": "БУГАРИЈА КЕ НИ ДОНИРА ВAКЦИНИ\n\nЗАЕВ\n",
+        "image": "mk_memes_39.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_302",
+        "text": "ДОВЕРБА ДО КАНТОНИЗАЦИЈА\n",
+        "image": "mk_memes_302.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_290",
+        "text": "ГИ ТЕСТИРАВМЕ И СИТЕ СЕ КОС-ПОЗИТИВНИ!\n\n",
+        "image": "mk_memes_290.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_164",
+        "text": "WE ARE NATO\n",
+        "image": "mk_memes_164.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_53",
+        "text": "ТРГНАА ВАКЦИНИТЕ\nОД КИНА\n",
+        "image": "mk_memes_53.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_3",
+        "text": "МОЈАТА МАСКАТЕ ШТИТИ ТЕБЕ,\nТВОЈАТА МАСКА МЕ ШТИТИ МЕНЕ.\n\nТОА ГОВНО НЕ ШТИТИ НИ ОД ПРАШИНА КАМОЛИ ОД\nВИРУСИ, И ТВОИТЕ ГОСПОДАРИ го КОРИСТАТ КАКО\nПСИХОЛОШКО ОРУЖЈЕ ЗА ДА ДОЗНААТ КОЛКАВ ДЕЛ\nоД НАСЕЛЕНИЕТО БЕСПОГОВОРНО СЛУША НАРЕДБИ.\n",
+        "image": "mk_memes_3.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_6",
+        "text": "И после им рековме се е во главата\nод Груевски гласајте за нас нема да\nменуваме име ќе имате 500 евра\nплата! И ни поверуваа хахахахаха\n",
+        "image": "mk_memes_6.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_109",
+        "text": "\"МАКЕДОНСКО ДЕВОЈЧЕ\" Е\nМАKЕДОНСКА НАРОДНА ПЕСНА.\n\nКЪДЕ Е НАПИСАНО?\n\nВО НАСЛОВОТ\n",
+        "image": "mk_memes_109.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_46",
+        "text": "МОЖЕВМЕ НИЕ И ВО ЕУ ДА ВЛЕЗЕМЕ\n\nCАМО НЕ САКАВМЕ СО БУГАРИТЕ ДА СЕ СКАРАМЕ\n",
+        "image": "mk_memes_46.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_180",
+        "text": "ИМЕ\nJАЗИК\nИДЕНТИТЕТ\n",
+        "image": "mk_memes_180.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_371",
+        "text": "ГЛАСНИ И ГОРДИ",
+        "image": "mk_memes_371.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_299",
+        "text": "ДРУГАР АПОСТО, ВЕЛАТ ДЕКА ВИ ГО ПРОБИЛЕ СЛОВОТО НА САЈТОТ!\n\nНЕ Е ТОЧНО! СЛОВОТО Е ЗАШТИТЕНО,\nОД НАС И ОД БУГАРСКА СТРАНА. АМА, JАС НЕ СУМ ИНФОРМАТИЧАР, JАAС СУМ СТАТИСТИЧАР.\n\n",
+        "image": "mk_memes_299.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_288",
+        "text": "EY\nСедо Перо\n#Северна (Ден потоа) Отворен ни е патот !\n\n",
+        "image": "mk_memes_288.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_303",
+        "text": "ПОЧИТУВАНИ! СЕГА ЌЕ ПОРАЗГОВАРАМЕ СО ЕДЕН\nНАШ ПОВРАТНИК ОД САД.\n\nSHKUP\n",
+        "image": "mk_memes_303.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_103",
+        "text": "Пред вакцина\n\nПосле вакцина\n",
+        "image": "mk_memes_103.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_48",
+        "text": "\"КОГА НЕКОЈ Би ми РЕКОЛ\nДЕКА ГОЦЕ ДЕЛЧЕВ Е\nБУГАРИН, БИ НАПРАВИЛ\nдиплоМАТСКи СКАНДАЛ!\nНА ТАА ТЕМА НЕ ТРЕБА ДА\nСЕ ДИСКУТИРА!\"\n",
+        "image": "mk_memes_48.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_284",
+        "text": "СЕ ЗДРВИВМЕ!\nМОЖЕ СО СТРУЈА\nКЕ БЕШЕ ПОДОБРО!\n\nНЕ МИ ЈА ЧЕПКАЈ\n\n\n",
+        "image": "mk_memes_284.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_181",
+        "text": "NATO - ОТAN\n\nNORWAY\n\nREPUBLIC OF NORTH\n\n",
+        "image": "mk_memes_181.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_163",
+        "text": "Траурното шествие за погребението на Н.В.Цар Борис III минава по бул. \"Цар Освободител\", София, началото на септември 1943 г.\n1940-1950, София, погребения, смъртта на Цар Борис I, събития\n\nГоргиев: Бугарија не може да ја\nдефинираме како класична\nфашистичка земја\n\n",
+        "image": "mk_memes_163.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_38",
+        "text": "БУГАРСКИ:\nКОРЕНИ\n\nанекс од\n12 ТОЧКи\n",
+        "image": "mk_memes_38.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_166",
+        "text": "СМЕНЕТЕ ГО ИМЕТО, ИЛИ\n",
+        "image": "mk_memes_166.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_162",
+        "text": "ЗА ВЛАКНО НЕ ДОБИВМЕ ДАТУМ.\n",
+        "image": "mk_memes_162.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_4",
+        "text": "ЕДНАШ ГИ ПОБЕДИВМЕ \"ДОБРОСОСЕДИТЕ\".\n\nKЕ ГИ ПОБЕДИМЕ ПАК!\n11 ОКТОМВРИ\nНЕ ГО СЛАВИМЕ ЗАЕДНИЧКИ\n",
+        "image": "mk_memes_4.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_256",
+        "text": "ГОДИНИ ОХРИДСКИ РАMКОВЕН ДОГОВОР",
+        "image": "mk_memes_256.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_243",
+        "text": "А МЕНЕ ПРОГАЊА\nJЕДНА ЧУДНА ЖЕНА\n\nJЕДНА\nИЗ БЛАГОЕВ - ГРАДА\n\n",
+        "image": "mk_memes_243.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_51",
+        "text": "НАРОДОТ\nНАРАЧА ЛИ ОД\nКИНЕСКИТЕ ВАКЦИНИ ?\n\nФИЛИПЧЕ\nСЕУШТЕ НЕ НИ\nОДОБРИЛЕ.ОД. НАТО.\n",
+        "image": "mk_memes_51.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_309",
+        "text": "JА ДОНЕСОВМЕ ЕВРОПА ДОМА.\n",
+        "image": "mk_memes_309.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_304",
+        "text": "БУГАРИТЕ ВЛЕГУВААТ ВО УСТАВОТ\n",
+        "image": "mk_memes_304.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_22",
+        "text": "мостич\n\nРОСЕН ПЕТРОВ\n",
+        "image": "mk_memes_22.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_285",
+        "text": "МИНИСТЕРКЕ!\nОВИЕ СОСЕМА ГИ УКИНАА\nУЧЕБНИЦИТЕ. А, ТАМАН СЕГА\nСЕ ДОГОВОРИТЕ ЗА\nЗА УЧЕЊЕ НА ЗАЕДНИЧКА\nИСТОРИЈА. ШТО СЕГА?\n\nЕМИ, ВЕТО И ЗА ТОВА!\n",
+        "image": "mk_memes_285.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_2",
+        "text": "Нещата започват да излизат извън\nконтрол!! \n",
+        "image": "mk_memes_2.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_104",
+        "text": "О, НЕ! MACKA!\n",
+        "image": "mk_memes_104.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_283",
+        "text": "ФАШИСТИ!\nИСТОРИЈАТА\nЕ НАУКА!\n\nТАА НЕ СЕ УКИНУВА!\n",
+        "image": "mk_memes_283.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_170",
+        "text": "Уживај Ти среди со Грците\n\nПрошетај гиз мојте\n",
+        "image": "mk_memes_170.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_185",
+        "text": "Как ще му кажа така ше пеe\n",
+        "image": "mk_memes_185.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_47",
+        "text": "МОЖЕВМЕ ПРВИ\nДА ИМАМЕ ВАКЦИНИ\n\nНЕ САКАВМЕ ДА\nМИСЛИТЕ ДЕКА ГИ\nТЕСТИРАМЕ НА ВАС\n\nРАДМИЛА ШЕЌЕРИНСКА\n",
+        "image": "mk_memes_47.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_296",
+        "text": "ВАЛЕНТАЈН БЕШЕ, ВАКА ИСТО. JА ЧЕКАВ, ЈА ЧЕКАВ\nСО ОТВОРЕНИ ЧУВСТВА. АМА НЕЈЗИНИОТ МАЖ..\nНЕ ЈА ПУШТИ.\n\nНАТО\n",
+        "image": "mk_memes_296.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_43",
+        "text": "ЧЕКАМЕ ВАКЦИНА АМА НЕ ЈА\nРЕГИСТРИРАВМЕ И НЕМАМЕ ПЛАН\nЗА ВАКЦИНАЦИЈА\n",
+        "image": "mk_memes_43.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_245",
+        "text": "евРОПСКА МАКЕДОНИЈО, Добро утро!\n",
+        "image": "mk_memes_245.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_218",
+        "text": "ПОПОВИ ПРСКАА СО СВЕТА ВОДА ПРОТИВ\nКОРОНАВИРУСОТ ВО ВЕЛЕС, НЕГОТИНО,\nКАВАДАРЦИ И ГЕВГЕЛИЈА\n",
+        "image": "mk_memes_218.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_363",
+        "text": "СКОПЈАНИ УТРЕ",
+        "image": "mk_memes_363.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_100",
+        "text": "NORMAL PEOPLE\n\nCONSPIRACY THEORIST\n",
+        "image": "mk_memes_100.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_172",
+        "text": "СМЕЈТЕ СЕ ВИЕ! АМА НИЕ СТАНАВМЕ ШВАЈЦАРИЈА!\n",
+        "image": "mk_memes_172.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_305",
+        "text": "ВАСИЛ, ВАСИЛ КРАСИВ И МИЛ. В ТВИТЕ КРИЛА, Е МОЈАТА СИЛА!\n",
+        "image": "mk_memes_305.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_169",
+        "text": "To warm my head\nTo warm my feet\nTo warm my hands\nTo warm my heart\n",
+        "image": "mk_memes_169.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_281",
+        "text": "ВНИМАНИЕ! ВАКЦИНАТА КЕ ПРИСТИГНЕ ПО НОВАТА\n\nЖЕЛЕЗНИЦА\n\nСОФИЈА - СКОПЈЕ\n\n",
+        "image": "mk_memes_281.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_242",
+        "text": "Датумот е стигнат до Петрич\n",
+        "image": "mk_memes_242.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_167",
+        "text": "Австрискиот канцелар пречекан со погрешно знаме\n",
+        "image": "mk_memes_167.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_286",
+        "text": "ЧЕКАЈКИ ГО\nБОЈКО\n\n",
+        "image": "mk_memes_286.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_254",
+        "text": "Рама Jaс зборувам а Меркел и\nМакрон запишуваат.\nВучик\n",
+        "image": "mk_memes_254.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_101",
+        "text": "ДЕЛТА\nCOJ\n",
+        "image": "mk_memes_101.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_289",
+        "text": "JАC, СО СРПСКА ИГЛА, НЕМА ДА СЕ БОДАМ!\n\n",
+        "image": "mk_memes_289.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_240",
+        "text": "ЌЕ НЕ СПАСИЩ ОД ГОЛЕМА АЛБАНИЈА?\n\nJАС ТРИ РАЛА ОПИНЦИ ИСКИНАВ, ДОДЕКА ТЕ ДОНЕСОВ ДО ТУКА.\n",
+        "image": "mk_memes_240.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_300",
+        "text": "СИТЕ СМЕ БЛГАРИ, И СЕ Е Б'ЛГАРСКО\nБ'ЛГАРИ СМЕ И ВОЈВОДИТЕ И КОМИТИТЕ..\n\n",
+        "image": "mk_memes_300.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_50",
+        "text": "КЕ ГИ НАРАЧАМЕ\nКИНЕСКИТЕ ВАКЦИНИ.\nСАМО НА ЗАЕВ ДА\nМУ ДООЗВОЛАТ оД НАТО.\n",
+        "image": "mk_memes_50.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_102",
+        "text": "STOP NATO !\n\n",
+        "image": "mk_memes_102.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_45",
+        "text": "АНТИ-ВАКСЕРИ\n",
+        "image": "mk_memes_45.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_253",
+        "text": "КАКО НЕ ПАГА оД ОВА ВЕТО?\n\nНЕМА ОПОЗИЦИЈА, ЗАТОА НЕ ПАГА.\n\nВЕТО\n",
+        "image": "mk_memes_253.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_298",
+        "text": "ПОЧИТУВАНИ,\nКАКО ШТО ГЛЕДАТЕ\nНИ СТИГНА КАРАМАТА.\n\nSputnik V\n",
+        "image": "mk_memes_298.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_287",
+        "text": "ПОПИСОТ Е НАШИОТ ПАТ КОН\n\nЕУТАНАЗИЈA\n\n",
+        "image": "mk_memes_287.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_105",
+        "text": "ФАЛА HATO\n\n",
+        "image": "mk_memes_105.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_369",
+        "text": "НЕ ТИ Е СКАП БЕНЗИНОТ\nНЕМАШ СЛУЖБЕНА КОЛА ХАХА",
+        "image": "mk_memes_369.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_7",
+        "text": "Традиционна българска двойкa!\nМъж и жена!\n",
+        "image": "mk_memes_7.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_326",
+        "text": "Среќни Новогодишнии Божиќни празници! 2024",
+        "image": "mk_memes_326.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_291",
+        "text": "ЦЕЛ ДЕН ТЕ НЕМА!\n\nНЕМОЈ ДА ЧИСТИШ СОТАА КРПА, КЕ НЕ УАПСАТ!\n\n",
+        "image": "mk_memes_291.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_96",
+        "text": "НЕМА ПОТРЕБА ОД ТЕРМИНИ ЗА ВАКЦИНИРАЊЕ\n\nНЕКА ЧЕКААТ ПО 3-4 СААТИ НА СОНЦЕ\n\nПРИРОДЕН ВИТАМИН Д\n",
+        "image": "mk_memes_96.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_179",
+        "text": "YUGOSLAVIA\nAFGHANISTAN\nLIBYA\nSYRIA\n",
+        "image": "mk_memes_179.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_112",
+        "text": "ПРЕД ВАКЦИНА\n\nПОСЛЕ ВАКЦИНА\n",
+        "image": "mk_memes_112.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "mk_memes_257",
+        "text": "ПРЕД ВАКЦИНА\n\nПОСЛЕ ВАКЦИНА\n",
+        "image": "mk_memes_257.png",
+        "label": "propagandistic"
+    }
+]
