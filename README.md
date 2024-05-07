@@ -157,21 +157,21 @@ In our ensemble, each model was fine-tuned with specific hyperparameters that op
 - **optimizer:** "adam"
 
 #### Model 7: MultiModal (Text-Embeddings-3-Large + CLIP ViT) (subtask 2a)
-- **alpha:** 
-- **batch_size:** 
-- **beta:** 
-- **beta1:** 
-- **learning_rate:** 
-- **threshold:** 
+- **alpha:** 0.7223389515334716
+- **batch_size:** 128
+- **beta:** 0.5988294510599028
+- **beta1:** 0.8241157015762189
+- **learning_rate:** 0.00001143725193237004
+- **threshold:** 0.7030603796002977
 - **optimizer:** "adam"
 
 #### Model 8: MultiModal (Text-Embeddings-3-Large with multilingual NER Features + CLIP ViT) (subtask 2a)
-- **alpha:** 
-- **batch_size:** 
-- **beta:** 
-- **beta1:** 
-- **learning_rate:** 
-- **threshold:** 
+- **alpha:** 0.9554773569147176
+- **batch_size:** 256
+- **beta:** 0.5574211699087009
+- **beta1:** 0.8820616638990478
+- **learning_rate:** 0.00004621549413784373
+- **threshold:** 0.7892825010021706
 - **optimizer:** "adam"
 
 
