@@ -1,0 +1,602 @@
+[
+    {
+        "id": "8",
+        "text": "МАКЕДОНИЯ и\nБЪЛГАРИЯ\nМАКЕДОНИЯ и\n- БЪЛГАРИЯ\nМОГАТ ДА СЕ РАЗБЕРАТ МОГАТ ДА СЕ РАЗБЕРАТ\nИ ДА СА В ХАРМОНИЯ\nИ ДА СА В ХАРМОНИЯ\nМАКЕДОНИЯИ БЪЛГАРИЯ\nМОГАТ ДА СЕ РАЗБЕРАТ\nИ ДА СА В ХАРМОНИЯ\nМАКЕДОНИЯЕ\nБЪЛГАРСКА!!!\n",
+        "image": "bg_memes_8.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "68",
+        "text": "@meme_partiq\nЦирк\nМного по-голям Цирк\n",
+        "image": "bg_memes_68.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_995",
+        "text": "Успях! Още 3 кила и съм на нула.",
+        "image": "bg_mk_memes_995.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "52",
+        "text": "ЕC: Няма повишение в броя на\nбежанците от Афганистан\n07.10.2021 | 00:41 мин. | Сваляне\n@meme_рartiq\nДинко от\nЯмбол:\n",
+        "image": "bg_memes_52.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_869",
+        "text": "NATO",
+        "image": "bg_mk_memes_869.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "49",
+        "text": "i\n2 часа след ваксинацията\nPIK\n",
+        "image": "bg_memes_49.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "67",
+        "text": "Аз: Няма да говоря за политика\nСъщо аз, след третата ракия:\n@meme рartiq\n",
+        "image": "bg_memes_67.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_961",
+        "text": "Байдън сподели мнението си за\nруската хиперзвукова ракета\n.Кинжал \": .Това е като всяка друга\nракета. Тя е почти неудържима.\n\"Тя има същата бойна глава\nкато всяка друга ракета. Няма\nголяма разлика, освен че е почти\nневъзможно да се спре\"\n\n",
+        "image": "bg_mk_memes_961.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_954",
+        "text": "Каква е\nситуацията в\nСофия,\nбългаритее\nвоюват ли с,\nнас\n\nСъдейки, по начина по\nкойто купуват олио.\nПетков трябва да е луд,\nда им даде оръжие\n\nИ ако все пак им,\nдаде\n\nПоловината ще\nстрелят по политици,\nдругата половина по\nпосолството на САЩ\n",
+        "image": "bg_mk_memes_954.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_945",
+        "text": "Как върви\nс Русия,\nобяви ли\nим война\n\nОще не, но\nработя по\nвъпроса\n\nТоя е по-добър\nот Зеленски\n",
+        "image": "bg_mk_memes_945.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_950",
+        "text": "Ало, Уил Смит? Чухте ли какво каза\nПутин за жена ви?\n",
+        "image": "bg_mk_memes_950.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "64",
+        "text": "Македония опитваща се да\nпродължи преговорите за\nвлизане в ЕС, 2021г(оцветено)\nRo\nimaflip.com\n",
+        "image": "bg_memes_64.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45",
+        "text": "Да, подкрепям ПППП\nПЕТИЛЕТКАТА ЗА\nЧЕТИРИ ГОДИНИ\nANCH\nПролетариата\nПетилетката\nПети интернационал\nПалави котенца.\n",
+        "image": "bg_memes_45.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_952",
+        "text": "Неутралитет за\nБългария.Ние сме братя\nи с руския народ и с\nукраинския народ!\n",
+        "image": "bg_mk_memes_952.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_826",
+        "text": "Руски танк, видял Байрактар, се\nпреструва на умрел...\n",
+        "image": "bg_mk_memes_826.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "40",
+        "text": "НЯМА ИЗВЪНРЕДНО\nПОЛОЖЕНИЕ\n",
+        "image": "bg_memes_40.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "20",
+        "text": "комунистите са\nотровили борис три\nнемците са\nотровили борис три\n",
+        "image": "bg_memes_20.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "75",
+        "text": "Никога не е била!\nЧакай, Земята не\nе македонска?\n",
+        "image": "bg_memes_75.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43",
+        "text": "ПРЕДИ И СЛЕД\nВАКСИНАТА\n",
+        "image": "bg_memes_43.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_830",
+        "text": "А Bue kЪgЕ бЯХmE, kОГamO на\nkueBckuя кмет брат му биеше\nбеззащитни българи?\n\n",
+        "image": "bg_mk_memes_830.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_942",
+        "text": "Подготвка за унищожаването на НАТО!\n",
+        "image": "bg_mk_memes_942.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "18",
+        "text": "САЩ\nТАЛИБАНИТЕ\n2001\nYerrzpTo Bzarapoko LļaperBo\nТАЛИБАНИТЕ\n2021\nimgflip.com\n",
+        "image": "bg_memes_18.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "76",
+        "text": "Тате Тате || даа\nАз съм\nМакедонфц\nthe\nЩе гориш на клада\nти атеист такъв\n",
+        "image": "bg_memes_76.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42",
+        "text": "Забавен Тъжен Ядосан\nЗабавен Тъжен Ядосан\nЗабавен Тъжен\nЯдосан\nSTARECAT.COM\nЗабавен Тъжен\nЯдосан\n",
+        "image": "bg_memes_42.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_964",
+        "text": "ЩА €бна у кокошката !\n",
+        "image": "bg_mk_memes_964.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_1024",
+        "text": "половин бутилка\nАвера който не е давал пари щото е болен и няма да пие\nАЗ",
+        "image": "bg_mk_memes_1024.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "38",
+        "text": "Coronavirus\nCOVID-19\nВаксината\n",
+        "image": "bg_memes_38.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_960",
+        "text": "АЗ СЪМ\nПРОТИВ NАТО И\nРАЗПОЛАГАНЕТО НА\nВОЙСКИ В БЪЛГАРИЯ\nРЕАCE\n",
+        "image": "bg_mk_memes_960.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "39",
+        "text": "\"Ако не си бяхме\nразвалили\nОТношенията с\nРусия, нямаше да\nНи Споделят\nТОЛКова беди.\nГоспод ни наказва\nза нашата\nнеблагодарносТ\nкЪм нея -нашата\nОСвободителка.\"\n16\nСА\nВанга\n",
+        "image": "bg_memes_39.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_987",
+        "text": "Видиш ли зор,\nзапали Беломор!\n",
+        "image": "bg_mk_memes_987.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "53",
+        "text": "7 победи на избори\nв една снимка\n@meme_partiq\n",
+        "image": "bg_memes_53.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47",
+        "text": "Моля Ви,\nуспокойте се!\nНе сме дошли\nNOVANEWS\nтук да правим\nциркове!\nL GGG\n",
+        "image": "bg_memes_47.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_833",
+        "text": "АЗ СЪМ ИЗУМРУДЕНИЯТ\nДРАКОН! САМО ВЪЗРАЖДАНЕ\nИ СВЕТИ ВЛАСТЕЛИН\nВЪЗРОДИТЕЛ!\n\nСПАСИТЕЛЯТ НА БЪЛГАРИЯ!\n\nКоце, пий си хапчетата\n",
+        "image": "bg_mk_memes_833.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "13",
+        "text": "КОГАТО КАЗВАТ ЧЕ ДОБРОТО\nВИНАГИ ПОБЕЖДАВАЛО, АМА СЕ СЕТИШ\nКОЙ ПОБЕДИ ПРЕЗ ВТОРАТА СВЕТОВНА ВОЙНА:\nTerezpro Bzarapcko 1lapergo\nimgflip.com\n",
+        "image": "bg_memes_13.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_963",
+        "text": "почакай къде хукна,\nне съм ти дал мозък\n\nНЕ МОГА...ТРЯБВА ДА\nКОМЕНТИРАМ\nсЪБитиятА и войната\nв УКРАЙНА\n",
+        "image": "bg_mk_memes_963.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41",
+        "text": "НИКОГА НЕ СЪМ ВЯРВАЛ, ЧЕ ОНОВА\nНАЧАЛО НА ВИЦОВЕТЕ ЩЕ СЕ ОКАЖЕ ИСТИНА:\nБАЙ ГАНЬО БЪЛГАРИНА\nИ БАЙ ГАНЬО АМЕРИКАНЕЦА...\nimgflip.com\n",
+        "image": "bg_memes_41.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "15",
+        "text": "Ol istoricheski_humor\nHOW IT STARTED\nLIVE KABUL\nAL JAZEERA EXCLUSIVE\nHOW IT'S GOING\nimof.com\n",
+        "image": "bg_memes_15.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_memes_468",
+        "text": "Отворете бузки...\n",
+        "image": "bg_memes_468.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "50",
+        "text": "ПРЕДИ ВАКСИНАТА\nСЛЕДВАКСИНАТА\nimgflip.com\n",
+        "image": "bg_memes_50.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_829",
+        "text": "почакай къде хукна,\nне съм ти дал мозък\n\nНЕ МОГА...ТРЯБВА ДА\nКОМЕНТИРАМ\nСЪБИТИЯТА и ВОЙНАТА\nВ УКРАЙНА\n",
+        "image": "bg_mk_memes_829.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_1010",
+        "text": "Но мамо, училището отваря след 6 дни?!\nНяма проблем. Ходете бавно!",
+        "image": "bg_mk_memes_1010.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_1005",
+        "text": "ТЕТРИС ЗА 40+ ГОДИШНИ",
+        "image": "bg_mk_memes_1005.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_memes_500",
+        "text": "Динко от Ямбол: Изкарвам танка, ако Русия ни застраши\n",
+        "image": "bg_memes_500.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_memes_498",
+        "text": "ПАНДЕМИЯ\n",
+        "image": "bg_memes_498.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24",
+        "text": "Демократичнг))\nБългария\nОБЕДИНЕНИЕ\nДемократична\nБългария\nИскам да живея\nв нормална\nдържава\nДемократична\nБългария\nОБЕДИНЕНИЕ\nEEEEEL\nДемократична\nБългария\nОБЕДИНЕН ИЕ\n",
+        "image": "bg_memes_24.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "22",
+        "text": "Какво съдържа ваксината\n\"Pfizer\"!\nна Бил Гейтс\nЛитий Потиска волята\nи желанието за борба.\nБарий Предизвиква рак\nстерилитети левкимия\nЖивак Убива имунната\nсистема и чер. кр. телца\nАлуминий Предизвиква\nрак и тромб във вените\nАнтифриз Унищожава\n'мозъчните клетки\nОЩЕ ЛИ ИСКАТЕ ДА\n20\nm СЕ ВАКСИНИРАТЕ ?\n",
+        "image": "bg_memes_22.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_984",
+        "text": "Какво има в Костя Копейкин: ACE\n\nКакво има в Кирил Петков:\n\n",
+        "image": "bg_mk_memes_984.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_934",
+        "text": "Откриха руски нефт в наши води!\n\n",
+        "image": "bg_mk_memes_934.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_867",
+        "text": "Платих на Америка\nедно време едни милиарди\nза едни изтребители!\n\nАми къде са, когато ни трябват?!\n",
+        "image": "bg_mk_memes_867.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_990",
+        "text": "От днес обявяваме koд \"Червено\" за цялата страна..",
+        "image": "bg_mk_memes_990.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_992",
+        "text": "усещам миризмата на сърми",
+        "image": "bg_mk_memes_992.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_847",
+        "text": "Министърът на отбраната в Италия\nвстъпва в длъжност!\nДа й пожелаем успех !\n\nНовый министр обороны Италии вступает в\nдолжность\n",
+        "image": "bg_mk_memes_847.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_943",
+        "text": "\"Да бъде проклета оная\nминута, когато е стъпил\nруски крак в нашата земя.\"\nЗахари Стоянов\n\n\"Русия не идва да ни\nосвободи, а да ни пороби,\nзавладее и погълне.\"\nСтефан Стамболов\n\n\"Длъжност свята към милото ни\nотечество налага ни да открием\nкакво нещо е тая Русия и нейното\nмъчителско правителство.\"\nГеорги Раковски\n",
+        "image": "bg_mk_memes_943.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_962",
+        "text": "Има бежанци и бежанци!\nЕдните са хора, а другите не са ли?\n\nUkraine\nMuslims\n\n",
+        "image": "bg_mk_memes_962.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "4",
+        "text": "КАК СЕ ЧУВСТВАТЕ?\nИЗВЕДНЪЖ УСЕТИХ\nНЕОБЯСНИМА НУЖДА\nДА СИ РЕГИСТРИРАМ WINDOWS-A\n",
+        "image": "bg_memes_4.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_832",
+        "text": "Тази чешма от 1762г. в центъра\nна Габрово е с 14 години\n\"по-голяма\" от САЩ\n",
+        "image": "bg_mk_memes_832.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_958",
+        "text": "Ако Путин нападне страна от\nНАТО, веднага ще изхвърля\nтази страна от НАТО\n",
+        "image": "bg_mk_memes_958.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_999",
+        "text": "Пътна инфраструктура Ви пожелава \"Обичайте се\"",
+        "image": "bg_mk_memes_999.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_965",
+        "text": "НЕКА БЪЛГАРСКИЯТ НАРОД\nДА НЕ ЗАБРАВЯ НИКОГА,\nЧЕ ДЪЛЖИ СВОБОДАТА СИ\nНА СВОИТЕ РУСКИ БРАТЯ,\nДАЛИ ЖИВОТА СИ ЗА НЕЯ!\n",
+        "image": "bg_mk_memes_965.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23",
+        "text": "Американьо, документи\nза проверка\nНямате право\nUN\nIN\nDONT TREAD ON ME\nGRIY SLOA\nNEMORIA\nHOSPITAL\nГаньо, документи за\nпроверка\nUN\nCOVID\nLIGMA\nvariont\n",
+        "image": "bg_memes_23.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_998",
+        "text": "Понякога просто трябва да оставим проблемите зад себе си.",
+        "image": "bg_mk_memes_998.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_828",
+        "text": "И двамата са от ВгъзРаждани\n",
+        "image": "bg_mk_memes_828.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_956",
+        "text": "Ще се откажем от менделеевата таблица,\nзащото е изобретена от руснак - Дмитрий\nИванович Менделеев!\n",
+        "image": "bg_mk_memes_956.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "66",
+        "text": "Македонците, когато\nзапочнат да разказват за\n\"великата\" си история\n@meme_partiq\n",
+        "image": "bg_memes_66.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_872",
+        "text": "Polish moms left strollers at a train\nstation for Ukrainian moms who may need them when they arrive in Poland with kids\n",
+        "image": "bg_mk_memes_872.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_840",
+        "text": "НЕ ЗНАМ ЗАЩО МЕ НАРИЧАТ КОПЕЙКИН.\n",
+        "image": "bg_mk_memes_840.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "1",
+        "text": "Когато се събудиш след като цяла\nнощ си се ваксинирала против\nкоронавирус/I\n",
+        "image": "bg_memes_1.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_948",
+        "text": "Кат РуZия няма вто...\nМлък!\n\n",
+        "image": "bg_mk_memes_948.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "21",
+        "text": "Хаос след изтеглянето на американските сили\nи превземането на Сойфия от моджохидините.\n(Летище Сойфия, 2021г., оцветено)\nБ AIR FORCЕ\n1109\nAMERICA FOR\n62 AW\nBULGARIA\n446 AW\nFOUNDATтION\nTEPMMNAA2 PT AL 2\n",
+        "image": "bg_memes_21.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_871",
+        "text": "ЭТО НАШИ ДРУЗЬЯ!\n",
+        "image": "bg_mk_memes_871.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_993",
+        "text": "СЛЕД ЧЕРНИЯ ПЕТЪК, ДОЙДЕ БЕЛИЯТ СНЯГ",
+        "image": "bg_mk_memes_993.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44",
+        "text": "2D2M\n22i\n2022\n7.\n",
+        "image": "bg_memes_44.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_846",
+        "text": "!!! ОСТАВКА !!! НА \"ЗЕЛЕНИЯ\" АНТИ-ЕКО МИНИСТЪР\n\n",
+        "image": "bg_mk_memes_846.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "5",
+        "text": "istoricheski_humor\nВЕТО\n",
+        "image": "bg_memes_5.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_849",
+        "text": "Неутралитет за България.Ние сме братя\nис руския народ и с украинския народ!\n",
+        "image": "bg_mk_memes_849.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_memes_447",
+        "text": "Путин усложнява изпитите по география\n",
+        "image": "bg_memes_447.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "48",
+        "text": "Очаквам кукери в министерски съвет през\nфевруари\nAFP\nМеждувременно В САЩ:\nPOL\n8YA6W8\nSaul Loeb/AFP\n",
+        "image": "bg_memes_48.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_memes_507",
+        "text": "БУЛГАРСКИИ РАМ БОСИЛЕК\n\nкто он?\n",
+        "image": "bg_memes_507.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_841",
+        "text": "Военна комисия в Евросъюза.\n\nЗапочнаха набиране на\nдоброволци за война с Русия...\n",
+        "image": "bg_mk_memes_841.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_866",
+        "text": "БЪЛГАРСКИЯТ НАРОД\nСЕ РАЗГРАНИЧАВА ОТ\nПРОДАЖНИТЕ ПОЛИТИЦИ!\nИСКАМЕ МИР С РУСИЯ\nИ БЪЛГАРИЯ - ВЪН ОТ\nФАШИСТКИТЕ МАФИИ!!\n",
+        "image": "bg_mk_memes_866.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "9",
+        "text": "АМЕРИКАНСКАТА МЕЧТА\nglasspar\nDoughboy\nCHATIES\nChiemen\nRayai Chaf\nБЪЛГАРСКАТА МЕЧТА\nHA\nКрушевац\nРазград\nДобрич\nФердинанд\nПлевен\nШумен\nНиш\nВарна\nН. пазар\nПирот\nВраца\nТьрново\nК. Митровица\nГаброво\nСОФИЯ\nСливен\nПрищина\nПерник\nЧерно море\n. Враня\nСтара Загора\nЯмбол\nБургася\nКюстендил\nПризрен,\nПазарджик\nПловдив\nКукъс\n.Куманово\nТетово\nСкопие\nГорна Джумая\nХасково\nВелес\nЩип\nОдрин\nЛозенград\nКърджали\nНеврокоп\nСмолян\n.Дебър\nСтрумица\nЛюлебургас\nПрилеп\nСтруго\nОхрид\nБитоля\nДрама\nКсанти гюмюрджина\nИстанбул\nРодосто\nКукуш\nКавала\nДедеајач\nЛерин\nВоден\nМраморно море\nКорча\nСолун\nостур\nСамотраки\nГалилоли\nКожани\nКатерини\nБяло море\nГревена\n.Чанаккале\n",
+        "image": "bg_memes_9.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_827",
+        "text": "КОПЕЙКИН СЪС СЕГАШНИЯ КУРС НА РУБЛАТА\n\n",
+        "image": "bg_mk_memes_827.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_845",
+        "text": "Тази вечер по залез слънце всички се молете\nДева Мария да спре войната в Украйна.\nПапата ще посвети Украйна и Русия на\nбезукорното сърце на Богородица!\n\nСподели, сподели,\nсподели .....\n",
+        "image": "bg_mk_memes_845.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_870",
+        "text": "As a BBC-funded journalist I have to\nremain consistently politically neutral.\nSo here's a photo of some flowers on a\nsunny day.\n",
+        "image": "bg_mk_memes_870.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_375",
+        "text": "М3: Навсякъде ще се влиза със зелен сертификат\n\nBest l can do is kpаш на системата ",
+        "image": "bg_mk_memes_375.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12",
+        "text": "Слави: Ще изпратим в Космоса\nжена, мъж и един македонец\nПартиите на протеста:\nMисия 121\nimgflip.com\n",
+        "image": "bg_memes_12.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_831",
+        "text": "Украинка учи чичо Ахмет,\nда говори Украински.\n\nКак тебя завут ?\nЯ тебя, иска да ашладисва.\n",
+        "image": "bg_mk_memes_831.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "65",
+        "text": "i\nbgnes.bg\nПредседателят на Македонската академия:\nРСМ е била под 100 години българско робство\n",
+        "image": "bg_memes_65.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_834",
+        "text": "КОЙ АРЕСТ Е\nУНИЗИТЕЛЕН?\n\n12 секунди\nна показ\n\n12 ЧАСА\nна показ с белезници зад\nгърба, без вода, тоалетна,\nпред медиите и\nобществото\n\n",
+        "image": "bg_mk_memes_834.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_946",
+        "text": "А Bue kЪgЕ бЯХmE, kОГamO на\nkueBckuя кмет брат му биеше\nбеззащитни българи?\n",
+        "image": "bg_mk_memes_946.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_966",
+        "text": "БЪЛГАРИ!\nНа 03.03, като празнувате Освобождението\nна България оТ Турско робство,\nхубаво си спомнете, кой виосвободи!\n",
+        "image": "bg_mk_memes_966.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "19",
+        "text": "САЩ\nТАЛИБАНИТЕ\n2001\nYerrzpTo Bzarapoko LļaperBo\nТАЛИБАНИТЕ\n2021\nimgflip.com\n",
+        "image": "bg_memes_19.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_989",
+        "text": "ДРУЖБА ОТ ВЕКОВЕ- ЗА ВЕКОВЕ!\n\nБЪЛГАРИЯ И РУСИЯ\n\n",
+        "image": "bg_mk_memes_989.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_997",
+        "text": "Коги намериш някой вечно недоволен като теб.\nНе е красиво.\nИ на мен не ми харесва.",
+        "image": "bg_mk_memes_997.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "69",
+        "text": "С тази шега албанският премиер Еди Рама\nсе обърна към македонския си колега\nЗоран Заев на икономическия форум в\nСкопие.\nДНЕВНИК bg\ndnevnik.bg\nЦитат на деня: Дано не поискат да се\nнаречете Западна България\n",
+        "image": "bg_memes_69.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_memes_508",
+        "text": "коврид\nковрид\nковрид\n\nмедии\n\nКоврид!\nУкрайна\nКлик\n\nУкрайна\nУкрайна\nУкрайна\nУкрайна\n",
+        "image": "bg_memes_508.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_947",
+        "text": "AUDI Q7 HA\nИЗТОЧНИЯ БЛОК\n",
+        "image": "bg_mk_memes_947.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_848",
+        "text": "МИШЕЛ ОТ СЪПРОТИВАТА\nРУСКИТЕ ШПИОНИ ВЪВ ФИЛМИТЕ\n\nРУСКИТЕ ШПИОНИ В ДЕЙСТВИТЕЛНОСТ\n",
+        "image": "bg_mk_memes_848.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_944",
+        "text": "НАЙ-ГОЛЕМИЯТ УЖАС ЗА РУСИЯ:\nАКТЬОР, КОЙТОЕ СТАНАЛ ПРЕЗИДЕНТ\n",
+        "image": "bg_mk_memes_944.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "bg_mk_memes_953",
+        "text": "МНОГО газ\nСело в Путинска Русия\n\nбез газ\nСело в джендърския ЕС/ Германия\n",
+        "image": "bg_mk_memes_953.png",
+        "label": "propagandistic"
+    }
+]

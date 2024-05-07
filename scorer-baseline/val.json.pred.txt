@@ -1,0 +1,602 @@
+[
+    {
+        "id": "46916",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35775",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44838",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41835",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46179",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33035",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30259",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23569",
+        "label": "propagandistic"
+    },
+    {
+        "id": "15206",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41803",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45222",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23263",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28757",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30193",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44993",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28534",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56093",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35044",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42044",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45095",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35861",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42887",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24979",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32543",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56152",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32102",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43439",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29244",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30169",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43042",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31430",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36093",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12563",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56046",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35718",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32038",
+        "label": "propagandistic"
+    },
+    {
+        "id": "26021",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45056",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45260",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30377",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31618",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47220",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56066",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44910",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56048",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44201",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47069",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45083",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12727",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44169",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35535",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29099",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31249",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56016",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41982",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12884",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45618",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46899",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56145",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46902",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46330",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43681",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31541",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46097",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31543",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45308",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47087",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56082",
+        "label": "propagandistic"
+    },
+    {
+        "id": "48161",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44685",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45306",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35018",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41410",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45630",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29703",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47897",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28635",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29705",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42546",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23679",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33584",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46172",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56149",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41628",
+        "label": "propagandistic"
+    },
+    {
+        "id": "26007",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30866",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29754",
+        "label": "propagandistic"
+    },
+    {
+        "id": "15321",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24896",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56147",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24166",
+        "label": "propagandistic"
+    },
+    {
+        "id": "49350",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32260",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31000",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46951",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45161",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24809",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23490",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46693",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45019",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56154",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56062",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56169",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56187",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24054",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33345",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56113",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34212",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33322",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45674",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43029",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45473",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30865",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45592",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44786",
+        "label": "propagandistic"
+    },
+    {
+        "id": "51094",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46252",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30529",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45320",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25611",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30791",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33505",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32306",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35558",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35893",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45704",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42078",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45454",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56170",
+        "label": "propagandistic"
+    },
+    {
+        "id": "48801",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36397",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34847",
+        "label": "propagandistic"
+    },
+    {
+        "id": "27927",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25475",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45653",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46765",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45234",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34217",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44443",
+        "label": "propagandistic"
+    },
+    {
+        "id": "15392",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25657",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44541",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34421",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32511",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44663",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44900",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12635",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12740",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46086",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30279",
+        "label": "propagandistic"
+    }
+]

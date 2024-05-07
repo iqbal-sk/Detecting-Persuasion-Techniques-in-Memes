@@ -1,0 +1,1802 @@
+[
+    {
+        "id": "28493",
+        "text": "PUTIN SCROLLING HIS INSTA FOR G20 NEWS BE LIKE:\\nG20\\nINDONESIA\\n1011",
+        "image": "prop_meme_12066.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12336",
+        "text": "President Trump has proven\\nthat a business man can run\\nthis country better than a\\npolitician ever could!\\nIG@Patriotic.Deplorables\\n",
+        "image": "prop_meme_342.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24720",
+        "text": "THE NOT A PRAYINGMAN, BUTFIRE WOULD\\nBE ON MY HANDS AND KNEES TRANKING THE\\nALMIGHTY THAT DOING THE WORST CRISIS IN\\nEUROPE SINCE 1945, THE UNITED STATES IS\\nLED BY JOE BIDEN, NOT DONALD TRUMP\\nશતાવ એ",
+        "image": "prop_meme_3342.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23847",
+        "text": "WHAT IF..\\nWE WERE HONEST WITH OUR K\\nGOVERNMENTS AND WEATHE\\nFOR\\nPERTH\\nTan\\nkel.\\nWILL YOU SETY, WE'RE BLANCAF\\nP\\nTHAT CONTROL THE\\nOF\\nTHE ACT\\nPROPAGANDA OF THE A\\nADUE\\n200",
+        "image": "prop_meme_4102.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35217",
+        "text": "BANA\\nwwww\\nCUBA, 2016\\nVENEZUELA, 2019\\nFANTASY LAND\\nI PREFER REAL SOCIALISM\\nI SAID REAL SOCIALISM\\nPERFECTION",
+        "image": "prop_meme_10986.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45439",
+        "text": "***\\nSenate Republicans\\n@NRSC\\n.@EdMarkey, this you?\\n#WENEEDNINE\\nEXPAND\\nTHE COURT",
+        "image": "prop_meme_18128.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45266",
+        "text": "fJAMES WEBB\\nTELESCOPE\\nMY GOODNESS,\\nTHE UNIVERSE IS\\nMASSIVE BEYOND\\nOUR WILDEST\\nIMAGINATION.\\nWISCONSIN STATE\\nTRIBINTAGE\\nBUT IT\\nSTILL\\nREVOLVES\\nAROUND\\nME!",
+        "image": "prop_meme_17955.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44244",
+        "text": "\\It's evident that some people\\nchiming in on the lockdown\\ndebate don't have families to sup-\\nport and have never worked hard\\nfor anything. They honestly\\ndon't understand why\\nlosing a job is so dev-\\nastating. The 'you're\\nputting money over\\npeople' [crap] is their\\nprivilege talking.\\\\n-MATT WALSH\\nTHE BEST POLITICAL ANALYSIS IS AT PATRIOTPOST.US",
+        "image": "prop_meme_24459.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56158",
+        "image": "prop_meme_24971.png",
+        "text": "I'M TAKING THE CAT\nDON'T TRY TO STOP ME",
+        "label": "propagandistic"
+    },
+    {
+        "id": "10156",
+        "text": "TRUMP IS FIGHTING FOR YOU\\nÇKS\\nFRU\\nJUST LIKE EVERY OTHER\\nDAY OF HIS PRESIDENCY\\n",
+        "image": "prop_meme_144.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24246",
+        "text": "JUST\\nUST DOING\\nDOING MY JUB\\\\n\\JUST DOING MY JOB.\\\\n\\JUST DOING MY JOB.\\\\n",
+        "image": "prop_meme_2616.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45349",
+        "text": "NAME 1 THING YOU\\nTRUST MORE THAN\\nThe\\nJOE BIDEN\\nore",
+        "image": "prop_meme_18038.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32161",
+        "text": "During the debate on the Health &\\nSocial Care Bill, Nadhim Zahawi\\nhelped the bill pass with a crucial\\nspeech where he called the bill\\na 'Brilliant piece of Legislation.\\nAfter it passed, a company called\\nSthree received contracts worth\\n£2.6m to profit out of the NHS.\\nWhat's the connection?\\nZahawi is a director at Sthree!\\nPILEUS",
+        "image": "prop_meme_8701.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34233",
+        "text": "My Children\\nOO\\nShould Be Allowed\\nThe Same Protection\\nAs Obama's Children",
+        "image": "prop_meme_10837.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41883",
+        "text": "MY GENERATION GREW UP\\nLOOKING FOR PENNIES, FIREFLIES,\\nLADYBUGS, & MAKING S'MORES.\\nYOUR GENERATION GREW UP\\nLOOKING FOR A WI-FI SIGNAL.",
+        "image": "prop_meme_16418.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46567",
+        "text": "\\Everything I don't like,\\nmust be banned.\\\\nLIBERAL\\n\\Everything I do like is\\na human right and must\\nbe paid for by others.\\",
+        "image": "prop_meme_19256.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23831",
+        "text": "USE THIS\\nOv\\nNOT THIS\\n0\\nsoluzame",
+        "image": "prop_meme_4086.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35454",
+        "text": "IF YOU SAY WE'RE IN THE MIDDLE\\nOF A DEADLY PANDEMIC BUT YOU\\nSTILL SUPPORT OPEN BORDERS\\nGu\\nTURNING\\nPOINT USA\\nYOU'RE EITHER A LIAR\\nOR A COMPLETE MORON",
+        "image": "prop_meme_11223.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44043",
+        "text": "Heroic Ted Cruz Travels To Cancun\\nTo Lasso The Sun And Bring It Back\\nTo Texas",
+        "image": "prop_meme_24258.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33591",
+        "text": "\\Mr. Smith, please explain to the committee\\nwhy you need a magazine that holds 30 rounds.\\\\n\\WHO DO YOU THINK YOU ARE? MY\\nrights come from GOD, not you. In fact, YOU\\nwork for ME. So why don't you tell me why the\\nDHS think they need a billion rounds of ammo?”",
+        "image": "prop_meme_10195.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47095",
+        "text": "X\\n*\\n55\\nHappy New Year\\nfrom U.S. Term Limits\\nU.S.\\nTERM\\nLIMITS\\ntermlimits.com",
+        "image": "prop_meme_15607.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35973",
+        "text": "\\They know\\nthey can't\\nwin on Election\\nDay so they're\\npursuing an\\nillegal,\\ninvalid, and\\nunconstitutional\\nbullshit\\nimpeachment.”\\n-President Trump",
+        "image": "prop_meme_6736.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44370",
+        "text": "IN CONGRESS FOR 30 YEARS\\n$193,400 SALARY\\nEPRESENT\\nNET WORTH\\n$196 MILLION!\\nDOESN'T THAT SOUND LIKE\\nSOMETHING WORTH INVESTIGATING?",
+        "image": "prop_meme_24585.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29119",
+        "text": "HOW IS OUR ALASKA DOING?",
+        "image": "prop_meme_12692.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28106",
+        "text": "The Evolution of a\\nDictator.",
+        "image": "prop_meme_13774.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23621",
+        "text": "We Both Voted for Biden\\ngra",
+        "image": "prop_meme_3871.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46048",
+        "text": "Imagine going back to 2005 and\\ntelling someone that these two men\\nwould one day be responsible for\\nbringing peace to the Korean\\npeninsula\\nSa Hardy",
+        "image": "prop_meme_18737.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24370",
+        "text": "On the FIRST day of the Ghislaine Maxwell trial\\nThe CEO of Twitter resigned\\nThe CFO of Walmart resigned\\nThe CEO of CNBC resigned\\n",
+        "image": "prop_meme_2741.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34392",
+        "text": "WHEN YOU WORK FOR DONALD\\nTRUMP AND GET CHARGED\\nCRIMINALLY.\\n4210 DRA\\n4210 - GRA\\nTRUMP\\nTHE TRUMP ARGANTATIO\\nT\\n\\I WAS TOLD THERE\\nWOULD BE PARDONS.\\",
+        "image": "prop_meme_5776.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25281",
+        "text": "COVID CEMETERY\\nWE OWNED\\nTHE LIBS!!\\nHELL YEAH\\nWE DID!\\n",
+        "image": "prop_meme_1895.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45132",
+        "text": "LIBERAL\\nA person so open-minded\\ntheir brains have fallen out",
+        "image": "prop_meme_17821.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29958",
+        "text": "Growing your own food is like\\nprinting your own money.\\nRon Finley",
+        "image": "prop_meme_5298.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "48299",
+        "text": "SO MUCH DAMAGE\\nIN SUCH A SMALL AMOUNT OF TIME",
+        "image": "prop_meme_14952.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32287",
+        "text": "56\\n\\I do roll my eyes\\nwhen I hear 'I don't\\nknow what I'm doing\\nhere' on Im A Celeb.\\nIt's an entertainment\\nTV booking. You're on\\nthere for one or more\\nof... 1) a paycheque 2)\\nto boost your profile\\n3) to rehabilitate your\\nimage. Simples.\\\\n- Martin Lewis on I'm A Celeb",
+        "image": "prop_meme_8827.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36122",
+        "text": "Sean Rayford/Getty Images\\nNYC Mayor Bill de Blasio drops out\\nof presidential race\\nL",
+        "image": "prop_meme_6885.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32916",
+        "text": "The Taliban has learned how to fly the\\nBlackhawks Joe left them. Civilians\\nhung, flying around for all to see.",
+        "image": "prop_meme_9520.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56042",
+        "image": "prop_meme_24855.png",
+        "text": "Me waiting for the phone to stop\nringing so I can text you and ask you\nwhat you want.",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24661",
+        "text": "THEN\\nMON",
+        "image": "prop_meme_3277.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12335",
+        "text": "WE CAN SURVIVE WITHOUT\\nTHE AMERICAN ATHLETE\\nRA\\nCDE\\nBUT NOT WITHOUT\\nTHE AMERICAN SOLDIER\\n",
+        "image": "prop_meme_341.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35079",
+        "text": "STICE\\nJINAL.STACL\\nIF YOU ONLY\\nNEWS\\n.COM\\nSTAGE\\n206\\näi\\nAPPARENTLY ISRAELI PRIME MINISTER NETANYAHU IS\\nCONCERNED ABOUT IRAN BECOMING MOUSER FROM\\nSUPER MARIO BROS.\\nImage by Michael Hayne\\nTwitter: @Mikehayne",
+        "image": "prop_meme_6463.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45443",
+        "text": "When Valid IDs Are REQUIRED:\\n• Transacting with a Bank\\n• Applying for Section 8 Housing\\n• Sending a Wire Transfer\\n• Applying for a H-1B Visa, or Green\\nCard\\n• Applying for Online Banking\\n• Applying for Store Credit\\nDriving\\n• Boarding an Airplane\\n• Purchasing a Car\\n• Getting a Car Registration\\n• Renting a Car / Boat / Jet Ski / etc.\\nBuying Insurance\\nBuying Train Tickets\\n.\\n• Obtaining a Passport\\n• Picking up mail from FedEx, UPS,\\nPost Office, etc.\\n• Establishing a Utilities Account (Water\\n/ Light / Electric / Cable/Gas/ etc.)\\nCashing a Check\\nGetting a Credit Card\\nOpening a Retirement Account\\n.\\nApplying for a Mortgage\\n• Buying a House\\n• Applying for Apartment Rentals\\n.\\nRenting a Hotel Room\\n.\\n• Renting Tools / Furniture / Equipment\\n• Visiting a Doctor's Office / Hospital\\nGetting Outpatient Testing\\n• Donating Blood\\n• Getting a Prescription\\n• Buying Certain OTC Cold Medications,\\nand products like nail polish remover.\\nApplying for a Job\\nApplying to School\\n• Applying for a Professional License\\nGetting Married\\n• Check Out a Book from the Library\\nJoining the Military\\n• Adopting a Child\\n• Buying a Cell Phone\\n• Going to Court\\nEntering Federal Buildings\\nGetting a Business License\\n• Getting a State ID\\n• Cashing in a Large Lottery Ticket Win\\n• Obtaining Medicare / Medicaid\\n• Holding a Rally or Protest\\nBuying a Firearm\\nVoting\\n• Adopting a Pet\\n• Applying for a Hunting License\\n• Applying for a Fishing License\\n• Joining a Gym\\n• Using Pawn Shops\\nBuying Annual Tickets to Amusement\\nParks\\n• Entering Night Clubs\\n• Volunteering at Non-Profit\\nOrganizations\\n• Voting in a Union Election\\n• Buying Cigarettes\\n• Buying Liquor\\n• Visiting a Casino\\n• Buying an \\M\\-Rated Video Game\\n• Going to Jail\\n• Participating in Outdoor Activites Like\\nSky diving, Bungee Jumping, etc\\n• Participating in Political Events\\n.\\n• Applying for Food Stamps\\n• Applying for Welfare\\n• Applying for Unemployment\\n• Using Social Security Services\\nWhen Valid IDs Are NOT Required:",
+        "image": "prop_meme_18132.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34831",
+        "text": "There's a dark vein of intolerance in\\nsome parts of the GOP.\\nWhen I see a former governor say\\nthat the President is \\shuckin' and\\njivin',\\ that's racial era slave term.\\nWhen I see another former\\ngovernor after the president's first\\ndebate where he didn't do very well,\\nsays that the president was lazy. He\\ndidn't say he was slow. He was tired.\\nHe didn't do well. He said he was\\nlazy.... The birther, the whole birther\\nmovement. Why do senior\\nRepublican leaders tolerate this\\nkind of discussion within the party?\\n-Fmr Secretary of State Colin Powell\\nIF YOU ONLY\\nNEWS\\nCOM",
+        "image": "prop_meme_6215.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41710",
+        "text": "ONCE I STARTED SPENDING\\nMY OWN MONEY I REALISED\\nMY MOM WAS RIGHT\\nBUMBLE\\nwww\\nWE DO HAVE FOOD AT HOME",
+        "image": "prop_meme_16245.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32211",
+        "text": "We are all living in an\\nunjust system which is\\ndesigned to only favour a\\nselect few, we can sell our\\none and only lifetime\\nworking towards the\\ncontinuation of their\\nprosperity or fight for\\nwhat's truly ours.\\nloT",
+        "image": "prop_meme_8751.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42876",
+        "text": "NATO - OTAN\\nMAANITUE\\n\\Many analysts, noticing that there are struggles other than class\\nstruggles which absorb much of the total political energy expended,\\nhave concluded that class analysis is of dubious relevance to the\\nunderstanding of political struggle. This is a curious inference. It would\\nseem more sensible to conclude that these non-class-based political\\nstruggles, that is, struggles among accumulators for political\\nadvantage, are evidence of a severe structural political weakness in the\\naccumulator class in its ongoing worldwide class struggle.\\\\nImmanuel Wallerstein\\nfhttp://www.facebook.com/communism101\\n2 ENGLISH",
+        "image": "prop_meme_17411.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44645",
+        "text": "FIRST COME... FIRST SERVE\\nFarm to Family\\nFRESH PRODUCE\\nBADGER WHOLE FARM\\nPACIFIC COAST\\nFRUIT COMPANY\\nESTEINEF\\nEASTWEST\\n• FOOD RESCUE.\\nMDPREALTY\\nFINDING YOUR DREAM HOME MADE EASY\\nFREE EVENT/DRIVE THRU ONLY\\nRAINER COMMUNITY CENTER/4600 38TH AVE SO-SEATTLE WA\\nSEPTEMBER 18TH/FRIDAY @ 10AM\\n500 FAMILY GROCERY\\nGIVEAWAY\\nBOXES\\n\\AND DO NOT FORGET TO DO GOOD AND TO SHARE WITH OTHERS,\\nFOR WITH SUCH SACRIFICES GOD IS PLEASED.\\ -HEBREWS 13:16\\nWHATCHA\\nSMOKIN\\nBBQ\\nSmoked with Southern Soul Seasoning & TLC\\nTHANK YOU TO OUR SPONSORS:\\nChukundi Salisbury\\nPS\\n206-549-0731\\nPRESTIGE STAFFING WHATCHASMOKINBBQ@GMAIL.COM\\nVXVIII\\nEVENTS\\n| JACK n ΡΟΥ\\nPOOBOOTIOON\\nATAVENTO\\nLBC\\nWe Like To Move It\\nFILIPINO CHAMBER OF COMMERC\\nOF THE PACIFIC NORTHWEST\\nNO MASK...NO GROCERY! PLEASE COMPLY.",
+        "image": "prop_meme_19614.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34229",
+        "text": "Ted Nugent\\nReferred to President Obama as a\\n\\subhuman mongrel,\\ “chimpanzee,\\\\nand a \\piece of shit\\ who should\\n\\suck on my machine gun.\\\\nCalled Hillary Clinton a\\n\\toxic cunt.\\\\nSaid,\\n\\I'm beginning to wonder if it\\nwould have been best [if] had\\nthe South won the Civil War.\\\\nMUGENT\\nFUL\\nSARMY",
+        "image": "prop_meme_10833.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35361",
+        "text": "These are the people who\\nreport your memes",
+        "image": "prop_meme_11130.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46699",
+        "text": "I KEEP HEARING ABOUT FREE COLLEGE\\nBUT NEVER FREE TRADE SCHOOL\\nI GUESS LEARNING A USEFUL SKILL ISN'T\\nAS IMPORTANT AS A LIBERAL ARTS DEGREE\\nimgflip.com",
+        "image": "prop_meme_19388.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41908",
+        "text": "Good morning, everyone. It's...\\nWhat fucking day is it now?",
+        "image": "prop_meme_16443.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56168",
+        "image": "prop_meme_24981.png",
+        "text": "When you're built\nfor feed not speed.",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56000",
+        "image": "prop_meme_24813.png",
+        "text": "Anxiety\nI think I forgot something.\nYeah, you're right.\ncá\nDepression\nIf you forgot, then\nit wasn't important.\n@BorderlineMemesForBorderlineDreams\nMy meds",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45003",
+        "text": "There once was a time the\\npresident was honored,\\npolice were respected,\\nnewborns were treasured,\\n& vets were revered. Let's\\nbring that back...",
+        "image": "prop_meme_17692.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56111",
+        "image": "prop_meme_24924.png",
+        "text": "Tas in Troy?\nNo Gabriella,\nT as in Trump's Twitter is suspended.\nC1068",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23400",
+        "text": "America is Great Again\\nbecause they are not\\nin charge anymore.",
+        "image": "prop_meme_3773.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56015",
+        "image": "prop_meme_24828.png",
+        "text": "me in the photos I upload vs. me in\nphotos I'm tagged in\nTI\n#TID",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33762",
+        "text": "1000 Years\\n6 Days",
+        "image": "prop_meme_10366.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45059",
+        "text": "★THE WAY TRUMP\\nHAS BEEN UNFAIRLY\\nTREATED BY SORE\\nLOSER DEMOCRATS\\nAND THE MEDIA ONLY\\nMAKES ME SUPPORT\\nHIM MORE!",
+        "image": "prop_meme_17748.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23579",
+        "text": "Un gr\\nIf it's above freezing, then it's ce\\ncream weather.\\n8:00-22",
+        "image": "prop_meme_3828.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "50148",
+        "text": "MERRY CHRISTMAS!\\nMAKE CHRISTMAS\\nGREAT AGAIN!",
+        "image": "prop_meme_23486.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28325",
+        "text": "imgflip.com\\nWho's\\nnext?\\nAll\\nof them",
+        "image": "prop_meme_13993.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "15334",
+        "text": "Gonna tell my kids this was one of the most\\nblood thirsty terrorist groups in the world.\\n",
+        "image": "prop_meme_1352.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "26043",
+        "text": "DA\\norm\\nTO FORR",
+        "image": "prop_meme_2971.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45075",
+        "text": "af\\nI STAND WITH\\nTRUMP, THE ONLY\\nPRESIDENT TO PISS\\nOFF BOTH PARTIES\\nWHILE KEEPING\\nEVERY PROMISE HE\\nMADE TO THE\\nAMERICAN PEOPLE.",
+        "image": "prop_meme_17764.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25562",
+        "text": "The White House\\n",
+        "image": "prop_meme_2179.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56055",
+        "image": "prop_meme_24868.png",
+        "text": "white people when there is\na new documentary about\na serial killer on netflix",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45667",
+        "text": "\\Somebody needs\\nto open\\nan investigation\\ninto\\nthe Democrat Party\\nto find out\\nif they have\\nany ties\\nto America.\\\\n-Laura Ingraham-",
+        "image": "prop_meme_18356.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45612",
+        "text": "Sick of my tax\\ndollars being\\nwasted digging\\nup dirt on Trump\\nwhile the\\nevidence is\\nblatantly clear\\nagainst Hillary\\nand Obama",
+        "image": "prop_meme_18301.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35000",
+        "text": "\\SAY WHAT YOU WILL ABOUT GEORGE W\\nBUSH, BUT HE WOULDN'T HAVE STOOD FOR\\nRUSSIAN AGGRESSION IN UKRAINE. HE'D\\nHAVE INVADED NEW ZEALAND BY NOW.\\\\n-DONAL O'KEEFFE\\nAMERICANS AGAINST THE REPUBLICAN PARTY\\nbit.ly/stopthegop",
+        "image": "prop_meme_6384.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24612",
+        "text": "NEW YORK POST\\nFATHER\\nKNOWS\\nWORST\\nJoe Biden claims\\nhe knew nothing\\nabout Hunter's\\nbusiness-here's\\n12 times HE DID\\nCALL",
+        "image": "prop_meme_3223.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44642",
+        "text": "ANTIFA OFFICER RANKS\\nOfficer Cadet Second\\nFirst\\n(No Insignia) Lieutenant Lieutenant\\nBrigadier\\nGeneral\\nMajor\\nGeneral\\nCaptain\\nLieutenant\\nGeneral\\nMajor\\nGeneral\\nLieutenant Colonel\\nColonel\\nMarshal of\\nANTIFA",
+        "image": "prop_meme_19611.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23884",
+        "text": "TRUMP ABRAMS",
+        "image": "prop_meme_4140.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32323",
+        "text": "mach n\\nINHNHOUS\\n\\How's\\nthat cock\\ntaste,\\nMatt?\\",
+        "image": "prop_meme_8863.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47160",
+        "text": "THANK YOU\\nU.S. Rep. Tom Rice\\nof South Carolina\\nCongressional District 7\\nfor cosponsoring\\nHOUSE JOINT RESOLUTION 12\\n(HJR-12)\\nto term limit Congress\\nU.S.\\nTERM\\nLIMITS\\ntermlimits.com",
+        "image": "prop_meme_15672.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42088",
+        "text": "Even the street signs are tired of it.\\nKAREN ST\\nSTOP",
+        "image": "prop_meme_16623.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34724",
+        "text": "JOE BIDEN HAS THE EXPERIENCE, CHARACTER,\\nAND DECENCY TO BRING US TOGETHER AND\\nRESTORE AMERICA'S GREATNESS. WE DESERVE\\nA PERSON WITH INTEGRITY AND JUDGMENT,\\nSOMEONE WHO IS HONEST AND FAIR,\\nSOMEONE WHO IS COMMITTED TO WHAT IS\\nBEST FOR THE AMERICAN PEOPLE.\\n- JIMMY CARTER\\nRENE\\nAMER\\n0",
+        "image": "prop_meme_6108.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44974",
+        "text": "unbossed\\nTreat a cop just like you treat a gun when\\nyou don't know whether it's loaded or not.\\nAssume that it is loaded and that it could\\ncause someone's death at any time. Remember\\nthat a cop, unlike most firearms, has no\\nsafety mechanism or standard method for\\nclearing them. Never point a cop at anyone\\nwhose blood you could not accept having on\\nyour hands.\\nSource: unbossed",
+        "image": "prop_meme_19943.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25623",
+        "text": "This is the America I miss.\\nThis is what was stolen from us.\\nThis is why we must all vote.\\nThis\\n",
+        "image": "prop_meme_2240.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35551",
+        "text": "LOU\\nThe Freedom Dog",
+        "image": "prop_meme_11320.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28550",
+        "text": "Kommersant Phot\\nOnly one sack of\\npotatoes??\\nDo Ladas come in\\nred?\\nanimersen Photo\\nKommersant PHPO\\nPh",
+        "image": "prop_meme_12123.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42299",
+        "text": "You see, there are people who believe that the\\nfunction of the police is to fight crime.\\nAnd that's not true; the function of the police\\nis social control and protection of property.",
+        "image": "prop_meme_16834.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46987",
+        "text": "NO H\\nWitty, entertaining political news\\n4/18/22\\nEp. 180\\nOl\\nUncertain\\nTERMS!\\nHow and when will\\nwe remove the mentally\\ncompromised from their\\ngovernment strongholds?\\nU.S.\\nTERM termlimits.com/podcast\\nLIMITS",
+        "image": "prop_meme_15499.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45047",
+        "text": "TUMP\\nTAX\\nIf Nancy Pelosi called\\nyou right now, what\\nwould you say to her?",
+        "image": "prop_meme_17736.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45138",
+        "text": "ad\\nUSA",
+        "image": "prop_meme_17827.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44019",
+        "text": "Avarage\\nChomsky\\nI'M\\nWITH\\nHER\\nVICE\\nNAH\\n5\\nNO MALARKEY\\nFRONT\\nACTION\\nCENTRAL INTE\\nINTELLIGENCE\\n*\\nAGENCY\\nON YOU\\nABCDEFG\\nHIJKLMN\\nOPQRSTU\\nWWXYZ♡\\n15\\nAvarage\\nParenti\\n主义毛泽东思想\\nTERS\\nL\\nE\\nCONTRARYNOTIONS\\nMICHAELPARENTI\\nenjoyers\\nFoundations of\\nLeninism\\nAV. Sale\\nV. 1. LENIN\\nIMPERIALISM,\\nTHE HIGHEST STAGE\\nOF CAPITALISM",
+        "image": "prop_meme_24234.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43591",
+        "text": "My New Year's\\nResolution is to...\\n6666\\nKeep Rooting for\\nTHIS MAN",
+        "image": "prop_meme_17578.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45801",
+        "text": "Lore/Tampa Bay Tivi AP\\nGG\\nWe should only\\nadmit into this\\ncountry those who\\nshare our values\\nand respect our\\npeople.\\n- Donald Trump\\nFOX\\nNEWS\\nCHARBR",
+        "image": "prop_meme_18490.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36044",
+        "text": "UNEMPLOYMENT FALLS TO\\nLOWEST LEVEL SINCE 1969\\nChris Kleponis - Pool/Getty Images",
+        "image": "prop_meme_6807.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31135",
+        "text": "Apparently Marjorie\\nTaylor Greene\\nwas taught how to\\ntell the truth by\\nKevin McCarthy\\nSTOP THE\\nSTEAL\\n@SeanEldridge",
+        "image": "prop_meme_7346.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41606",
+        "text": "My biggest fear about becoming\\na zombie is all the walking.",
+        "image": "prop_meme_16141.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32452",
+        "text": "10\\nI APOLOGISE FOR THE SHIT\\nSHOW THATS BEEN GOING\\nON AT MY HOUSE...I DONT\\nEVEN KNOW WHO THE FUCK\\nIS FEEDING ME ANYMORE.",
+        "image": "prop_meme_8992.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32733",
+        "text": "10\\nMy lover\\nBORIS\\nJOHNSON\\nwas very\\ngenerous with\\nHANDOUTS\\nfrom the British\\nTaxpayer.",
+        "image": "prop_meme_9273.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30313",
+        "text": "FIFA WORLD CUP\\nQatar2022",
+        "image": "prop_meme_8097.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36499",
+        "text": "The Simple Truth?\\nThose who have decided to support\\nthis lying, character-less hustler\\nas their favorite candidate\\nfor President of the United States,\\nhave told us a great deal\\nabout themselves!",
+        "image": "prop_meme_12889.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41355",
+        "text": "FF\\nI HAVE A VERY\\nSTRICT GUN\\nCONTROL POLICY:\\nIF THERE'S A GUN\\nAROUND, I WANT\\nTO BE IN CONTROL\\nOF IT\\nCLINT EASTWOOD\\n2A",
+        "image": "prop_meme_15890.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42251",
+        "text": "justgirlythings\\nwhen a song describes\\nexactly how you feel.\\nSing to the\\nMotherland, home\\nof the free,",
+        "image": "prop_meme_16786.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23300",
+        "text": "WHEN 15 SENATORS AREN'T\\nINTERESTED IN HEARING\\nTHE EVIDENCE AND ARE\\nSTILL ALLOWED TO VOTE,\\nTHE TRIAL IS RIGGED.\\nACTAFT REGION\\nCONT",
+        "image": "prop_meme_3666.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35056",
+        "text": "THE GOP UNDERCARD\\nDEBATE\\nMODERATORS ASKED THE FOUR\\nCANDIDATES QUESTIONS ABOUT\\nTHE ECONOMY, TAXES, AND\\nSOCIAL ISSUES. THEIR ANSWER\\nWAS OVERWHELMINGLY THE\\nSAME:\\nHILLARY CLINTON.\\nIF YOU ONLY\\nNEWS\\n.COM",
+        "image": "prop_meme_6440.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33794",
+        "text": "In 1997, Trump defied social norms buying his\\nestate in Palm Beach, Florida, then converting it into\\na private club. Other clubs in the Pam Beach area\\n\\had long barred Jews and African Americans.\\nTrump even went asking the town council to lift the existing\\nrestrictions on the club, and sending them a copy of, \\Guess Who's\\nComing To Dinner, a film.whose characters defy the race-based\\ndiscrimination of the day. Trump then approached the town council\\nabout lifting the restrictions that had been placed on the club.",
+        "image": "prop_meme_10398.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32943",
+        "text": "imgflip.com\\nSHOW ME YOUR PAPERS!",
+        "image": "prop_meme_9547.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24844",
+        "text": "Tm sorry, the story ST Lisa Markow\\nNT\\nMitt Romney and Susan\\nvote to confirm Ketan Brown Jackson\\nThe story is ALL the Republicans who\\nare voting AGAINST one of the\\nMOST qualified candidates for\\nthe Supreme Court EVER.\\\\n#FLEXGHOSTI\\nMAT\\nColleging to",
+        "image": "prop_meme_3473.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31975",
+        "text": "191,000 PEOPLE FROM 184 COUNTRIES\\nAND TERRITORIES DEMAND AN END TO\\nPOLICE VIOLENCE IN BELARUS\\nActivists from Canada to Chile, Sweden to Somalia\\nand Mongolia to New Zealand plus many, many\\nmore stand with peaceful protesters in Belarus.",
+        "image": "prop_meme_8018.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42108",
+        "text": "Love is in the air?\\nWrong.\\nNitrogen, Oxygen and Carbon\\nDioxide are in the air.\\nWORLD",
+        "image": "prop_meme_16643.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43416",
+        "text": "Mother Russia is gay,\\nDown with Russia all\\nthe way.\\nFor Mother Pussia\\nMake me a few ones\\nlike this, comrades.\\nFor Mother Russia\\n0507\\nBut 100 times bigger!\\nFRE\\nFor Mother Russia\\nReady for launch, comrade.\\nRussia is a piece of art,\\nI love you Russia from\\nmy heart!\\nFor Mother Russia",
+        "image": "prop_meme_22904.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29839",
+        "text": "you change the seat",
+        "image": "prop_meme_5179.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44898",
+        "text": "be soft\\nbut be ready",
+        "image": "prop_meme_19867.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45172",
+        "text": "REASON FOR HATRED?\\nTHE HATE THE LEFT HEAPS UPON\\nCHRISTIANS REVEALS WHAT\\nTHEY TRULY THINK...\\nTHAT CHRISTIANITY IS TRUE\\nAND JESUS IS THE SON OF GOD.\\nTHEY SIMPLY\\nDON'T WANT IT TO BE TRUE!",
+        "image": "prop_meme_17861.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35890",
+        "text": "Here's a booger for\\nyou",
+        "image": "prop_meme_6653.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23669",
+        "text": "Kindergartener Granted PhD in Biology\\nAfter Correctly Distinguishing Boy From\\nGirl\\nOX\\nWOMAN",
+        "image": "prop_meme_3919.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45254",
+        "text": "WANNA KNOW WHY\\nTHEY HATE TRUMP?\\nBECAUSE A 70 YEAR OLD MAN WITH\\nZERO POLITICAL EXPERIENCE\\nJUST BARGED IN AND ACCOMPLISHED MORE\\nIN 3 YEARS THAN THEY HAVE IN DECADES.",
+        "image": "prop_meme_17943.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "27762",
+        "text": "Push\\nHarder!\\nVAK\\nON\\nRussian Tank Factory",
+        "image": "prop_meme_13430.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32330",
+        "text": "That womans got no heart",
+        "image": "prop_meme_8870.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33456",
+        "text": "Everything we hear is an opinion,\\nnot a fact.\\nEverything we see is a perspective,\\nnot the truth.\\n- Marcus Aurelius-\\nEmperor of Rome from 161 to 180. He was\\nthe last of the \\Five Good Emperors\\.\\nGovernment Watch",
+        "image": "prop_meme_10060.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36881",
+        "text": "ARE THESE TWO\\nfacebook.com/TheRealCommonSenseConservative\\nREALLY THE BEST\\nWE CAN COME UP WITH?\\nimgflip.com",
+        "image": "prop_meme_13271.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12674",
+        "text": "ALEX\\n\\FLORIDA SUN NOW SERVES\\nAS A BEACON OF LIGHT TO\\nTHOSE WHO YEARN FOR\\nFREEDOM.\\\\nGOVERNOR RON DESANTIS\\n",
+        "image": "prop_meme_680.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12632",
+        "text": "IMAGINE IF YOU WILL\\nDAllegranceTouberty\\nA WORLD WHERE MEMES ARE FACT\\nCHECKED BUT BALLOTS AREN'T...\\n",
+        "image": "prop_meme_638.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45239",
+        "text": "SwampMonsters.news\\nⒸ2022 Creators.com\\nBRANCO\\nTRS\\nEXPANSION\\nDON'T WORRY HE\\nWON'T BITE",
+        "image": "prop_meme_17928.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "49859",
+        "text": "Mexican Word of the Day:\\nJULY\\nYou say we're gonna pay\\nfor your wall? JULY!",
+        "image": "prop_meme_22296.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44846",
+        "text": "AHH...\\nbougousie\\nboojwazie\\nboojuasie\\nboujie\\nFALSEKNEES Ⓒ2020",
+        "image": "prop_meme_19815.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29191",
+        "text": "Posted by a friend:\\nJun\\nNow up around Moscow. I do not believe Putin\\nis a saint by any means, but these pictures\\nshould give you some clue as to why our\\ndiabolically-communist government of the\\nWest fears a rapid return to Christ via the Holy\\nTheotokos in the East.",
+        "image": "prop_meme_11542.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28339",
+        "text": "THERE ARE THREE STEPS\\nTO WRITING A PAPER:\\nPUTIN IT OFF, STALIN, AND\\nRUSSIAN TO GET IT FINISHED\\nImgflip.com",
+        "image": "prop_meme_14007.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45316",
+        "text": "Are we banning\\nrap music yet?\\nIt's a lot more\\nracist than\\nPancake syrup\\nor rice.",
+        "image": "prop_meme_18005.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46478",
+        "text": "New York\\n05:31 PM\\nTHE NFL UNVEILS\\nTHEIR NEW OFFICIAL\\nNPL\\nMIKE RILLING\\nNPL\\nBREAKING NEWS\\nNFL Commissioner Releases statement\\nHe will be the grand Marshall at next women's march\\nREGULATION HELMET\\nLIVE\\nmematic.net\\nNPL",
+        "image": "prop_meme_19167.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29919",
+        "text": "YOU'RE NOT\\nSUPPOSED TO BE\\nSO BLIND WITH\\nPATRIOTISM THAT\\nYOU CAN'T FACE\\nREALITY. WRONG IS\\nWRONG, NO MATTER\\nWHO DOES IT OR\\nSAYS IT.\\nMalcolm X\\nBIL STREET JOURNAL",
+        "image": "prop_meme_5259.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12438",
+        "text": "Trump pulls up and says:\\n\\Want a ride?\\. You hop in.\\nWhat do you tell him?\\nMAKE AMERICA\\nGREAT AGAN\\n",
+        "image": "prop_meme_444.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35392",
+        "text": "How It Started:\\nhow\\ntwitter.com/legac\\nHow It's Going:\\nD\\n********\\n@ahernandez85b",
+        "image": "prop_meme_11161.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24494",
+        "text": "you cannot be free from fear,\\nhate, depression or anxiety,\\nUnless you first become aware\\nthat this System is designed\\n",
+        "image": "prop_meme_2867.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33003",
+        "text": "25\\nElection Wizard\\n@Election Wiz\\nSHAMEFUL: Several members\\nof the U.S. Women's National\\nSoccer Team turned their backs\\nas 98-year-old World War II\\nveteran Pete DuPré played the\\nNational Anthem on his\\nharmonica.\\nPU",
+        "image": "prop_meme_9607.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56059",
+        "image": "prop_meme_24872.png",
+        "text": "coronavirus\nmy order from wish.com",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47866",
+        "text": "YOU WERE WARNED ABOUT BREXIT\\nBUT YOU CONTINUED TO\\nIGNORE THE WARNINGS",
+        "image": "prop_meme_14519.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "48519",
+        "text": "MAYBE INSTEAD OF TEACHING OUR KIDS\\nTO RESPECT FLAGS AND ANTHEMS\\nWE SHOULD TEACH THEM TO RESPECT\\nJUSTICE AND HUMANITY",
+        "image": "prop_meme_15172.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43694",
+        "text": "DID YOU KNOW...\\nSTALING\\nAND MAR\\nKILLED 150\\nBILLION PEOPLE?\\nTHATS EVERYONE THAT HAS\\nEVER EXISTED AND\\nWILL EXIST\\nYOU ARE DEAD AND\\nIN HELL CUZ STALIN AND\\nMAO KILLED YOU\\nINCLUDING YOU\\nYOU ARE DEAD\\nTHIS SUCKS RIGHT?\\nBEING IN HELL FUCKING SUCKS\\nCLEJ",
+        "image": "prop_meme_23909.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42340",
+        "text": "IMPERIALISM, BY ITS\\nVERY ESSENCE, IS\\nWHAT TRANSFORMS\\nMEN INTO BEASTS.\\nApenyudmader\\nCHE GUEVARA\\n%\\nX",
+        "image": "prop_meme_16875.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44042",
+        "text": "Franklin Graham:\\nDemocrats are trying to\\n'erase' everything Trump\\nhas done\\nBy Sky Palma\\nPosted on February 19, 2021",
+        "image": "prop_meme_24257.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56089",
+        "image": "prop_meme_24902.png",
+        "text": "Him: I'm an animal in bed\nHer: Show me\nHim",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35329",
+        "text": "THREE THINGS THAT\\n99%\\nOF LIBERAL MEMES HAVE IN COMMON\\nimgflip.com\\n1\\n2\\n3\\nTHE SUBJECT IS\\nDONALD TRUMP\\nCOMMENTS DISABLED\\nEl\\nCOMMENTS ARE\\nALWAYS DISABLED\\nBASED OF FAKE NEWS\\nMSNBC/CNN REPORTS",
+        "image": "prop_meme_11098.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33948",
+        "text": "IF THIS IS YOUR\\nBEST CANDIDATE FOR 2016\\nYOU'RE PROBABLY TOO STUPID TO\\nFUNCTION PROPERLY IN FREE SOCIETY!",
+        "image": "prop_meme_10552.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35686",
+        "text": "THE LARGEST \\OFFICIAL\\ ARMY\\nCOMMUNIST CHINA: 2,500,000\\nTHE LARGEST \\UNOFFICIAL\\ ARMY\\nAMERICAN GUN OWNERS:70,000,000+\\nTHE FOUNDING FATHERS KNEW\\nWHAT THEY WERE DOING",
+        "image": "prop_meme_11455.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56096",
+        "image": "prop_meme_24909.png",
+        "text": "YOU'RE RIGHT, BB-8\n@so no head\nTHE PERSON READING THIS\nDOES HAVE The big sad",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41801",
+        "text": "Remember when everyone knew\\npro wrestling was fake and they\\nfinally admitted it and the fans\\ndidn't care and continued to watch\\nit anyway?\\nWe're almost there with politics\\nand the media.",
+        "image": "prop_meme_16336.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12668",
+        "text": "THE NATIONAL\\nGUARD SHOULD\\nBE AT THE\\nBORDER.\\nNOT AT\\nTHE U.S.\\nСAPITOL\\nGet the best Conservative News\\nGTrendingPolitics.com\\\\n",
+        "image": "prop_meme_674.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45304",
+        "text": "TOP REPUBLICANS CONSIDER\\nIMPEACHING JOE BIDEN AFTER\\nMIDTERM ELECTIONS",
+        "image": "prop_meme_17993.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56033",
+        "image": "prop_meme_24846.png",
+        "text": "IT\nMe, driving\npeacefully\nMy wife gasping for\nno reason, almost\nmaking us crash",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41672",
+        "text": "How aliens see earth in movies\\n0",
+        "image": "prop_meme_16207.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30421",
+        "text": "HER BEST YOUR\\nFRIEND GIRLFRIEND\\nYOU\\nYOUR WOOD\\nSHOP TEACHER",
+        "image": "prop_meme_8205.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42935",
+        "text": "\\They didn't have any rights to the land, and there was no reason for\\nanyone to grant them rights which they had not conceived and were\\nnot using [...] What was it that they were fighting for, when they\\nopposed white men on this continent? For their wish to continue a\\nprimitive existence, their 'right' to keep part of the earth untouched,\\nunused and not even as property, but just keep everybody out so\\nthat you will live practically like an animal, or a few caves above it.\\nAny white person who brings the element of civilization has the\\nright to take over this continent.\\\\nAyn Rand\\nThe enemy is class conscious.\\nAre you?\\nf http://www.facebook.com/communism 101",
+        "image": "prop_meme_17470.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36684",
+        "text": "these are the kids you sell a gram\\nof oregano to for $25\\nTRUME\\nMAKE AMERICA(\\nTRUMP\\nKE AMERICIGREAT ALAIN\\nRUMP\\nLAKEMENCA GREAT AGAIN!",
+        "image": "prop_meme_13074.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56004",
+        "image": "prop_meme_24817.png",
+        "text": "My body and mind\nscreaming at me to take\ncare of myself and not\nburn myself out\nme ignoring\nwarning signs of\nanother mental\nhealth relapse\n@MENTALLYTHRILLMEMES",
+        "label": "propagandistic"
+    },
+    {
+        "id": "49677",
+        "text": "SATIRE\\nS\\nRATED\\nHI, I'M\\nREPRESENTATIVE\\nGEORGE SANTOS,\\nFORMER\\nASTRONAUT, NBA\\nFINALS MVP\\nAND OSCAR WINNER.\\nYEAH, THAT'S THE TICKET!\\nimgflip.com",
+        "image": "prop_meme_23305.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56204",
+        "image": "prop_meme_25017.png",
+        "text": "NAME A SONG WITH\nA NUMBER IN IT",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44847",
+        "text": "HD\\nA\\nARM THE POOR!\\nGIVE POWER TO THE PEOPLE!",
+        "image": "prop_meme_19816.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32403",
+        "text": "Man of the people\\nI once wrote 'mB\\non an email\\nI drove past a\\nI know who Harry\\nRedknapp is\\nNando's\\nlast week\\n20051\\nI met a\\nplumber once I once went\\nsainsburys\\nto a\\nmetro",
+        "image": "prop_meme_8943.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44749",
+        "text": "I believe in the\\n2nd Amendment,\\nbut nobody says\\nyou can have a\\nmagazine with\\n100 clips in it.\\n-Joe Biden,\\nPresidential Candidate\\n[FPC]\\nFIREARMS\\nPOLICY\\nCOALITION",
+        "image": "prop_meme_19718.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35402",
+        "text": "IF I ONLY HAD A...\\n...YOU KNOW, YOU KNOW\\nTHE THING",
+        "image": "prop_meme_11171.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36576",
+        "text": "SEPTEMBER 1, 1994\\nUNLV SPECIAL COLLECTIONS\\nSHE'S A REALLY BEAUTIFUL BABY.\\nSHE'S GOT MARLA'S LEGS.\\nCOMEDY SCENES\\nSEPTEMBER 1, 1994\\nUNLV SPECIAL COLLECTIONS\\nWE DON'T KNOW WHETHER OR NOT SHE'S\\nGOT THIS PART YET, BUT TIME WILL TELL.\\nMEINE",
+        "image": "prop_meme_12966.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23751",
+        "text": "How's 2022 Goin'",
+        "image": "prop_meme_4004.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31841",
+        "text": "SHOT DEAD\\nBY A POLICE OFFICER DURING\\nA PEACEFUL PROTEST\\nROSSY MUKENDI\\nTSHIMANGA\\nJUSTICE\\nMAINTENANT!",
+        "image": "prop_meme_7884.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41649",
+        "text": "THE SYSTEM WAS NEVER\\nDESIGNED FOR YOU TO WIN\\nTHAT'S WHY YOU MUST BREAK ALL THE\\nRULES AND CARVE YOUR OWN PATH",
+        "image": "prop_meme_16184.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56133",
+        "image": "prop_meme_24946.png",
+        "text": "Using my phone\nbecause I can't sleep\nCan't sleep because\nI'm using my phone",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43502",
+        "text": "When this guy\\nwas President...\\nI felt a LOT\\nsafer",
+        "image": "prop_meme_17489.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45546",
+        "text": "66\\nDON'T LOCKDOWN THE\\nCOUNTRY.\\nDON'T IMPOSE CURFEWS.\\nDON'T CLOSE SCHOOLS.\\nLET AMERICANS DECIDE\\nFOR THEMSELVES.\\nAND CELEBRATE\\nTHANKSGIVING.\\n99\\n- Jim Jordan\\nGet The Best Patriotic Gear\\nILoveMyFreedom.com\\nTM",
+        "image": "prop_meme_18235.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30697",
+        "text": "1110\\nBRA\\nSOLIYER\\ntrass\\nbel Se\\nCONGO\\ngelten\\nCAMODEA\\nMAMIRIA\\nKEEP COMPLYING,\\nIDIOTS\\nbilet\\ndo\\n10000",
+        "image": "prop_meme_8481.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33798",
+        "text": "BBC WORLD\\nNews Update\\nWTC7\\nis still\\nhere\\nTERRORISM ATTACKS IN US\\nLIVE The 47 storey Salomon Brothers building close\\nto the World Trade Centre has also collapsed.",
+        "image": "prop_meme_10402.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42148",
+        "text": "Look at this, no cell phones or television,\\njust a family enjoying time together.\\nmade with mematic\\n0000000000\\n310 PODER",
+        "image": "prop_meme_16683.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36705",
+        "text": "DONALD TRUMP:\\n1999: Partial-birth abortion\\n1999: Wealth tax\\n2000: Gun control\\n2008: Impeachment of George W. Bush\\n2009: Government economic stimulus\\n2009: Bank nationalization\\n2013: Illegal alien amnesty\\n2015: Private eminent domain abuse\\n2015: Universal government health care\\n2016: Declares himself conservative\\nW\\nCRUZ\\nTRUMP SUPPORTERS\\nHAVE CHOSEN...\\nPOORLY.",
+        "image": "prop_meme_13095.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44924",
+        "text": "BRF\\nHi\\n123RF\\ngun\\ncontrol\\nis\\nracist\\n123RF\\n123RF",
+        "image": "prop_meme_19893.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42932",
+        "text": "People who dismiss the unemployed\\nand dependent as \\parasites\\ fail to\\nunderstand economics and parasitism.\\nA successful parasite is one that is not\\nrecognized by its host, one that can\\nmake its host work for it without\\nappearing as a burden. Such is the\\nruling class in a capitalist society.\\n- Jason Read",
+        "image": "prop_meme_17467.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24082",
+        "text": "Epe b NY\\n1997\\n2001\\n2001\\nFreejack 200\\nPotnan 2013\\nRo 201s\\nBad to The e 2\\n2015\\nARE HE\\nthe Ruing Man\\n2017\\nRollebol\\n2018\\nMade Ruer\\n2019\\nSoylet Green\\nOidren of Men\\n2022\\n2027\\n12 Mokes\\n2028\\nDemolion Mon\\n2002\\n2038\\nEve Horiaon 2047\\n2054\\n2064\\nAL 210\\nVor Vendeta\\nMinority Repon\\nSan Recl\\nAlan\\n2122\\nThe bak Hole\\n2130\\nSper\\n273\\nthe Mo\\n2199\\nforbidden Moret\\n|2220\\nThe Elemet\\n2203\\nZardea\\n2293\\n2347\\nShar T\\nLagn's Run\\n2500\\n",
+        "image": "prop_meme_2452.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41622",
+        "text": "My Grandmother told me \\never\\nsay You are Sick. Even if you are\\nSick. Say you are healing.\\nWords do manifest\\.",
+        "image": "prop_meme_16157.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32532",
+        "text": "I can't believe it's Christmas in 2 months\\nLess than 24 chancellors to go now babe",
+        "image": "prop_meme_9072.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30833",
+        "text": "Remember to wash your hands\\nafter touching a dirty animal",
+        "image": "prop_meme_9391.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56014",
+        "image": "prop_meme_24827.png",
+        "text": "When you made\nyour crush laugh\nI have achieved\ncomedy",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23318",
+        "text": "MAJOR BREAKING\\nThe Biden's appear before\\nthe Super Bowl to thank\\nfront line workers and honor\\nAmericans lost to COVID.\\nIsn't this how a real\\nFirst Family acts?\\nCALL SATURDA",
+        "image": "prop_meme_3685.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "10093",
+        "text": "DO YOU MISS PRESIDENT TRUMP?\\n",
+        "image": "prop_meme_81.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "15502",
+        "text": "-*Ukranian navy ships enter\\nRussian waters*\\n-*Russian navy interceptes\\nthem*\\nWest:\\n",
+        "image": "prop_meme_1520.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47167",
+        "text": "PODCAST HOSTS: HELP SPREAD THE WORD\\nabout Term Limits on Congress and\\nthe No Uncertain Terms Podcast\\ntermlimits.com\\nU.S.\\nTERM\\nLIMITS",
+        "image": "prop_meme_15679.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33501",
+        "text": "\\They claim to be super-patriots, but\\nthey would destroy every liberty\\nguaranteed by the Constitution. They\\ndemand free enterprise, but are the\\nspokesmen for monopoly and vested\\ninterest. Their final objective toward\\nwhich all their deceit is directed is to\\ncapture political power so that, using\\nthe power of the state\\nand the power of the\\nmarket simultaneously,\\nthey may keep the\\ncommon man in\\neternal subjection.\\\\n-\\nVice President\\nHenry Wallace\\nSpeaking of\\nAmerican Fascists\\nHOOD",
+        "image": "prop_meme_10105.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43543",
+        "text": "This Afghanistan\\nmess?\\nWould NEVER have\\nhappened on\\nTrump's watch",
+        "image": "prop_meme_17530.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43605",
+        "text": "BREAKING NEWS\\nTMENT\\nOF\\nJU\\n10/20/2020\\nFirst Lady Melania Trump\\ncancels rally appearance in PA\\ndue to lingering symptoms",
+        "image": "prop_meme_17592.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47980",
+        "text": "#politicslive\\nWho Voted\\nFor This?\\nGREENPEACE",
+        "image": "prop_meme_14633.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30144",
+        "text": "BOMBED SYRIA, YEMEN, AFGHANISTAN,\\nIRAQ, LIBYA, SOMALIA, AND PAKISTAN\\nALFR\\nOBEL\\nBac\\nME\\nXX\\nM\\nPEOPLE STILL DRIVING AROUND WITH\\n\\OBAMA FOR PEACE\\ BUMPER STICKERS.",
+        "image": "prop_meme_5484.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46428",
+        "text": "\\I hope the Fake News Media keeps talking\\nabout Wacky Congresswoman Wilson\\nin that she, as a representative,\\nis killing the Democrat Party!\\\\n-@realDonald Trump\\nV/FOX\\nNEWS\\nchannel",
+        "image": "prop_meme_19117.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "27865",
+        "text": "Poster by Meda Dargyte, Lithuania\\nPUT IN\\nTHE TRASH\\nwww.posterwar.com",
+        "image": "prop_meme_13533.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36673",
+        "text": "\\I KNOW WORDS, I HAVE THE BEST\\nWORDS.\\\\nTRUMP\\nTHE BIGGEST WORD I'VE EVER HEARD YOU\\nSAY IS THE WORD, \\TREMENDOUS.\\\\nmakeameme.org",
+        "image": "prop_meme_13063.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47068",
+        "text": "Ron Crane Appointed Chair of\\nIdaho for Congressional Term Limits\\nU.S.\\nTERM\\nLIMITS\\ntermlimits.com",
+        "image": "prop_meme_15580.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42938",
+        "text": "FIGHT\\nOR\\nPO STARVE\\nNITY OF\\nWHITE AND\\nNEGROWOR\\nERC\\nWE DEMAND\\nWORK\\nWALES\\nOR\\n\\We are the offspring of metropolitan annihilation and destruction, of the war of all\\nagainst all, of the conflict of each individual with every other individual, of a system\\ngoverned by fear, of the compulsion to produce, of the profit of one to the detriment of\\nothers, of the division of people into men and women, young and old, sick and healthy,\\nforeigners and Germans, and of the struggle for prestige.\\nWhere do we come from?\\nFrom isolation in individual row-houses, from the suburban concrete cities, from prison\\ncells, from the asylums and special units, from media brainwashing, from\\nconsumerism, from corporal punishment, from the ideology of nonviolence, from\\ndepression, from illness, from degradation, from humiliation, from the debasement of\\nhuman beings, from all the people exploited by imperialism.\\\\nUlrike Meinhof\\nhttp://www.facebook.com/communism 101",
+        "image": "prop_meme_17473.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28908",
+        "text": "Drink comrade Sergey. Tea\\nis good for a heart attack.\\nBut I never had\\na heart attack.",
+        "image": "prop_meme_12481.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36401",
+        "text": "I DON'T ALWAYS REJECT NANCY'S USE OF MILITARY PLANES\\nmelip\\nBUT WHEN I DO,\\nI WAIT UNTIL SHE'S ON THE WAY TO THE AIRPORT.",
+        "image": "prop_meme_12791.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36399",
+        "text": "DEMOCRATS DENY ANTISEMITISM\\nNew York Democrat\\nSenator Kirsten Gillibrand\\ngives SECRET NAZI salute!",
+        "image": "prop_meme_12789.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42265",
+        "text": "\\You don't fight fire with fire. You fight fire\\nwith water. We're gonna fight racism\\nwith solidarity. We're gonna fight capital-\\nism with socialism. Socialism is the people. If\\nyou're afraid of socialism, you're\\nafraid of yourself\\ Fred Hampton\\nS",
+        "image": "prop_meme_16800.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28431",
+        "text": "Hundreds of Russian soldiers\\ncaptured with new trap,\\nUkraine says\\nWW",
+        "image": "prop_meme_13327.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41629",
+        "text": "YOU CAN DO\\n99 THINGS FOR SOMEONE\\nAND ALL THEY REMEMBER\\nIS THE ONE THING YOU DIDN'T DO",
+        "image": "prop_meme_16164.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56019",
+        "image": "prop_meme_24832.png",
+        "text": "You're spending money to watch Joker\nthis weekend when you can look in the\nmirror and see a clown for FREE",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45767",
+        "text": "BREAKINGWorks\\nHillary Clinton tests negative for\\nPresident of the United States",
+        "image": "prop_meme_18456.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44682",
+        "text": "\\Blame the Nazis for making me\\nbecome a gun designer. I always\\nwanted to construct agricultural\\nmachinery.\\ - Mikhail Kalashnikov",
+        "image": "prop_meme_19651.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33359",
+        "text": "EXTORTION 17\\nAUGUST 6, 2011\\nEVER\\nFORGOTTEN\\nRIST",
+        "image": "prop_meme_9963.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44792",
+        "text": "00 Roderick Douglass\\n@Rodericks Truth\\nWhy are white people \\Jogging\\nfor Ahmaud\\? Ahmaud didn't\\ndie \\jogging.\\ He died physically\\nfighting back against gun-toting\\nwhite supremacists.\\nIf you want to honor him, do\\nthat.\\n#AhmaudArbery\\n7:57 AM 09 May 20- Twitter for Android",
+        "image": "prop_meme_19761.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42241",
+        "text": "HEY HITLER, WANNA\\nHEAR A JOKE?\\nSTALINGRAD\\nMenghare\\nSURE BROH\\nIDON'T GET IT\\nEXACTLY",
+        "image": "prop_meme_16776.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43529",
+        "text": "He's coming for\\nYOU, libs...\\nAGAIN",
+        "image": "prop_meme_17516.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45808",
+        "text": "SENATOR FOR 36 YEARS\\nVICE PRESIDENT FOR 8\\nBLAMES TRUMP\\nFOR AMERICA'S PROBLEMS",
+        "image": "prop_meme_18497.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32389",
+        "text": "3597\\nDO NOT\\nSIT ON\\nFENCE",
+        "image": "prop_meme_8929.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41652",
+        "text": "A photographer took pictures\\nof people before and after she\\ncalled them beautiful..",
+        "image": "prop_meme_16187.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28374",
+        "text": "Current situation of the world\\nUkraine*\\n*Russia\\nMy portfolio is dipping\\nTHE\\nENGINEER\\nBRO",
+        "image": "prop_meme_14042.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28420",
+        "text": "Select all images with\\nUkrainian tractor towing\\nRussian equipment\\nSIE\\nспо\\nVERIFY",
+        "image": "prop_meme_13316.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44574",
+        "text": "DEMOCRATIC PLATFORM\\nFOR THE YEAR 2020\\n✔ SOCIALISM\\n✔KILL BABIES\\n✓ RAISE TAXES\\n✔ OPEN BORDERS\\n✓ DEFUND MILITARY\\n3\\n✔TAKE AWAY GUNS\\n✔ WEAKEN ECONOMY\\n✔ DEFEND ILLEGAL ALIENS\\n✓ SUPPRESS FREE SPEECH\\n✓ REPARATIONS FOR SLAVERY\\n✓ REMOVE ELECTORAL COLLEGE\\nWHO, IN THEIR RIGHT MIND,\\nWOULD SUPPORT THIS GARBAGE?",
+        "image": "prop_meme_24789.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45220",
+        "text": "ALL I'M GOING TO SAY\\nIS IF \\THEY\\ FEEL THE\\nNEED TO STILL GO\\nAFTER A MAN THAT\\nHAS BEEN OUT OF\\nOFFICE FOR ALMOST 2\\nYEARS, IT TELLS ME\\nTHEY ARE TERRIFIED OF\\nHIM!!!",
+        "image": "prop_meme_17909.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42310",
+        "text": "\\ONE DAY I'LL\\nOWN THIS BOOT.\\\\nLibertarians",
+        "image": "prop_meme_16845.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42248",
+        "text": "HILLARY WILL BE\\nA GREAT PRESIDENT\\nSHE'LL OPPRESS WORKERS AND ADVANCE\\nIMPERIALISM JUST LIKE THE BEST OF THEM\\nimgflip.com",
+        "image": "prop_meme_16783.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31145",
+        "text": "Olivia Katbi\\n@oliviakatbi\\nI love Peeps and I heard they were\\nunion made so I looked it up and\\nlearned that when the workers\\nwent on strike in 2016 they\\nchanted \\no justice, no Peeps\\\\nNET WIT. 32 (15)\\nPeeps\\nMarshmallow\\nGluten Free\\n& Fat Free\\nWhen they went on strike in 2016,\\nmembers in the union for marshmallow\\nmakers chanted, \\No justice, no Peeps!\\nAnd this week, a federal appeals court\\nsaid the Peeps workers had a point.\\nThe U.S. 4th Circuit Court of Appeals\\nruled Thursday that Just Born Quality\\nConfections - the firm in Bethlehem, Pa.,\\nthat makes the candy known as Peeps -\\ncould not unilaterally stop enrolling new\\nemployees in a pension without paying a",
+        "image": "prop_meme_7356.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "13046",
+        "text": "\\I do believe that for such a time\\nas this, God raised up Donald\\nTrump-an unlikely person in\\nmany ways-but someone who\\nrose to the occasion in a time\\nwhen America needed strong\\nleadership and a commitment\\nto the values that make\\nAmerica great.\\\\nJack Graham\\nPastor\\nAFTER TRUMP\\nA Warning to America\\nTRUMP 2024\\n",
+        "image": "prop_meme_1052.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45317",
+        "text": "AAAAAAAAAAAAA\\nC",
+        "image": "prop_meme_18006.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32879",
+        "text": "2004 2021\\nI WILL CREATE AN ENJOYABLE &\\nFUN EXPERIENCE FOR PEOPLE\\nTO CONNECT WITH EACH OTHER,\\nFREE OF ADS.\\nMY MULTI-BILLION DOLLAR\\nUNIVERSE WILL REMOVE YOU\\nFROM REALITY, I WILL CENSOR\\n& REMOVE ALL YOUR FREE\\nSPEECH, DENY YOU ACCESS TO\\nINDEPENDANT NEWS, RECORD\\nALL YOUR THOUGHTS & BELIEFS\\nAND TRACK YOUR EVERY\\nMOVEMENT.\\nPosted in r/Wallstreetsilver\\nreddit",
+        "image": "prop_meme_9483.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32022",
+        "text": "RUSSIAN OPPOSITION LEADER ALEKSEI\\nNAVALNY HAS BEEN DISCHARGED FROM\\nHOSPITAL AFTER HE WAS POISONED\\nAMNESTY\\nINTERNATIONAL\\n&",
+        "image": "prop_meme_8065.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "41766",
+        "text": "The bee lives less than 40 days,\\nvisits at least 1000 flowers and\\nproduces less than a teaspoon of\\nhoney. For us it is only a teaspoon\\nof honey, but for the bee it is a life.\\nThank you, bees!",
+        "image": "prop_meme_16301.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45401",
+        "text": "I'M JOE BIDEN\\nAND I'M GONNA\\nREELECT DONALD TRUMP",
+        "image": "prop_meme_18090.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25894",
+        "text": "6\\nT\\nP\\nwww",
+        "image": "prop_meme_4771.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46337",
+        "text": "DON'T CARE IF YOU\\nWANT TO HUNT, I DON'T\\nCARE IF YOU THINK\\nIT'S YOUR RIGHT.\\nI SAY, SORRY, YOU\\nARE NOT ALLOWED\\nTO OWN A GUN, AND\\nIF YOU DO OWN\\nA GUN I THINK YOU\\nSHOULD GO TO PRISON.\\nROSIE O'DONNELL\\nKevin McDonald\\nI thinks it's great that the celebrities\\nhave stopped raping each other long\\nenough to tell us how to live\\nYesterday at 10:03 PM\\nLike\\nReply\\n1.3k\\n.\\n.",
+        "image": "prop_meme_19026.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12947",
+        "text": "WE BELIEVE IN THE CONSTITUTION\\nWE BELIEVE IN THE DIGNITY OF WORK\\nWE BELIEVE IN THE SANCTITY OF LIFE\\nWE BELIEVE IN AMERICA\\nTRUMP2024.FILM\\n",
+        "image": "prop_meme_953.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29450",
+        "text": "Anonymous\\n04/07/22(Thu)01:22:44 No.52891057\\n950619_ra583.jpg\\n547 KB JPG\\n>>52887836 #\\nJust make all of Russia a Red Forest\\nUS",
+        "image": "prop_meme_11801.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32727",
+        "text": "ele\\nSteve Foley\\n2 d 0\\nHe absolutely cannot help\\nhimself\\nLike\\nComment\\n60\\nShare",
+        "image": "prop_meme_9267.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35510",
+        "text": "imgillip.com\\n5813\\nME\\nPANHANDLING\\n@SSGYEET\\nI have a job!!!\\nmy\\nIt's just summer and\\nKids are at home and they\\nWON'T STOP EATING I",
+        "image": "prop_meme_11279.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34247",
+        "text": "HANDS ON THE SAME GUN!\\nUS NSA: Zbignew Brzenski\\nOsama Bin Laden\\n04/05/2012 Img & Caption: Tony\\nCartalucci [Land Destroyer] Former US National Security Adviser\\nZbigniew Brzezinski meeting with Osama Bin Laden, then leading the\\nCIA's Arab legionaries in Afghanistan. Bin Laden's Al Qaeda would\\nlater spin off into regional terrorist organizations, covertly armed,\\ntrained, and protected by the CIA to this day, including LIFG in Libya,\\nMEK in Iraq and Iran, and Baluchi terrorists in Pakistan.",
+        "image": "prop_meme_10851.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43504",
+        "text": "This slogan will\\nNEVER DIE\\nMAKE AMERICA\\nGREAT AGAIN",
+        "image": "prop_meme_17491.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56112",
+        "image": "prop_meme_24925.png",
+        "text": "WHY IS\nTHE GAME TAKING\nSO LONG TO\nLOAD\nPress Enter to start",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45395",
+        "text": "EAT\\nWE TRU\\nwww****\\nT\\nE TRU",
+        "image": "prop_meme_18084.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "50053",
+        "text": "GET IN LOSER\\nWE'RE FIXING THE ECONOMY",
+        "image": "prop_meme_23391.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29644",
+        "text": "mul\\nI love your\\naccent...where\\nare you from?\\nUkraine.\\nWtf?\\nHow'd you know?",
+        "image": "prop_meme_11995.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45616",
+        "text": "Do you Still feel that\\nTRUMP was the Right\\nchoice for\\npresident??????\\nW\\nLove Trump.com",
+        "image": "prop_meme_18305.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32140",
+        "text": "Saves Lifes Kicks a ball\\n125 YEARS\\nETIHAD\\nAIRWAYS\\n£13 hour £7500 hour",
+        "image": "prop_meme_8680.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46082",
+        "text": "TO ANGER A\\nCONSERVATIVE,\\nLIE TO HIM. TO\\nANGER A LIBERAL,\\nTELL HIM THE\\nTRUTH.\\n-THEODORE ROOSEVELT\\nSHARE IF YOU AGREE\\n@republican.army",
+        "image": "prop_meme_18771.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31296",
+        "text": "NO HOLDS BARRED\\nPRESIDENT TRUMP HOSTS\\nTHE MOST ANTICIPATED HEAVYWEIGHT FIGHT OF THE YEAR\\nFULL LIVE IN PERSON COMMENTARY\\nBY PRESIDENT TRUMP\\nSEPTEMBER 11\\nSEMINOLE\\nHard Rock\\nHOTEL & CASINO",
+        "image": "prop_meme_7507.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31857",
+        "text": "MYANMAR\\nCONFIRMED: POLICE DEPLOYED\\nSUB-MACHINE GUNS AGAINST\\nPEACEFUL PROTESTERS\\nA young woman was shot in the head by Myanmar's security\\nforces during protests, confirmed by our analysis of the\\nfootage. This evidence also contradicts Myanmar's military\\nclaims that security forces were not carrying lethal weapons.\\nTUR\\nOLICE POLICE POLICE POLICE POLICE POLICE POL POLI OLIC LICE POLICE POLICE POLICE POLICE POLICE POL",
+        "image": "prop_meme_7900.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "27768",
+        "text": "NATO: behold the\\nholy hand grenade of\\nAntioch.\\nUKRAINE: Can we use this to\\ndestroy Crimean bridge???",
+        "image": "prop_meme_13436.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30373",
+        "text": "A@GRANDOLDMEMES\\nSPIRIT\\nCLIMATE\\nACTIVIST\\nINCLUDES:\\n• CAN OF SOUP\\n• SUPER GLUE\\n• PINK HAIRSPRAY\\n• WEF MEMBERSHIP BADGE\\nADULT\\nSize Costume\\nONE SIZE FITS MOST\\nJUST\\nSTOP\\nOIL",
+        "image": "prop_meme_8157.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35265",
+        "text": "IS THERE ANY SCIENTIFIC\\nEVIDENCE OF INTELLIGENT LIFE\\nWITHIN THE DEMOCRATIC PARTY?\\nImgflip.com",
+        "image": "prop_meme_11034.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12742",
+        "text": "I'M\\nPRAYING\\nFOR YOU\\nPRESIDENT\\nTRUMP\\n",
+        "image": "prop_meme_748.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45194",
+        "text": "THE TRUTH\\nCAN ONLY\\nOFFEND\\nTHOSE WHO\\nLIVE A LIE",
+        "image": "prop_meme_17883.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56195",
+        "image": "prop_meme_25008.png",
+        "text": "when someone asks me\nwhere I see myself in 5 years\ndude, I am just trying to\nmake it till friday",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45645",
+        "text": "NAME 1 THING YOU\\nTRUST MORE THAN\\nJOE BIDEN\\nore",
+        "image": "prop_meme_18334.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47071",
+        "text": "BREAKING NEWS\\nArizona House Files Resolution\\nfor Term Limits on Congress\\nU.S.\\nTERM\\nLIMITS\\ntermlimits.com",
+        "image": "prop_meme_15583.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31448",
+        "text": "AMERIGEDDON\\nTAMERIGEDDON HEMOVIE.COM\\nALEX\\nJONES\\nAS YOU'VE\\nNEVER\\nSEEN HIM\\nBEFORE!",
+        "image": "prop_meme_5006.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56138",
+        "image": "prop_meme_24951.png",
+        "text": "Big Mac\non the menu\nSOFASPUD\nORIGINAL\nof\ns\nBig Mac\nin the bag",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56061",
+        "image": "prop_meme_24874.png",
+        "text": "When I say \"I'll let you know\"\nIn\nI ain't coming\nconclusion,",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25173",
+        "text": "TRUMP\\nWAS\\nRIGHT\\nAbout Everything",
+        "image": "prop_meme_4669.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29821",
+        "text": "LET ME GET THIS STRAIGHT\\nThe Free Thought\\nPROJECT.COM\\nPOLICE FROM 5 STATES WERE PAID WITH OUR EXTORTED TAX\\nDOLLARS TO ATTACK WATER PROTECTORS WITH WATER\\nCANNONS IN 23° WEATHER FOR OVER 6 HOURS, BLEW APART\\nA WOMAN'S ARM, NEARLY KILLED A TRIBAL ELDER, SHOT A 13-\\nYEAR-OLD GIRL IN THE HEAD, SENT AROUND 30 PEOPLE TO THE\\nHOSPITAL, INJURED 300-LIED ABOUT ALL OF IT-SO AN\\nOIL CONGLOMERATE CAN POISON THE WATER FOR PROFIT?",
+        "image": "prop_meme_5161.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30460",
+        "text": "THOSE WHO SAY YOU DON'T NEED\\nA GUN TO PROTECT YOURSELF\\nGUN\\nHAVE ARMED GUARDS\\nTHOSE WHO ARE WARNING YOU\\nABOUT RISING SEA LEVELS\\n@TheFreeThoughtProject\\nTHOSE WHO TELL YOU TO REDUCE\\nYOUR CARBON FOOTPRINT\\nOWN PRIVATE JETS\\nTHOSE WHO TOLD YOU TO STAY\\nHOME TO STOP COVID-19\\nBOUGHT BEACH HOMES WENT TO DINNER PARTIES",
+        "image": "prop_meme_8244.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45414",
+        "text": "President Biden\\n@POTUS\\nUnited States government official\\nThe rule is now simple get vaccinated\\nor wear a mask until you do.\\nThe choice is yours.\\n4:12 PM - 5/13/21 The White House",
+        "image": "prop_meme_18103.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46393",
+        "text": "The left blames Conservative Christian\\nNRA members for the Texas shooting\\n...even though Christians were killed by a liberal\\nathiest who was stopped by an NRA member.",
+        "image": "prop_meme_19082.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44246",
+        "text": "I WALKED AWAY FROM\\nTHE DEMOCRATS\\nWHEN THEY SAID\\nILLEGAL IMMIGRATION\\nAND OPEN BORDERS\\nMATTERED MORE\\nTHAN ME AND\\nMY FAMILY",
+        "image": "prop_meme_24461.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45622",
+        "text": "IS BIDEN TOO\\nSCARED TO DEBATE\\nTRUMP?",
+        "image": "prop_meme_18311.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28845",
+        "text": "NOËL @NOELreports. 3h\\nRussia appointed a new head of intelligence.\\nMajor General Elenor Muskilov\\n17\\nMim\\n1778\\n392",
+        "image": "prop_meme_12418.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45187",
+        "text": "Nobody talks\\nabout forgiving\\nTrade School\\ndebt because\\nthey all learned\\na useful skill\\nand can pay\\ntheir own way.",
+        "image": "prop_meme_17876.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56052",
+        "image": "prop_meme_24865.png",
+        "text": "All my friends are having babies\nand I'm over here like\nDoggoNews",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28494",
+        "text": "At the Kherson axis, we\\nmanaged to snitch a\\nracoon from a local zoo\\nbefore retreating.\\n*\\n***\\nLITE\\nReport how\\nthe Ukrainian\\ncampaign goes.",
+        "image": "prop_meme_12067.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33394",
+        "text": "IT'S COMMON KNOWLEDGE THAT WARS ARE\\nFOUGHT OVER OIL RESOURCES\\nENDTHLDRUCWAR-\\nWHAT'S NOT COMMON KNOWLEDGE IS THAT HEMP\\nCAN DO ANYTHING OIL DOES. WHICH MEANS,\\nLEGALIZING CANNABIS CAN LITERALLY STOP WARS",
+        "image": "prop_meme_9998.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33990",
+        "text": "IT'S OKAY, MAM\\nWE'RE FROM THE\\nGOVERNMENT",
+        "image": "prop_meme_10594.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "28219",
+        "text": "WHO'S GOT THE CRAZY LEADER NOW\\nimgflip.cometty Images\\n48\\nMOTHERF**KERS!",
+        "image": "prop_meme_13887.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35882",
+        "text": "Space Force\\nThese United States\\nSpace Force Tshirts,\\nTank Tops,\\nSweatshirts, and\\nHoodies come in an\\nabundance of sizes and\\ncolors to fit most\\nanybody's needs.\\nAvailable in both Men\\nand Women Styles.\\nThese make GREAT\\nGIFTS for any\\noccasion.\\nDEPAR\\nUNITED\\nSTATES\\nESPACE FORCE\\nOF\\nAMERICA",
+        "image": "prop_meme_6645.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43419",
+        "text": "Hey Putin,\\nguess what\\nFor Mother Russia\\nWhat? Fuck you!\\nFor Mother Russia\\nFor Mother Russia\\n15 minutes later...",
+        "image": "prop_meme_22907.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "24602",
+        "text": "\\INSURRECTION\\nDAY\\nMSNBC'S CHRIS HATES HAS A GOOD WAY OF\\nDESCRIBING TUCKER CARLSON'S GOAL\\n\\TO BREAK THE CONSENSUS OF REALITY.\\nIN OTHER WORDS, IT IS A DIRECT ASSAULT\\nON THE VERY IDEA OF OBIECTIVE FACE\\nWHERE ANY MANNER OF BULLSHIT CAN\\nBE ACCEPTED AND ACTED UPON",
+        "image": "prop_meme_3213.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36695",
+        "text": "THE\\nDEMAGOGUE\\nIS ONE WHO PREACHES\\nDOCTRINES HE KNOWS\\nTO BE UNTRUE TO MEN\\nHE KNOWS TO BE\\nIDIOTS.\\nH.L. MENCKEN\\nReverbPress\\nf reverbpress\\nreverbpress",
+        "image": "prop_meme_13085.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30498",
+        "text": "DEXT\\nLDHE\\nLIMON\\nELLAS\\nlaughing\\nat WWIII\\nmemes\\nkinda\\nbeing\\nworried\\nabout\\nWWIII\\nPUSH",
+        "image": "prop_meme_8282.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44249",
+        "text": "SHARE YOUR\\nSTORY\\nJOE BIDEN\\nUNLESS YOU'RE\\nTARA READE, RIGHT?\\nBENNY JOHNSON\\nTORMING POINT\\nACTION",
+        "image": "prop_meme_24464.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44655",
+        "text": "TREAD ON INTOLERANCE\\nSOA\\na\\nSRA",
+        "image": "prop_meme_19624.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56080",
+        "image": "prop_meme_24893.png",
+        "text": "Government: work from home\nArchaeologists :\nSyaut\nParch",
+        "label": "propagandistic"
+    },
+    {
+        "id": "33614",
+        "text": "THE SECRET SOCIETY OF THE\\nWORLD'S WEALTHIEST\\nThe\\nANNUIT\\nPOG\\nNEPTIS\\nFRAN\\nAS&\\nAM SCUXKY\\nBilderberg\\nGroup\\nMEET YEARLY BEHIND CLOSED DOORS\\nTO DECIDE OUR FUTURE\\nGOVERNMENT WATCH",
+        "image": "prop_meme_10218.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "50625",
+        "text": "God Bless America\\nWolle\\nGod Bless The\\nREAL President\\nGod Bless\\nWe The People\\nRetruth",
+        "image": "prop_meme_20015.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23774",
+        "text": "Wh\\nBarack Obama pays his\\nrespects at Highgate Cemetery\\nduring his State Visit to the UK\\n(2011)",
+        "image": "prop_meme_4027.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "34167",
+        "text": "MEXICAN WORD OF THE DAY:\\nURINE\\nSum\\nIF YOU VOTE FOR HILLARY CLINTON\\nIN 2016 URINE IDIOT\\nkappit.com",
+        "image": "prop_meme_10771.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47987",
+        "text": "\\This book pulls no punches. The path is clear.\\nWe have to be brave enough to take it.\\\\nSir Terry Leahy, CEO of Tesco (1997-2011)\\nBRITANNIA\\nUNCHAINED\\nGLOBAL LESSONS FOR\\nGROWTH AND PROSPERITY\\nKWASI KWARTENG MP | PRITI PATEL MP\\nDOMINIC RAAB MP |\\nCHRIS SKIDMORE MP | ELIZABETH TRUSS MP",
+        "image": "prop_meme_14640.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44980",
+        "text": "IF YOU DARE TO STRUGGLE\\nYOU DARE TO WIN.\\nIF YOU DARE NOT STRUGGLE,\\nTHEN DAMN IT, YOU\\nDON'T DESERVE TO WIN.\\nFRED HAMPTON",
+        "image": "prop_meme_19949.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36864",
+        "text": "WOMEN FOR TRUMP\\n41\\nCEC",
+        "image": "prop_meme_13254.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56023",
+        "image": "prop_meme_24836.png",
+        "text": "Hey Girl, are you trash?\nW\nCuz I wanna take you out",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25216",
+        "text": "Denny's\\nACK\\nTHE BEST WAY TO SHOW\\nWITHOIT SPEAMING THAT VOU\\n",
+        "image": "prop_meme_1829.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12842",
+        "text": "FREEDOM\\nFIGHTS\\nOHIO HIGH SCHOOL\\nFOOTBALL PLAYERS\\nSUSPENDED AFTER\\nCARRYING PRO-POLICE\\nFLAGS ONTO FIELD\\n",
+        "image": "prop_meme_848.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44818",
+        "text": "DUCK\\nSEASON\\nP\\nFASCIST\\nSEASON\\nRABBIT\\nSEASON\\nP\\nFASCIST\\nSEASON",
+        "image": "prop_meme_19787.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "31536",
+        "text": "Å\\nTHIS SAUDI STUDENT HAS BEEN JAILED\\nFOR 34 YEARS FOR USING TWITTER TO\\nSUPPORT WOMEN'S RIGHTS ACTIVISTS\\nAmnesty International\\n@amnesty\\nThe Saudi Arabian authorities must\\nimmediately and unconditionally\\nrelease Salma al-Shehab.",
+        "image": "prop_meme_7579.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36301",
+        "text": "COST OF BORDER WALL\\n$10 BILLION\\nANNUAL COST OF ILLEGAL IMMIGRATION\\n$99 BILLION",
+        "image": "prop_meme_7064.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "25398",
+        "text": "INSURRECTION\\nIN THE CAPITOL?\\nWHO WOULD'VE THOUGHT.\\n",
+        "image": "prop_meme_2013.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56087",
+        "image": "prop_meme_24900.png",
+        "text": "What if You\nBut god said\nWanted to go\nto Heaven\nHEA",
+        "label": "propagandistic"
+    },
+    {
+        "id": "36892",
+        "text": "Stop Donald Trump\\n2004\\n\\His position is different now!\\\\n-John Kerry Supporters\\nKerry\\nEdwards\\n31120638\\nA STRON\\nAMERI\\nJOHNKL\\n2016\\n\\His position is different now!\\\\n-Donald Trump Supporters\\ndhe silent majority\\nSTANDS WITH\\nTRUMP\\nTROK\\nPN'T RU\\n710\\nWhen Trump supporters defend Trump's flipflops, doesn't it just bring\\nyou back to '04 when Kerry supporters were defending Kerry's\\nflipflop on Iraq?\\nAnd by the way, Donald Trump was one of those Kerry supporters.\\nE. Ward",
+        "image": "prop_meme_13282.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29727",
+        "text": "Corporations are not concerned with the\\ncommon good. They exploit, pollute,\\nimpoverish, repress, kill, and lie to make\\nmoney. They throw poor people out of homes,\\nlet the uninsured die,\\nwage useless wars for\\nprofit, poison and pollute\\nthe ecosystem, slash\\nsocial assistance\\nprograms, gut public\\neducation, trash the\\nglobal economy, plunder\\nthe U.S. Treasury and\\ncrush all popular\\nmovements that seek\\njustice for working men\\nand women. They worshi\\nmoney and power.\\nCHRIS HEDGES\\nOCCUPY\\nLONDON",
+        "image": "prop_meme_5067.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29444",
+        "text": "There seems to\\nbe some mistake\\nI was told we\\nwould be in Kiev\\nin 2-3 days and\\nwhy are my\\neyes bleeding?\\nDig the\\nfucking\\nHole!!",
+        "image": "prop_meme_11795.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "35394",
+        "text": "Minnehaha\\nimgflip.com\\nTHE WORST...\\nWine & Spiri\\nIS YET TO COME!!",
+        "image": "prop_meme_11163.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46705",
+        "text": "LET'S TOTALLY\\nI\\nSEE SUPPORT\\nWHO\\nISN'T\\nAFRAID OUR LOCAL\\nTO LIKE\\n& SHARE POLICE!!\\nAmerica Go Blue Strong",
+        "image": "prop_meme_19394.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "29227",
+        "text": "When you haven't made\\nnuclear threats\\nin the last 5 minutes",
+        "image": "prop_meme_11578.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "44852",
+        "text": "SAY WHAT YOU WILL\\nABOUT PRESIDENT OBAMA\\nBUT HIS CLASS AND ELOQUENCE\\nREALLY MADE THE DEPORTATION OF 2.5 MILLION\\nILLEGAL IMMIGRANTS, THE BOMBING OF\\n7 MUSLIM COUNTRIES, THE WHITEWASHING OF\\nTORTURE UNDER BUSH, THE CONTINUATION OF\\nTHE DRUG WAR, THE RAMPANT PROSECUTION\\nOF GOVERNMENT WHISTLEBLOWERS, AND HIS EXPANSION\\nOF GOVERNMENT SURVEILLANCE, GO DOWN SMOOTH",
+        "image": "prop_meme_19821.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30752",
+        "text": "O\\nI'M TIRED OF BEING A SPECIALIST\\nIN INFECTIOUS DISEASES AND VIROLOGY\\nimptlin.com\\nO\\nTODAY I DECIDED TO BECOME\\nAN EXPERT ON AFGHANISTAN",
+        "image": "prop_meme_8536.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "30225",
+        "text": "DID YOU KNOW?\\nOBAMA INSTITUTED THE GREATEST TRANSFER\\nOF WEALTH IN HISTORY' TO THE RICHEST 1%\\nww\\nWAKE UP\\nYOU ARE NOT FREE\\nTheFreeThoughtProject.com\\nDURING THE GREAT FLEECING (2008-2015), THE GREATEST\\nTRANSFER OF WEALTH IN THE HISTORY OF THE WORLD\\nOCCURRED. SOME $4.5 TRILLION WAS GIVEN TO WALL STREET\\nBANKS THROUGH ITS QUANTITATIVE EASING PROGRAM,\\nWITH THE AMERICAN PEOPLE PICKING UP THE IOU.\\nTHE GAP BETWEEN RICH & POOR HAS WIDENED MORE UNDER\\nOBAMA THAN UNDER ANY OTHER PRESIDENT & MORE THAN\\n50% OF THE POPULATIONS IN ALL U.S. COUNTIES ARE ON\\nSOME KIND OF GOVERNMENT ASSISTANCE.",
+        "image": "prop_meme_5565.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "43549",
+        "text": "Trump WILL\\ncelebrate\\nagain...",
+        "image": "prop_meme_17536.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "45281",
+        "text": "10₂\\nTI\\nI DON'T WANNA\\nHEAR ANY MORE\\nOF THESE LIES!\\nFULL STEAM\\nAHEAD!\\nUS UNDER BIDEN",
+        "image": "prop_meme_17970.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "47044",
+        "text": "BREAKING NEWS\\nU.S.\\nTERM\\nLIMITS termlimits.com\\nARIZONA\\nSenate Committee passes\\nTERM LIMITS\\non\\nCONGRESS\\nresolution\\nNext stop: Senate Rules",
+        "image": "prop_meme_15556.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "48973",
+        "text": "\\Like any number of us raised in the late\\n20th century, I've spent my life\\nperplexed about exactly how Hitler\\ncould have come to power in Germany.\\nWatching Donald J. Trump's rise,\\nI now understand.\\\\n-Harvard professor Danielle Allen\\nOCCUPY DEMOCRATS",
+        "image": "prop_meme_21763.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "15628",
+        "text": "HOW ABOUT YOU TAKE YOUR\\nHAPPY ASS BACK TO THE UNITED STATES\\nAND INVADE WASHINGTON DC,\\nWHERE THE REAL TERRORISTS RESIDE\\nTHEFREETHOUGHTPROJECT.COM\\n",
+        "image": "prop_meme_1646.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "42126",
+        "text": "When you're stuck in a\\ntraffic jam but there's a\\ndog in the car next to you",
+        "image": "prop_meme_16661.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "56136",
+        "image": "prop_meme_24949.png",
+        "text": "J.Lo at 52:\nMe at 35:\nfb.com/DunderMifflin Meme",
+        "label": "propagandistic"
+    },
+    {
+        "id": "12383",
+        "text": "AM I THE BEST\\nPRESIDENT EVER?\\nYES OR NO?\\n",
+        "image": "prop_meme_389.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "46093",
+        "text": "Thank You, God\\nFor Giving Us Donald Trump!",
+        "image": "prop_meme_18782.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "32814",
+        "text": "Andrew Torba t @a\\n8h\\nNew York Times reporter drops dead one day after\\ngetting the vax booster\\nDe\\nVisit the COVID-19 Information Center for\\nvaccine resources.\\nผิ\\nTweet\\nCarlos Tejada\\n@CRTejada\\nV\\nLiked by joyeux.edwin and others\\ncrtejada Double-vaxxed. Janssen-fueled, Moderna-\\nboosted. Hey, Omicron: Hit me with your wet snot.\\n1,841 likes 580 comments 1,073 reposts\\nThis is Carlos's wife, Nora. It's with\\ndeepest sorrow that I have to share\\nwith you that Carlos passed away last\\nnight of a heart attack. I've lost my\\nbest friend and our kids lost a truly\\ngreat dad. I will be off social media for\\nawhile.\\n5:58 pm 18/12/21 - Twitter for iPhone\\n●●●\\n488 Retweets 173 Quote Tweets 10.3K Likes",
+        "image": "prop_meme_9418.png",
+        "label": "propagandistic"
+    },
+    {
+        "id": "23347",
+        "text": "This is now your real trends look when\\nyour\\n4440\\nm\\na",
+        "image": "prop_meme_3716.png",
+        "label": "propagandistic"
+    }
+]

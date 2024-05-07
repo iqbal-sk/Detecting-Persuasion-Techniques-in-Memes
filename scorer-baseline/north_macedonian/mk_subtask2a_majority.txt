@@ -1,0 +1,2074 @@
+[
+    {
+        "id": "mk_memes_2",
+        "text": "Нещата започват да излизат извън\nконтрол!! \n",
+        "image": "mk_memes_2.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_3",
+        "text": "МОЈАТА МАСКАТЕ ШТИТИ ТЕБЕ,\nТВОЈАТА МАСКА МЕ ШТИТИ МЕНЕ.\n\nТОА ГОВНО НЕ ШТИТИ НИ ОД ПРАШИНА КАМОЛИ ОД\nВИРУСИ, И ТВОИТЕ ГОСПОДАРИ го КОРИСТАТ КАКО\nПСИХОЛОШКО ОРУЖЈЕ ЗА ДА ДОЗНААТ КОЛКАВ ДЕЛ\nоД НАСЕЛЕНИЕТО БЕСПОГОВОРНО СЛУША НАРЕДБИ.\n",
+        "image": "mk_memes_3.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_4",
+        "text": "ЕДНАШ ГИ ПОБЕДИВМЕ \"ДОБРОСОСЕДИТЕ\".\n\nKЕ ГИ ПОБЕДИМЕ ПАК!\n11 ОКТОМВРИ\nНЕ ГО СЛАВИМЕ ЗАЕДНИЧКИ\n",
+        "image": "mk_memes_4.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_5",
+        "text": "ВОСОЧНА ФИГУРА НА ГОЦЕ\nДЕЛЧЕВ ОД МУЗЕЈОТ ВО ВАРНА\n\n",
+        "image": "mk_memes_5.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_6",
+        "text": "И после им рековме се е во главата\nод Груевски гласајте за нас нема да\nменуваме име ќе имате 500 евра\nплата! И ни поверуваа хахахахаха\n",
+        "image": "mk_memes_6.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_7",
+        "text": "Традиционна българска двойкa!\nМъж и жена!\n",
+        "image": "mk_memes_7.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_9",
+        "text": "Рамо до Рамо\nсо ФАШИСТИТЕ\n#WeAreLosers\n",
+        "image": "mk_memes_9.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_10",
+        "text": "НА ОВА МЕСТО НА 16 ЈУМИ 1943 г.\nОД СТРАНА НА БУГАРСКИТЕ\nADMINISSTRATORI\nБЕА СТРЕЛАНИ 12 МЛАДИНЦИ\nОД СЕЛОТО ВАТАША\n\n\n",
+        "image": "mk_memes_10.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_11",
+        "text": "БЪЛГАРСКА ЛОГИКА\n",
+        "image": "mk_memes_11.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_13",
+        "text": "Татко ГЕРМАНЕЦ\nФердинанд Сакскобурготекми\n\nMајка ИТАЛЈАНКА\nМария-Луиза Бурбон\n\nToj бугарин\nБорис III\n",
+        "image": "mk_memes_13.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_14",
+        "text": "Ова ќе беше Македонија, ако авионите на НАТО\nпочесто летаа над нас\n",
+        "image": "mk_memes_14.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_15",
+        "text": "Бугарите и германците\nбеа ослобо-\n",
+        "image": "mk_memes_15.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_16",
+        "text": "Истражување дека македонски идентитет постои\n\nИстражување дека Македонците се Бугари\n",
+        "image": "mk_memes_16.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_17",
+        "text": "И ТИ СИ\nАСПАРУХ\n\nHWE M BYTAPNTE VIMAME NCTA VCTOPMJA:\n\nNJË PROJEKT I QEVERISË SË|\nПРОЕКТ НА ВЛАДАТА НА\nLSDM\n",
+        "image": "mk_memes_17.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_19",
+        "text": "Kоја е разликата\nод фудбалери до\nфутболости ?\n\nНЕЗНАМ\n\nФУДБАЛЕРИТЕ\nИГРААТ НА\nЕВРОПСКОТ А\nФУТБОЛИСТИТЕ\nГЛЕДААТ НА\nТЕЛЕВИЗИЈА\n",
+        "image": "mk_memes_19.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_20",
+        "text": "Бугарски експерт за средњи век износи доказе:\nГроф Дракула је био Бугарин\n",
+        "image": "mk_memes_20.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_21",
+        "text": "Се пласираше на Европско?\n\nНе од Бугарија сум\n",
+        "image": "mk_memes_21.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_22",
+        "text": "мостич\n\nРОСЕН ПЕТРОВ\n",
+        "image": "mk_memes_22.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_23",
+        "text": "Зоран Заев\n",
+        "image": "mk_memes_23.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_25",
+        "text": "ВЕТО\nВЕТО\nВЕТО\nВЕТО\n",
+        "image": "mk_memes_25.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_26",
+        "text": "NORTH MACEDONIA\nACCESSING EU\n\nEUROPEAN\nUNION\n\nBULGARIA\n\n\n\n",
+        "image": "mk_memes_26.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_28",
+        "text": "Where is the universal right to\nself determination that\nNATO say's it upholds?\n\nJen Stoltenberg\n\"Change your name to what we want\"\n\"If you dont, we wont let you in\"\n\nNATO\nBLACKMALING\nMACEDONIA\n\n",
+        "image": "mk_memes_28.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_29",
+        "text": "STOP NATO\nМАКЕДОНЦИТЕ\nНЕ СЕ УБИЈЦИ!\n",
+        "image": "mk_memes_29.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_30",
+        "text": "БУГАРСКА РАБОТА\nОКОЛУ ВЕТОТО\n\nБУГАРИН\nМАКЕДОНЕЦ\nВЕТО\n",
+        "image": "mk_memes_30.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_31",
+        "text": "Може ли за 100\n",
+        "image": "mk_memes_31.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_32",
+        "text": "ПРЕД ВАКЦИНА\n\nПОСЛЕ БУГАРСКАТА ВАКЦИНА\n\n",
+        "image": "mk_memes_32.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_33",
+        "text": "НИЕ вас ВАКЦИНА\n\nНИЕ вас ИДЕНТИТЕТ\n\nБългария обича\nСеверна Македония\n",
+        "image": "mk_memes_33.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_34",
+        "text": "Пред вакцина од Бугарија\n\nПо вакцина од Бугарија\n",
+        "image": "mk_memes_34.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_35",
+        "text": "убаче това се моите Лубими овцички\n",
+        "image": "mk_memes_35.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_36",
+        "text": "ONE DAY\nALL THE MONGOLS\nHEY\nIN THE WORLD WILL UNITE\nIN A SINGLE\nBULGARIAN NATION\n\nWHAT ABOUT\nME? I WANT TO BE\nA BULGARIAN\n\nTANGRA\n",
+        "image": "mk_memes_36.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_37",
+        "text": "Продукт : Бугарски нео-нацистички европратеник.\n\nНачин на употреба : Токсичен отпад. Се употребува само еднаш. По употребата задолжително да се измијат рацете и да се фрли во отпад.\n",
+        "image": "mk_memes_37.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_38",
+        "text": "БУГАРСКИ:\nКОРЕНИ\n\nанекс од\n12 ТОЧКи\n",
+        "image": "mk_memes_38.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_39",
+        "text": "БУГАРИЈА КЕ НИ ДОНИРА ВAКЦИНИ\n\nЗАЕВ\n",
+        "image": "mk_memes_39.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_42",
+        "text": "БУГАРИТЕ КE\nНИ ДАДАТ ВАКЦ....\n\nБУГАРИТЕ ВОШКИТЕ\nНЕ СИ ГИ ДАВААТ\nНЕ ПА ВАКЦИНИТЕ\n\n",
+        "image": "mk_memes_42.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_43",
+        "text": "ЧЕКАМЕ ВАКЦИНА АМА НЕ ЈА\nРЕГИСТРИРАВМЕ И НЕМАМЕ ПЛАН\nЗА ВАКЦИНАЦИЈА\n",
+        "image": "mk_memes_43.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_45",
+        "text": "АНТИ-ВАКСЕРИ\n",
+        "image": "mk_memes_45.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_46",
+        "text": "МОЖЕВМЕ НИЕ И ВО ЕУ ДА ВЛЕЗЕМЕ\n\nCАМО НЕ САКАВМЕ СО БУГАРИТЕ ДА СЕ СКАРАМЕ\n",
+        "image": "mk_memes_46.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_47",
+        "text": "МОЖЕВМЕ ПРВИ\nДА ИМАМЕ ВАКЦИНИ\n\nНЕ САКАВМЕ ДА\nМИСЛИТЕ ДЕКА ГИ\nТЕСТИРАМЕ НА ВАС\n\nРАДМИЛА ШЕЌЕРИНСКА\n",
+        "image": "mk_memes_47.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_48",
+        "text": "\"КОГА НЕКОЈ Би ми РЕКОЛ\nДЕКА ГОЦЕ ДЕЛЧЕВ Е\nБУГАРИН, БИ НАПРАВИЛ\nдиплоМАТСКи СКАНДАЛ!\nНА ТАА ТЕМА НЕ ТРЕБА ДА\nСЕ ДИСКУТИРА!\"\n",
+        "image": "mk_memes_48.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_49",
+        "text": "СРБИТЕ\nНАБАВИЛЕ\n11МИЛИОНИ ВАКЦИНИ\n\nТОА СЕ 11\nМИЛИОНИ ВАКЦИНИ\n\nПОВЕЌЕ ОДКОЛКУ\nШО НАБАВИ ФИЛИПЧЕ\n\n",
+        "image": "mk_memes_49.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_50",
+        "text": "КЕ ГИ НАРАЧАМЕ\nКИНЕСКИТЕ ВАКЦИНИ.\nСАМО НА ЗАЕВ ДА\nМУ ДООЗВОЛАТ оД НАТО.\n",
+        "image": "mk_memes_50.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_51",
+        "text": "НАРОДОТ\nНАРАЧА ЛИ ОД\nКИНЕСКИТЕ ВАКЦИНИ ?\n\nФИЛИПЧЕ\nСЕУШТЕ НЕ НИ\nОДОБРИЛЕ.ОД. НАТО.\n",
+        "image": "mk_memes_51.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_52",
+        "text": "KEEP\nCALM\nAND\nFUCK THE\nEU\n",
+        "image": "mk_memes_52.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_53",
+        "text": "ТРГНАА ВАКЦИНИТЕ\nОД КИНА\n",
+        "image": "mk_memes_53.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_54",
+        "text": "ВАКЦИНИТЕ НА ФИЛИПЧЕ\nНА ПАТ КОН МАКЕДОНИЈА\n",
+        "image": "mk_memes_54.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_55",
+        "text": "Ристо Разбираш\n\nПренос во живо како земја\nкоја не е членка на НАТО\nдонира вакцини на земја\nчленка на НАТО која никој не\nјa есапи два посто...\n\n",
+        "image": "mk_memes_55.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_56",
+        "text": "слепа улица\nEY\n",
+        "image": "mk_memes_56.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_57",
+        "text": "БАРЕМ ЧЛЕНКА\nСМЕ НА НАТО\n",
+        "image": "mk_memes_57.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_59",
+        "text": "НАРАЧАВМЕ\n2.500.000\nВAКЦИНИ!\n\n",
+        "image": "mk_memes_59.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_60",
+        "text": "8 МАРТЕ СТАР БУГАРСКИ ПРАЗНИК\n",
+        "image": "mk_memes_60.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_61",
+        "text": "LGBT+ stands for:\nLesbian\nGay\nBulgarians\nTransgender\n",
+        "image": "mk_memes_61.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_62",
+        "text": "ВАКЦИНИ ЗА\nСЕВЕРНА!\n\nJOHNNY\nENGLISH\nSTRIKES AGAIN\n",
+        "image": "mk_memes_62.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_63",
+        "text": "АЛО ЗОКИ\nВАКЦИНИТЕ СЕ ИСПОРАЧАНИ\n\n-JEC'AJ EM\n",
+        "image": "mk_memes_63.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_64",
+        "text": "Сега зборев со Ацика\nНиколовски, не биле\nбугарски пасошите,\nЕвропски биле.\n#СтопЗаЛажнитеВести\n\n",
+        "image": "mk_memes_64.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_65",
+        "text": "РЕПУБЛИКА\nБЪЛГАРИЯ\nREPUBLIC OF BULGARIA\nПАСПОРТ\nPASSPORT\n\nОва не ти треба повеќе.\nТи треба ова.\n",
+        "image": "mk_memes_65.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_66",
+        "text": "ФАЗЕР\nВАКСАЈНС\n\nНОУ ФАЈЗЕР\nВАКСАЈНС\n\n",
+        "image": "mk_memes_66.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_69",
+        "text": "Васил Гарванлиев: Ми ја загорчија\nрадоста, но не й честа\n\nЗахариева во одбрана на Гарванлиев: Македонија го малтретира нашиот Бугарин!\n",
+        "image": "mk_memes_69.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_70",
+        "text": "Вакцини\nАпликација\n\nФилипче\n\n",
+        "image": "mk_memes_70.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_71",
+        "text": "ВАКЦИНИРАЊЕ\nВО СРБИЈА\n\n5000 БУГАРСКИ\nВАКСАЈНС\n",
+        "image": "mk_memes_71.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_72",
+        "text": "sv.kiril sv.metodija\nsozdateli na bugarska azbuka\n\n",
+        "image": "mk_memes_72.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_73",
+        "text": "ВИРУСОТ\n\nМЕРКИТЕ НА\nФИЛИПЧЕ\n",
+        "image": "mk_memes_73.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_74",
+        "text": "ОБЕДИНЕНИ ИДИОТИ\n\nНИЕ СМЕ\nКЪРЛЕЖИТЕ\n",
+        "image": "mk_memes_74.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_75",
+        "text": "1.000.000\nВАКСАЈН\n1.000.000\nВАКСАЈН\n\n2.000.000\nВAКЦИНИ\n",
+        "image": "mk_memes_75.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_76",
+        "text": "Пред вакцина\nПосле вакцина\n",
+        "image": "mk_memes_76.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_77",
+        "text": "ЧАС ПО ШТАБОТОМИЈА\n\nТОЧНО, нашите пратеници гласаа за влез ВО НАТО\nиако народот на референдум рече НЕ.\nАма не аплаудираа после гласањет..\n",
+        "image": "mk_memes_77.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_78",
+        "text": "час по штаботомија\n\nГога Сорос, Свињевац - Го донесоа Заев на власт,\nгласаа за него = херои\n\nДвижење Бојкотирам - поништување на преспански, бугарски, тиранска-слуги на Заев\n",
+        "image": "mk_memes_78.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_79",
+        "text": "ЧАС ПО ШТАБОТОМИЈА\n\nЗејтинот поскапел\nНо е најефтин споредбено со сите\nчленки на НАТО, Мирот нема цена\n",
+        "image": "mk_memes_79.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_80",
+        "text": "Бугари\n\nМакедонска\nисторија",
+        "image": "mk_memes_80.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_81",
+        "text": "ЗОКИ СПИЕШ? |НЕ УШТЕ..\n\nкОЈ КЕ ОДГОВАРА ЗА\n5 000 MPТВИ ОД\nCOVID19?\n",
+        "image": "mk_memes_81.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_82",
+        "text": "РИБАТА СМРДИ\nОД ОПАШКАТА\n\n",
+        "image": "mk_memes_82.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_84",
+        "text": "бугарско ВЕТО 1\n\nEY\n\nЗаев\n\nCДC\n",
+        "image": "mk_memes_84.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_85",
+        "text": "Уште ова, па ЕУ\n",
+        "image": "mk_memes_85.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_86",
+        "text": "СПАСЕНИ ОД НАТО И САД\n",
+        "image": "mk_memes_86.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_87",
+        "text": "Прабългар\n\nБългар\n",
+        "image": "mk_memes_87.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_88",
+        "text": "няма\nмакедонци\nмакедония\nе българска\n\nбриши\nбе\n",
+        "image": "mk_memes_88.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_89",
+        "text": "БУГАРИТЕ МИ ГО\nРАСИПАА ЗАМРЗНУВАЧОТ\n",
+        "image": "mk_memes_89.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_90",
+        "text": "ГО ЖЕНИМЕ БЛАЖЕ КОНЕСКИ ВО\nБОГАТА ФАМИЛИЈА. БУГАРСКА..\n",
+        "image": "mk_memes_90.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_91",
+        "text": "Наш стратешки партнер\n2%\nНаш душман\n98%\n",
+        "image": "mk_memes_91.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_92",
+        "text": "ЧЕКАЈЌИ Го ДЕЛТА СOЈОТ, ДЛАБОКО\nДА НАВЛЕЗЕ ВО МАКЕДОНИЈА.\n\nСЕ Е ПОД\nКОНТРОЛA!\n",
+        "image": "mk_memes_92.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_94",
+        "text": "АЗ САМ ТИ\nБАШТА ЗОКЕ\n\nТАTЕ ТИ ЛИ СИ?\n",
+        "image": "mk_memes_94.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_95",
+        "text": "УШТЕ ЗНАМЕТО ПА ЕУ\n\nУШТЕ ФИРОМ ПА ЕУ\n\nУШТЕ ТЕРИТОРИЈАЛНА ПА ЕУ\n\nУШТЕ СЕВЕРНА ПА ЕУ\n",
+        "image": "mk_memes_95.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_96",
+        "text": "НЕМА ПОТРЕБА ОД ТЕРМИНИ ЗА ВАКЦИНИРАЊЕ\n\nНЕКА ЧЕКААТ ПО 3-4 СААТИ НА СОНЦЕ\n\nПРИРОДЕН ВИТАМИН Д\n",
+        "image": "mk_memes_96.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_100",
+        "text": "NORMAL PEOPLE\n\nCONSPIRACY THEORIST\n",
+        "image": "mk_memes_100.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_101",
+        "text": "ДЕЛТА\nCOJ\n",
+        "image": "mk_memes_101.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_102",
+        "text": "STOP NATO !\n\n",
+        "image": "mk_memes_102.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_103",
+        "text": "Пред вакцина\n\nПосле вакцина\n",
+        "image": "mk_memes_103.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_104",
+        "text": "О, НЕ! MACKA!\n",
+        "image": "mk_memes_104.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_105",
+        "text": "ФАЛА HATO\n\n",
+        "image": "mk_memes_105.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_106",
+        "text": "ПОСЛЕ ВАКЦИНА РАКАТА САМА МИ ПИШУВА ПО ТАСТАТУРА\n",
+        "image": "mk_memes_106.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_109",
+        "text": "\"МАКЕДОНСКО ДЕВОЈЧЕ\" Е\nМАKЕДОНСКА НАРОДНА ПЕСНА.\n\nКЪДЕ Е НАПИСАНО?\n\nВО НАСЛОВОТ\n",
+        "image": "mk_memes_109.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_110",
+        "text": "Кај ви се мигрантите бе глуп\n\nДобро де, ќе има ама малце\n\nЖени и деца ќе бидат\n\nObvrzani sme da zememe\n",
+        "image": "mk_memes_110.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_111",
+        "text": "Слободен влез за невакцинирани\n\nМое тело сопственост!\n",
+        "image": "mk_memes_111.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_112",
+        "text": "ПРЕД ВАКЦИНА\n\nПОСЛЕ ВАКЦИНА\n",
+        "image": "mk_memes_112.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_113",
+        "text": "СЕ ВАКЦИНИРАВ САМО ЗА ДА МОЖАМ ДА ВЛЕЗАМ ВО КАФАНА\n",
+        "image": "mk_memes_113.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_116",
+        "text": "ПРЕД ВАКЦИНА \nПОСЛЕ ВАКЦИНА\n",
+        "image": "mk_memes_116.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_117",
+        "text": "МАМО, ШТО Е ТОА ИМУНИТЕТ?\n\nОБИЧНА ТЕОРИЈА НА ЗАГОВОР. НИЕ СМЕ ОБРАЗОВАНИ.\n",
+        "image": "mk_memes_117.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_119",
+        "text": "БЕЗ ПАНИКА, НИШТО НЕ ВИ МОЖАТ -САМО УБЕДЕТЕ\nгИ ВАКЦИНИРАНИТЕ ДЕКА НАЈГОЛЕМА ОПАСНОСТ СЕ НЕВАКЦИНИРАНИТЕ.\n",
+        "image": "mk_memes_119.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_121",
+        "text": "ПРИСТИГНА ДОНАЦИЈАТА ВАКЦИНИ НА ,ФАЈЗЕР\"\nОД БУГАРИЈА\n\nРОКОТ ИМ ИСТЕКУВА ЗА 13 ДЕНА\n",
+        "image": "mk_memes_121.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_122",
+        "text": "ПРЕДВАКЦИНА\n\nПОСЛЕ ВАКЦИНА\n",
+        "image": "mk_memes_122.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_123",
+        "text": "ИМ РЕКОВ: JАC RE CE BAKЦИНИРАМ АКО\nТРЕБА, САМО НАРОДОТ НЕ ГО ЧЕПКАTЕ!\n\n",
+        "image": "mk_memes_123.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_124",
+        "text": "ПОСЛЕ ВАКЦИНА\n\nПРЕД ВАКЦИНА\n\n",
+        "image": "mk_memes_124.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_125",
+        "text": "ВАКА ПОНАТАМУ НЕ МОЖЕ\nНАТO КE HE\nБРАНИ, ЕУ КЕ НЕ ХРАНИ\"\n\nМАКЕДОНИЈА Е КОРУМПИРАНА ДРЖАВА\n\nКОЈ ЖИВЕЕ ОД\nКРЕДИТ, УМИРА НА РАТИ\n\n",
+        "image": "mk_memes_125.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_126",
+        "text": "РЕФЕРЕНДУМ З0 СЕПТЕМВРИ 2018 ГОДИНА\nВОЛЈАТА НА МАКЕДОНСКИОТ НАРОД\n\nHE!\nНЕ! ЗА ПРЕСПАНСКИОТ ДОГОВОР\nНЕ! ЗА НАТО\nНЕ! ЗА ЕУ\n",
+        "image": "mk_memes_126.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_127",
+        "text": "TRANSVACCINATED I AM NOT ACTUALLY\n\"VACCINATED\", BUT I IDENTIFY AS SOMEONE\nWHO IS \"VACCINATED\"\n",
+        "image": "mk_memes_127.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_129",
+        "text": "The Neverending Narrative\nBack To Normal\n\n",
+        "image": "mk_memes_129.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_130",
+        "text": "Haha..Ti ne možeš\nu restoran i na koncert\n\nŠteta\n\nVAX\n",
+        "image": "mk_memes_130.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_131",
+        "text": "РАБОТА\n\nНЕМОЈ. НЕ ВРЕДИ.\n",
+        "image": "mk_memes_131.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_132",
+        "text": "Doctor, I feel perfectly healthy\n\nStay home, avoid sunlight,\nCover your respiratory passages\nand take an experimental injection\n",
+        "image": "mk_memes_132.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_133",
+        "text": "Phizer LOYALTY CARD\n",
+        "image": "mk_memes_133.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_134",
+        "text": "WHAT MAKES SEX NOT RAPE?\nCONSENT\n\nWHAT MAKES AJOB NOT SLAVERY?\nCONSENT\n\nWHAT MAKES A\nTRANSACTION NOT ROBBERY?\nCONSENT\n\nWHAT MAKES MANDATORY\nVACCINATIONS NOT TYRANNY?\nMAGICAL FAIRY DUST\n\n",
+        "image": "mk_memes_134.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_138",
+        "text": "НОВА МУТАЦИЈА НА\nКОРОНАВИРУС\n\nНЕМА ПОТРЕБА ДА\nЗАТВАРАМЕ ГРАНИЦИ\n",
+        "image": "mk_memes_138.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_139",
+        "text": "Наскоро Турците и Ромите ке ни ја превземат\nАржавата со население. Што да правиме?\n\nДа ги направиме Македонците Бугари?\n\nДа направиме деца?\n",
+        "image": "mk_memes_139.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_140",
+        "text": "УШТЕ КОЛКУ КРУГА ДУРИ СФАТАТ?\n\nVARIANT\n\nВooSTER\n",
+        "image": "mk_memes_140.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_141",
+        "text": "You said: two doses\n\n\"every 6 months, forever\n",
+        "image": "mk_memes_141.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_143",
+        "text": "Охрид\n10 век\nМАСEDONIA\n\nПлиска\n10 век\n\nПреслав\n10 век\n",
+        "image": "mk_memes_143.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_144",
+        "text": "СТОП за ЕУ\nФАШИЗМОТ\n",
+        "image": "mk_memes_144.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_146",
+        "text": "Дури 25 отсто од проститутките во Австрија се Бугарки\n",
+        "image": "mk_memes_146.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_147",
+        "text": "НЕ ВО НАТО!!!\n\nMAKEDOHCKO HE\n-3 ATPECOPOTI\n\nНЕ ВО ЕУ!!!\n",
+        "image": "mk_memes_147.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_148",
+        "text": "ДОГОВОР ЗА\nДОБРОСОСЕДСТВО\n\n",
+        "image": "mk_memes_148.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_149",
+        "text": "Нема да има\nдвојазичност\n\nНема да има\nпромена на устав\n\nНема да има\nпромена На идентитет\n\nНе се преговара за јазикот и бугаризација\n",
+        "image": "mk_memes_149.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_150",
+        "text": "Ахмети: Ништо лошо нема да настане ако\nго вметнеме бугарското малцинство во Уставот\n\n",
+        "image": "mk_memes_150.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_152",
+        "text": "ЗДРАВ РАЗУМ\n\nПоклон НА ФАШИСТИ\n",
+        "image": "mk_memes_152.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_153",
+        "text": "ПОСЛЕДЕН КРИК НА НАТО ВОЕНАТА ТЕХНОЛОГИЈА\nПРОЕКТИЛ ЗЕМЛА ВОЗДУХ СЛАВЕНКА\n",
+        "image": "mk_memes_153.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_154",
+        "text": "ЧЕДО БОЖЈО! ТВОЈ ДИРЕКТЕН ПРЕДОК Е\nКАН АСПАРУХ!\n\nТАРОТ\n",
+        "image": "mk_memes_154.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_156",
+        "text": "BUSH IN\nOFFICE\n\nOBAMA IN\nOFFICE\n\nTRUMP IN\nOFFICE\n\nBIDEN IN\nOFFICE\n\n",
+        "image": "mk_memes_156.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_158",
+        "text": "Здраво братко. Сакаш ли да ти пратам български книги- подарък са от българите\n\nФала братко сам си купувам тоалетна. Поздрав\n",
+        "image": "mk_memes_158.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_159",
+        "text": "НЕ ВО НАТО!!!\n\nНЕ ВО ЕУ!!!\n",
+        "image": "mk_memes_159.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_160",
+        "text": "Ковачевски: За влакно ми избега\nдатумот за преговори но ќе го добиеме добивме\nсилни ветувања\n",
+        "image": "mk_memes_160.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_161",
+        "text": "Македонци во Бугарија нема\n\nБугари во Македонија има\n",
+        "image": "mk_memes_161.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_162",
+        "text": "ЗА ВЛАКНО НЕ ДОБИВМЕ ДАТУМ.\n",
+        "image": "mk_memes_162.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_163",
+        "text": "Траурното шествие за погребението на Н.В.Цар Борис III минава по бул. \"Цар Освободител\", София, началото на септември 1943 г.\n1940-1950, София, погребения, смъртта на Цар Борис I, събития\n\nГоргиев: Бугарија не може да ја\nдефинираме како класична\nфашистичка земја\n\n",
+        "image": "mk_memes_163.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_164",
+        "text": "WE ARE NATO\n",
+        "image": "mk_memes_164.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_165",
+        "text": "ИЗЛЕЗИ EВРОПСКА МАКЕДОНИЈА\nMA СИРОМАШТИЈА\n",
+        "image": "mk_memes_165.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_166",
+        "text": "СМЕНЕТЕ ГО ИМЕТО, ИЛИ\n",
+        "image": "mk_memes_166.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_167",
+        "text": "Австрискиот канцелар пречекан со погрешно знаме\n",
+        "image": "mk_memes_167.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_168",
+        "text": "НЕ ВЛАГАМЕ У ЕУ И НАТО ДУР НЕ ГО ИСПОРАЧАТЕ ГРУЈО\n",
+        "image": "mk_memes_168.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_169",
+        "text": "To warm my head\nTo warm my feet\nTo warm my hands\nTo warm my heart\n",
+        "image": "mk_memes_169.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_170",
+        "text": "Уживај Ти среди со Грците\n\nПрошетај гиз мојте\n",
+        "image": "mk_memes_170.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_171",
+        "text": "Ako треба и железни опинци\nke облечам, ама 500 евра ..\n\nА jас три пара такви искинав, за да те донесам\nдо дрвово!\n",
+        "image": "mk_memes_171.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_172",
+        "text": "СМЕЈТЕ СЕ ВИЕ! АМА НИЕ СТАНАВМЕ ШВАЈЦАРИЈА!\n",
+        "image": "mk_memes_172.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_174",
+        "text": "НЕ БИДИ МОСТ \n\n3a ЦЕНЗУС СЕВЕРНА\n\nВНИМАВАЈ!\n",
+        "image": "mk_memes_174.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_177",
+        "text": "Не во НАТО!\n\nНе во ЕУ!\n",
+        "image": "mk_memes_177.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_178",
+        "text": "NATO\n",
+        "image": "mk_memes_178.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_179",
+        "text": "YUGOSLAVIA\nAFGHANISTAN\nLIBYA\nSYRIA\n",
+        "image": "mk_memes_179.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_180",
+        "text": "ИМЕ\nJАЗИК\nИДЕНТИТЕТ\n",
+        "image": "mk_memes_180.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_181",
+        "text": "NATO - ОТAN\n\nNORWAY\n\nREPUBLIC OF NORTH\n\n",
+        "image": "mk_memes_181.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_182",
+        "text": "ВЛАДА НА РЕПУБЛИКА СЕВЕРНА\n",
+        "image": "mk_memes_182.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_185",
+        "text": "Как ще му кажа така ше пеe\n",
+        "image": "mk_memes_185.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_188",
+        "text": "АСКЕР\n\nJАНИЧАРИ\n",
+        "image": "mk_memes_188.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_189",
+        "text": "Kokи сине! Каде си?\n\nВлеговме во ЕУ мамо! Сега ke излезам на прес!\n\n",
+        "image": "mk_memes_189.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_191",
+        "text": "ПРЕПОРАКА ЗА СЕВЕРНА\n\n",
+        "image": "mk_memes_191.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_193",
+        "text": "ГОЦЕ ДЕЛЧЕВ БИЛ БУГАРИН",
+        "image": "mk_memes_193.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_194",
+        "text": "а лажна изјава да дадеме?\n",
+        "image": "mk_memes_194.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_195",
+        "text": "МНОГО СЛАБ ТАЛЕНТ!\n\nЖИРИ\n",
+        "image": "mk_memes_195.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_196",
+        "text": "Никој:\nАпсолутно никој:\nНиту Александар Македонски:\nРандом Македонци на интернет:\nMercury\nVenus\nEarth\nMars\nJupiter\nSaturn\nUranus\nNeptune\n",
+        "image": "mk_memes_196.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_197",
+        "text": "За Гоце да се договориме!\n\n",
+        "image": "mk_memes_197.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_199",
+        "text": "How has the EU become so unpopular?",
+        "image": "mk_memes_199.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_200",
+        "text": "NATO ОТAN\n\nВО ЗОНА НА ОСИРОМАШЕН УРАНИУМ\n\n",
+        "image": "mk_memes_200.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_202",
+        "text": "Не им верувам на оние кои и веруваат на ЕУ\n",
+        "image": "mk_memes_202.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_203",
+        "text": "За нас светецов, за вас слепецов!\n",
+        "image": "mk_memes_203.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_204",
+        "text": "СЪЕДИНЕНИЕТО СИЛАТА ПРАВИ\n\nРЕПУБЛИКА БУДАЛИЯ\n\n",
+        "image": "mk_memes_204.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_205",
+        "text": "Инаку чист воздух е загарантиран со УСТАВ ама кој ни е што немаме\n\nУСТАВ\n\n",
+        "image": "mk_memes_205.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_206",
+        "text": "БЕЖАНЦИ\n",
+        "image": "mk_memes_206.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_207",
+        "text": "Гоце Делчев се борел за Фашистичка Бугарија а не за Независна Македонија\n",
+        "image": "mk_memes_207.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_208",
+        "text": "ГНАСИМИО КАРАКАЧАНОВ\n\n",
+        "image": "mk_memes_208.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_209",
+        "text": "HATO\n",
+        "image": "mk_memes_209.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_210",
+        "text": "Аз разбирам света като поле на историческа фалшификация\n",
+        "image": "mk_memes_210.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_211",
+        "text": "Г-н Борисов, маската се слага и на носа\n\nТака добре ли е бе?\n",
+        "image": "mk_memes_211.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_212",
+        "text": "THE EUROPEAN UNION\n\nFASCISM STEP-BY-STEP\n",
+        "image": "mk_memes_212.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_213",
+        "text": "RUS\n\nVIRUS\n",
+        "image": "mk_memes_213.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_214",
+        "text": "Во нивното владеење од 23г. срушија 9 исламски земји и убија 11 милиони лугe\n\nСе разбира никој нема право овие \"миротворци\" да ги нарече ТЕРОРИСТИ!\n",
+        "image": "mk_memes_214.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_216",
+        "text": "НА СТОЛТЕН БЕГОТ ДА МУ СЕ ЈАВЕХ,\nЗА АСПИРАТОРТЕ!\n\nТЕЛЕФОН СЕВЕРНА ПОШТА\n\n",
+        "image": "mk_memes_216.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_218",
+        "text": "ПОПОВИ ПРСКАА СО СВЕТА ВОДА ПРОТИВ\nКОРОНАВИРУСОТ ВО ВЕЛЕС, НЕГОТИНО,\nКАВАДАРЦИ И ГЕВГЕЛИЈА\n",
+        "image": "mk_memes_218.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_222",
+        "text": "АМА, БАШТАА МИ.. КАЖА МИ САМО РАКАТА..\nДАВАЈ ГО ЕЗИКОТ!\n",
+        "image": "mk_memes_222.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_223",
+        "text": "МАКЕДОНСКИ ЈАЗИК\n\n",
+        "image": "mk_memes_223.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_224",
+        "text": "КАДЕ СИ МИЦКО? ТЕ БАРА БОЈКО!\n",
+        "image": "mk_memes_224.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_225",
+        "text": "ДА НЕ СА КУРВИТЕ ВЪВ ЕВРОПА НИКОЙ НЕМАШЕ ДА ЗНАЕ ЗА БЪЛГАРИЯ\n\n",
+        "image": "mk_memes_225.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_226",
+        "text": "ΤΑΤΑΡ\nCОС\nКОМИНТЕРНОВЦИ\n",
+        "image": "mk_memes_226.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_227",
+        "text": "За мене ти си прва љубов\n\n- И последна ќе ти бидам јас.\n",
+        "image": "mk_memes_227.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_228",
+        "text": "Г тај га, пре йзборе! MXM ...\n\nГОЦЕ ДЕЛЧЕВ Е БУГАРИН\n",
+        "image": "mk_memes_228.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_229",
+        "text": "Macedonia: a True Endless Story...\n\nТргнете ги Македонците\nод Бугарија, и таму ќе\nостанат само Татари.\n\n- Дане Поповски, ВМРО,\nанти југословен, борец за независна Македонија",
+        "image": "mk_memes_229.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_231",
+        "text": "Списание за б'лгарски деца от Македония\n\nБлгарска трговска кшта\n\nБ'лгарчЕ\nМалкијат Севренко\nНие сме един народ\n\nПрочетете да не ви се казва\n",
+        "image": "mk_memes_231.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_232",
+        "text": "ПРВО МАЛКУ ЌЕ ВЕ РАЗДВОИМЕ.\n\nА, ПОТОА КЕ ВЕ ОБЕДИНИМЕ.\n",
+        "image": "mk_memes_232.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_233",
+        "text": "МАСОВНА ВАКЦИНАЦИЈА 2\n",
+        "image": "mk_memes_233.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_236",
+        "text": "BECMAME CO ПАЛКА",
+        "image": "mk_memes_236.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_237",
+        "text": "ШЕФОТ МЕ ПРАЌА\nВО РУСИЈА\nПО ВАКЦАЈНСИ.\n\nА ТИ НОСИШ САНКЦИИ\nИ ПРОТЕРАН ДИПЛОМАТ.\n\nSt. Petereburg\n",
+        "image": "mk_memes_237.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_239",
+        "text": "ЗА ПРВ ПАТ ОТКАКО СМЕ ЧЛЕНКА НА НАТО\n\nILIPIDA\n",
+        "image": "mk_memes_239.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_240",
+        "text": "ЌЕ НЕ СПАСИЩ ОД ГОЛЕМА АЛБАНИЈА?\n\nJАС ТРИ РАЛА ОПИНЦИ ИСКИНАВ, ДОДЕКА ТЕ ДОНЕСОВ ДО ТУКА.\n",
+        "image": "mk_memes_240.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_242",
+        "text": "Датумот е стигнат до Петрич\n",
+        "image": "mk_memes_242.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_243",
+        "text": "А МЕНЕ ПРОГАЊА\nJЕДНА ЧУДНА ЖЕНА\n\nJЕДНА\nИЗ БЛАГОЕВ - ГРАДА\n\n",
+        "image": "mk_memes_243.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_245",
+        "text": "евРОПСКА МАКЕДОНИЈО, Добро утро!\n",
+        "image": "mk_memes_245.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_246",
+        "text": "ГЛЕДАШ? ЗАПИШУВААТ шТО КЕ КАЖАМ!\n\nПА НЕ МОЖАТ ДА ТИ ГИ ДОЗАПОМНАТ ГЛУПОСТИТЕ ЦРПЕ!\n",
+        "image": "mk_memes_246.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_248",
+        "text": "ИСЧЕЗНУВАМЕ",
+        "image": "mk_memes_248.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_249",
+        "text": "PRESPA FORUM",
+        "image": "mk_memes_249.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_251",
+        "text": "ПО ТРАКТОРИ ВЕ ВАКЦИНИРААТ КАКО СТОКА!!!\n",
+        "image": "mk_memes_251.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_253",
+        "text": "КАКО НЕ ПАГА оД ОВА ВЕТО?\n\nНЕМА ОПОЗИЦИЈА, ЗАТОА НЕ ПАГА.\n\nВЕТО\n",
+        "image": "mk_memes_253.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_254",
+        "text": "Рама Jaс зборувам а Меркел и\nМакрон запишуваат.\nВучик\n",
+        "image": "mk_memes_254.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_255",
+        "text": "WE ARE IN THE FAPO\n",
+        "image": "mk_memes_255.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_256",
+        "text": "ГОДИНИ ОХРИДСКИ РАMКОВЕН ДОГОВОР",
+        "image": "mk_memes_256.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_257",
+        "text": "ПРЕД ВАКЦИНА\n\nПОСЛЕ ВАКЦИНА\n",
+        "image": "mk_memes_257.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_258",
+        "text": "ЧЕКАМЕ ДАТУМ НА ПЕРИФЕРИЈА ОД СКОПЈЕ.\n",
+        "image": "mk_memes_258.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_259",
+        "text": "ДРУГАР ТИТО! БУГАРИТЕ ВЕЛАТ ДЕКА ВИЕ СТЕ ТЕМЕЛ НА АНТИ-БУГАРСКАТА ПОЛИТИКА!\n\nНЕ Е ТОЧНО! JАС ПРВ ВОВЕДОВ БУГАРСКИ ЛЕТОЦИ\nВО ПОЛИТИЧКА КАМПАЊА! ДУРИ И БУГАРСКИ ВОЗ ПУШТИВ ВО УПОТРЕБА!\n",
+        "image": "mk_memes_259.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_260",
+        "text": "ЗАИГРА СЕ СОс СЛНЦЕТО\n\nА, НЕГО ГО ЗАБРАВИ!\n",
+        "image": "mk_memes_260.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_261",
+        "text": "КЕ ЈА МАЖИМЕ ЗА БУГАРИЈА!\n\n",
+        "image": "mk_memes_261.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_262",
+        "text": "ИЛИНДEНСКИ EЗИК\n",
+        "image": "mk_memes_262.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_263",
+        "text": "Спремен? И не кочи со ноцињата!\n",
+        "image": "mk_memes_263.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_264",
+        "text": "B€TOI\n",
+        "image": "mk_memes_264.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_265",
+        "text": "Малеее, биден лие до сеа, а?! Втор пат а?\n\nНе бе шефе! Прв пат му е!\n\nBIDEN winner\n",
+        "image": "mk_memes_265.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_266",
+        "text": "CEBEPHA\n",
+        "image": "mk_memes_266.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_267",
+        "text": "Madame!\n",
+        "image": "mk_memes_267.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_268",
+        "text": "ШТО АКО БУГАРИЈА НЕ БЛОКИРА ЗА СДСМ ДА RAРАТ ПАТРИОТСКИ ПОЕНИЭ\n",
+        "image": "mk_memes_268.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_269",
+        "text": "EYTHABME\n",
+        "image": "mk_memes_269.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_270",
+        "text": "Бугарите се најголеми душмани на Македонците\n\nCHANGE MY MIND\n",
+        "image": "mk_memes_270.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_271",
+        "text": "ΓΛΑΒΑΤΑ ΚΕ МИ ЕКСПЛОДИРА.\n",
+        "image": "mk_memes_271.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_272",
+        "text": "НАЦИОНАЛНА ЖЕЛЕЗНИИЦА НА РЕПУБЛИКА СЕВЕРНА\n",
+        "image": "mk_memes_272.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_273",
+        "text": "МАДЯ СУТРА\n",
+        "image": "mk_memes_273.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_274",
+        "text": "ADMINISTRATOR",
+        "image": "mk_memes_274.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_276",
+        "text": "во\nAДОТ\nСМЕ\n",
+        "image": "mk_memes_276.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_277",
+        "text": "E, ΟΛΚΟ ΕΙ\nBЕTO\n\n",
+        "image": "mk_memes_277.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_278",
+        "text": "СЕВЕРНА ЕКСПЕРИМЕНТАЛНА ТЕРИТОРИЈА\n",
+        "image": "mk_memes_278.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_279",
+        "text": "А, ОН ЦЕЛО\nВРЕМЕ ТРЕСЕ...\nСТРУМИЦА, ПЕТРИЧ,\nВЕТРИЧ...НЕ Е ИСТО!\n\nСЕГА ИМА СЛИКА?\n\n",
+        "image": "mk_memes_279.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_280",
+        "text": "НАРЕДЕН ДАТУМ ? \n\nВОФ МАРТ!\n\nПРАВИТЕЛСТВО\n\n",
+        "image": "mk_memes_280.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_281",
+        "text": "ВНИМАНИЕ! ВАКЦИНАТА КЕ ПРИСТИГНЕ ПО НОВАТА\n\nЖЕЛЕЗНИЦА\n\nСОФИЈА - СКОПЈЕ\n\n",
+        "image": "mk_memes_281.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_282",
+        "text": "3ΔΡΑΒΕ\nКЕ НЕ БИДЕ!\n",
+        "image": "mk_memes_282.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_283",
+        "text": "ФАШИСТИ!\nИСТОРИЈАТА\nЕ НАУКА!\n\nТАА НЕ СЕ УКИНУВА!\n",
+        "image": "mk_memes_283.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_284",
+        "text": "СЕ ЗДРВИВМЕ!\nМОЖЕ СО СТРУЈА\nКЕ БЕШЕ ПОДОБРО!\n\nНЕ МИ ЈА ЧЕПКАЈ\n\n\n",
+        "image": "mk_memes_284.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_285",
+        "text": "МИНИСТЕРКЕ!\nОВИЕ СОСЕМА ГИ УКИНАА\nУЧЕБНИЦИТЕ. А, ТАМАН СЕГА\nСЕ ДОГОВОРИТЕ ЗА\nЗА УЧЕЊЕ НА ЗАЕДНИЧКА\nИСТОРИЈА. ШТО СЕГА?\n\nЕМИ, ВЕТО И ЗА ТОВА!\n",
+        "image": "mk_memes_285.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_286",
+        "text": "ЧЕКАЈКИ ГО\nБОЈКО\n\n",
+        "image": "mk_memes_286.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_287",
+        "text": "ПОПИСОТ Е НАШИОТ ПАТ КОН\n\nЕУТАНАЗИЈA\n\n",
+        "image": "mk_memes_287.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_288",
+        "text": "EY\nСедо Перо\n#Северна (Ден потоа) Отворен ни е патот !\n\n",
+        "image": "mk_memes_288.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_289",
+        "text": "JАC, СО СРПСКА ИГЛА, НЕМА ДА СЕ БОДАМ!\n\n",
+        "image": "mk_memes_289.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_290",
+        "text": "ГИ ТЕСТИРАВМЕ И СИТЕ СЕ КОС-ПОЗИТИВНИ!\n\n",
+        "image": "mk_memes_290.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_291",
+        "text": "ЦЕЛ ДЕН ТЕ НЕМА!\n\nНЕМОЈ ДА ЧИСТИШ СОТАА КРПА, КЕ НЕ УАПСАТ!\n\n",
+        "image": "mk_memes_291.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_293",
+        "text": "ВЛЕГОВМЕ ВО НАТО ЗА ДА ДОБИЕМЕ ОД ВAКЦИНА\n",
+        "image": "mk_memes_293.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_294",
+        "text": "ВАКСАЈН\nФЕСТ\nТАБАНОВЦЕ 2021\n1.02.2021 ПОЧЕТОК 14 ЧАСОТ\nНАСТАЛУВААТ\nСРАСКИ НЕДЕМОКРАТСКИ РЕЖИМ\nЧРПИ И МАЛО СУТРА 6ЕНД\nAПЛАУДИРАН МИНИСТЕР\nАРИЗИНА 8ОМАН\nКАРТИ ВО ПРОДАЖБА НА\nwWW. VACINACIJA.MK\n",
+        "image": "mk_memes_294.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_296",
+        "text": "ВАЛЕНТАЈН БЕШЕ, ВАКА ИСТО. JА ЧЕКАВ, ЈА ЧЕКАВ\nСО ОТВОРЕНИ ЧУВСТВА. АМА НЕЈЗИНИОТ МАЖ..\nНЕ ЈА ПУШТИ.\n\nНАТО\n",
+        "image": "mk_memes_296.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_297",
+        "text": "ДЕНЕСКА МИ Е САБОТА ОФ АМАН КИРАЦА КОДИ НА ПАЗАР\n",
+        "image": "mk_memes_297.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_298",
+        "text": "ПОЧИТУВАНИ,\nКАКО ШТО ГЛЕДАТЕ\nНИ СТИГНА КАРАМАТА.\n\nSputnik V\n",
+        "image": "mk_memes_298.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_299",
+        "text": "ДРУГАР АПОСТО, ВЕЛАТ ДЕКА ВИ ГО ПРОБИЛЕ СЛОВОТО НА САЈТОТ!\n\nНЕ Е ТОЧНО! СЛОВОТО Е ЗАШТИТЕНО,\nОД НАС И ОД БУГАРСКА СТРАНА. АМА, JАС НЕ СУМ ИНФОРМАТИЧАР, JАAС СУМ СТАТИСТИЧАР.\n\n",
+        "image": "mk_memes_299.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_300",
+        "text": "СИТЕ СМЕ БЛГАРИ, И СЕ Е Б'ЛГАРСКО\nБ'ЛГАРИ СМЕ И ВОЈВОДИТЕ И КОМИТИТЕ..\n\n",
+        "image": "mk_memes_300.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_302",
+        "text": "ДОВЕРБА ДО КАНТОНИЗАЦИЈА\n",
+        "image": "mk_memes_302.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_303",
+        "text": "ПОЧИТУВАНИ! СЕГА ЌЕ ПОРАЗГОВАРАМЕ СО ЕДЕН\nНАШ ПОВРАТНИК ОД САД.\n\nSHKUP\n",
+        "image": "mk_memes_303.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_304",
+        "text": "БУГАРИТЕ ВЛЕГУВААТ ВО УСТАВОТ\n",
+        "image": "mk_memes_304.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_305",
+        "text": "ВАСИЛ, ВАСИЛ КРАСИВ И МИЛ. В ТВИТЕ КРИЛА, Е МОЈАТА СИЛА!\n",
+        "image": "mk_memes_305.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_307",
+        "text": "\"Г\"Е МОЈОТ\nКОНЕЧЕН ОДГОВОР!\n\n5. ЗА ВАКСАЈНСИТЕ\nКОЈ ЛАЖЕ ПОВЕКЕ?\n\nA: СТЕВО\nB: ВЕНКО\nБ: БРАТ МУ НА ШЕМКО\nГ: БРАТ МУ НА ВИЦЕ\n",
+        "image": "mk_memes_307.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_308",
+        "text": "ВЛАДАТА НА НАШАТА СЕВЕРНА ЗЕМЈА, КОНЕЧНО ТРГНА ВО 0ФАНЗИВА ПРОТИВ КОВИД 19 НЕПРИЈАТЕЛОТ.\n",
+        "image": "mk_memes_308.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_309",
+        "text": "JА ДОНЕСОВМЕ ЕВРОПА ДОМА.\n",
+        "image": "mk_memes_309.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_310",
+        "text": "Зоран Заев е промената во општеството\nкоја генерации граѓани ја чекаа\nза да ги исполнат соништата на своите деца.\nBenro Pusuwre\n",
+        "image": "mk_memes_310.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_311",
+        "text": "ПРЕД ПОПИС ОПЕРЯЦИЈА ПОТРЕБНА НИ Е\nСЕДАЦИЈА\n",
+        "image": "mk_memes_311.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_313",
+        "text": "идентитет\n",
+        "image": "mk_memes_313.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_314",
+        "text": "Македонија прво место!\n\nУ фудбал?\n\nУ Масер Манги у власт!",
+        "image": "mk_memes_314.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_316",
+        "text": "БУГАРИЈА НИ ДОНИРАШЕ ВАКЦИНИ СО УШТЕ\n13 ДЕНА РОК НА УПОТРЕБА СЕ ШАЛИШ?\n\nСЕ ШАЛИШ?\n",
+        "image": "mk_memes_316.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_317",
+        "text": "МЕЛИНАРНА БОЛНИЦА\n\n",
+        "image": "mk_memes_317.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_318",
+        "text": "СО ТЕРЕНЕЦ ВО PАЈОТ. БЕЗ ВАКЦИНА ВО ПЕКОЛОТ.\n\n",
+        "image": "mk_memes_318.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_319",
+        "text": "Невакцинираните\nсе потенцијални\nсамоубијци и\nнема да влезат\nВо царството\nнебесно, вели\nвладиката Петар\n\nМАКЕДОНИЈА\n",
+        "image": "mk_memes_319.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_321",
+        "text": "И ВО ВТОРАТА СВЕТСКА ВОЈНА ИМАШЕ НАШИ ШТО ОДЕА СО ФАШИСТИТЕ.\n\n",
+        "image": "mk_memes_321.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_323",
+        "text": "Методија Андонов\nЧенто бил калкулант.\nДури откако се осигурал дека\n\"ke kaпитулира Бугарија,\nсе приклучил кон пӑртйзаните.\"\n",
+        "image": "mk_memes_323.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_324",
+        "text": "НЕМА ВЕЌЕ ДАТУМ\n\n",
+        "image": "mk_memes_324.png",
+        "labels": [
+            "Smears"
+        ]
+    },
+    {
+        "id": "mk_memes_325",
+        "text": "Волкот од шумата\n\nАко Бугарија излезеше од ЕУ пола\n\nМакедонија срцев удар ќе добиеше.\n",
+        "image": "mk_memes_325.png",
+        "labels": [
+            "Smears"
+        ]
+    }
+]
