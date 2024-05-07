@@ -196,8 +196,8 @@ mkdir -p Predictions/subtask2a
 ### Step 2: Evaluate Ensemble Models
 Once the models are trained, proceed to evaluate them using the ensemble approach. We have dedicated notebooks for these evaluations:
 
-Ensemble Evaluation Subtask 1a.ipynb
-Ensemble Evaluation Subtask 2a.ipynb
+- Ensemble Evaluation Subtask 1a.ipynb
+- Ensemble Evaluation Subtask 2a.ipynb
 
 
 
