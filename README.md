@@ -70,7 +70,8 @@ Use the provided Jupyter notebooks to extract and save the features. Run the fol
 - **Extract NER Embeddings.ipynb**: This notebook is specifically used for extracting Named Entity Recognition (NER) features using the `Babelscape/wikineural-multilingual-ner` model.
 - **Feature Extractor.ipynb**: This notebook has code to extract visual features for subtask2a using CLIP model. 
 
-Then, open each notebook and execute the cells according to the instructions provided within them.
+Then, open each notebook and execute the cells according to the instructions provided within them. 
+`Note:` Need to have OpenAI API key to generate `text-embeddings-3-small` and `text-embeddings-3-large` embeddings
 
 ### Step 5: Reusing Extracted Features
 
