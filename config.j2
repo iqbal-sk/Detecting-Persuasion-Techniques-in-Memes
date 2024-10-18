@@ -1,0 +1,68 @@
+# Task configuration
+{% set task = 'subtask1' %}
+task: '{{ task }}'
+
+# Feature Extractor configuration
+feature_extractor:
+  {% set text_model = 'OpenAiLarge' %}
+  {% set image_model = 'ResNet50' %}
+  text_model: '{{ text_model }}'
+  image_model: '{{ image_model }}'
+  train_text_features_outfile: '{{ "data/TextFeatures/" + task + "/" + text_model  + "_train.pkl" }}'
+  val_text_features_outfile: '{{ "data/TextFeatures/" + task + "/" + text_model + "_val.pkl" }}'
+  train_image_features_outfile: '{{ "data/ImageFeatures/" + task + "/" + image_model + "_train.pkl" }}'
+  val_image_features_outfile: '{{ "data/ImageFeatures/" + task + "/" + image_model + "_val.pkl" }}'
+
+# Training configuration
+training:
+  dataset_file: '{{ "data/raw/" + task + "/train.json" }}'
+  images_directory: 'data/train_images'
+
+  {%  if task == 'subtask1' %}
+  {% set model_name = text_model %}
+  {% elif task == 'subtask2a' %}
+  {% set model_name = 'MultiModal' %}
+  {% endif %}
+
+  model: '{{ model_name }}'
+
+  {% if task == 'subtask1' %}
+  save_model_to: '{{ "results/trained-models/" + task + "/" + model_name }}'
+  {% elif task == 'subtask2a' %}
+  save_model_to: '{{ "results/trained-models/" + task + "/" + text_model + "_" + image_model }}'
+  {% endif %}
+
+  hyperparameters:
+    alpha: 0.6907160287074812
+    batch_size: 256
+    beta: 0.5609451396964716
+    beta1: 0.9119580642548668
+    learning_rate: 0.00025252807109908345
+    dropout_rate: 0.15
+    threshold: 0.7710184089072092
+    num_epochs: 2
+
+# Evaluation configuration
+evaluation:
+  dataset_file: '{{ "data/raw/" + task + "/validation.json" }}'
+  images_directory: 'data/validation_images'
+  hyperparameters:
+    metric: 'Hierarchical F-1'
+    threshold: 0.4
+
+  {% if task == 'subtask1' %}
+  prediction_output_path: '{{ "results/predictions/" + model_name + "_" + task + "_val_predictions.json" }}'
+  {% elif task == 'subtask2a' %}
+  prediction_output_path: '{{ "results/predictions/" + model_name + "_" + image_model + "_" + text_model + "_" + task + "_val_predictions.json" }}'
+  {% endif %}
+
+results:
+  metrics_file: '{{ "results/" + model_name + "-metrics.csv" }}'
+  {% if task == 'subtask1' %}
+  plot_dir: '{{ "results/plots/" + task + "/" + model_name}}'
+  {% elif task == 'subtask2a' %}
+  plot_dir: '{{ "results/plots/" + task + "/" + image_model + "_" + text_model}}'
+  {% endif %}
+
+openai:
+  api_key: '{{ OPENAI_KEY }}'
