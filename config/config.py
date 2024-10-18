@@ -4,6 +4,7 @@ from typing import Any, Optional
 from pathlib import Path
 import os
 import sys
+from config.logger import get_logger
 from jinja2 import Environment, FileSystemLoader
 
 @dataclass
@@ -73,15 +74,17 @@ class ConfigLoader:
         Load configuration from a Jinja2-templated YAML file and return a Config object.
         Implements singleton pattern to ensure configuration is loaded only once.
         """
-
+        logger = get_logger(__name__)  # Get a logger for this module
 
         if cls._config is not None:
+            logger.debug("Configuration already loaded. Returning cached config.")
             return cls._config
 
         try:
             path = Path(config_path)
-
+            logger.debug(f"Loading configuration from path: {path}")
             if not path.is_file():
+                logger.error(f"Configuration file {config_path} not found.")
                 sys.exit(1)
 
             # Set up Jinja2 environment
@@ -102,8 +105,12 @@ class ConfigLoader:
             # Render the template
             rendered_config = template.render(**context)
 
+            logger.debug("Rendered configuration:")
+            logger.debug(rendered_config)
+
             # Load the rendered YAML
             cfg = yaml.safe_load(rendered_config)
+            logger.debug("Rendered YAML loaded into Python dictionary.")
 
             # Parse each section into corresponding dataclasses
             training_hyperparams = TrainingHyperparameters(**cfg['training']['hyperparameters'])
@@ -143,21 +150,22 @@ class ConfigLoader:
                 results=results_config,
                 openai=openai_cfg
             )
+            logger.info("Configuration loaded successfully.")
 
             return cls._config
 
         except FileNotFoundError:
-            print(f"Configuration file {config_path} not found.")
+            logger.error(f"Configuration file {config_path} not found.")
             sys.exit(1)
         except yaml.YAMLError as exc:
-            print(f"Error parsing YAML file: {exc}")
+            logger.error(f"Error parsing YAML file: {exc}")
             sys.exit(1)
         except TypeError as exc:
-            print(f"Configuration structure error: {exc}")
+            logger.error(f"Configuration structure error: {exc}")
             sys.exit(1)
         except KeyError as exc:
-            print(f"Missing configuration key: {exc.args[0]}")
+            logger.error(f"Missing configuration key: {exc.args[0]}")
             sys.exit(1)
         except Exception as exc:
-            print(f"An unexpected error occurred: {exc}")
+            logger.error(f"An unexpected error occurred: {exc}")
             sys.exit(1)
