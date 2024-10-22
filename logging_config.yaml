@@ -1,0 +1,64 @@
+version: 1
+disable_existing_loggers: False
+
+formatters:
+  standard:
+    format: '%(asctime)s [%(levelname)s] %(name)s: %(message)s'
+  detailed:
+    format: '%(asctime)s [%(levelname)s] %(name)s %(filename)s:%(lineno)d: %(message)s'
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: standard
+    stream: ext://sys.stdout
+
+  file:
+    class: logging.handlers.RotatingFileHandler
+    level: DEBUG
+    formatter: detailed
+    filename: logs/project.log
+    maxBytes: 10485760  # 10MB
+    backupCount: 5
+    encoding: utf8
+
+loggers:
+  config:
+    handlers: [console]
+    level: DEBUG
+    propagate: False
+
+  src:
+    handlers: [console, file]
+    level: DEBUG
+    propagate: False
+
+  src.datasets:
+    handlers: [console, file]
+    level: DEBUG
+    propagate: False
+
+  src.evaluation:
+    handlers: [console, file]
+    level: DEBUG
+    propagate: False
+
+  src.FeatureExtractor:
+    handlers: [console, file]
+    level: DEBUG
+    propagate: False
+
+  src.models:
+    handlers: [console, file]
+    level: DEBUG
+    propagate: False
+
+  src.utils:
+    handlers: [console, file]
+    level: DEBUG
+    propagate: False
+
+root:
+  handlers: [console]
+  level: DEBUG
