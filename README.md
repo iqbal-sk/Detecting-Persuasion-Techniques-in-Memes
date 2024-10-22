@@ -1,6 +1,23 @@
-# Detecting Persuasion Techniques in Memes
+# Hierarchical Detection of Persuasion Techniques in Memes
 
-## Project Description
+---
+
+## **Table of Contents**
+1. [Project](#project)
+2. [Data](#data)
+2. [Persuasion Techniques](#techniques)
+3. [Related Work](#related-work)
+4. [Hierarchical Loss Function](#hierarchical-loss-function)
+5. [Results](#results)
+6. [Discussion and Error Analysis](#discussion-and-error-analysis)
+7. [Conclusion](#conclusion)
+8. [Usage](#usage)
+8. [References](#references)
+
+---
+
+## **Project**
+Memes have evolved from entertainment to powerful instruments for online disinformation campaigns. This project aims to build robust models to detect persuasion techniques embedded within memes, enhancing the ability to mitigate the impact of such content on public opinion.
 
 "Detecting Persuasion Techniques in Memes" is a research project aimed at identifying and analyzing various persuasion techniques used in memes. This project is part of the SemEval2024
 shared task on "Multilingual Detection of Persuasion Techniques in Memes." The challenge involves understanding and classifying the persuasive elements in memes, which may include logical 
@@ -15,7 +32,7 @@ The tasks are divided into:
 
 This repository contains the code, models developed for the SemEval2024 competition, providing tools to tackle the challenges of detecting persuasion in multimodal content.
 
-## Data Access and Prediction Submission
+## Data
 
 To access the data for this project and submit your predictions, register at the following link:
 
@@ -23,195 +40,152 @@ To access the data for this project and submit your predictions, register at the
 
 After registration, you will be able to download the data and participate in the tasks by submitting your predictions through the provided platform.
 
-## Our Approach
 
-In our project "Detecting Persuasion Techniques in Memes", we address the hierarchical detection of persuasion techniques using a novel approach that considers a top-down hierarchical classification. This method provides the neural classifiers with more context at each level of the hierarchy, facilitating more accurate and context-aware predictions.
+---
 
-### Hierarchical Classification
+## **Techniques**
+Recent research has identified 22 persuasion techniques applied across textual and visual mediums. This project tackles the challenge of identifying these techniques through a **multi-label hierarchical classification** approach. Given the evolving nature of internet memes and their heavy reliance on current trends and sarcasm, detecting such techniques requires a sophisticated methodology.
+<div align="center">
+<img src="images/techniques.jpeg" alt="persuasion techniques" width="400" height="270">
+</div>
 
-We utilize a hierarchical classification strategy that begins at the root level and progresses deeper based on the predictions at each parent level. This approach not only respects the inherent hierarchy within the persuasion techniques but also enhances the contextual understanding necessary for accurate classification.
+---
 
-### Custom Loss Function
+## **Related Work**
+- **Propaganda Detection:** Traditional binary classifiers like SVM, Naive Bayes, and Random Forest show limitations in identifying complex hate speech.  
+- **Transformer Models:** Advanced methods such as DeBERTa, XLM-RoBERTa, and GPT-3 have demonstrated improved performance in multimodal setups.  
+- **Shared Tasks:** Models from competitions like SemEval highlight the importance of transformer-based and multimodal approaches for detecting propaganda.
 
-To effectively train our model within this hierarchical framework, we developed a custom loss function tailored for this task. This loss function is designed to manage the relationships between parent and child nodes in the hierarchy, penalizing discrepancies and improving the model’s ability to make consistent predictions across levels.
+---
 
-## Feature Extraction Process
+## **Architecture**
+<div align="center">
+<img src="images/neural_layer_template_NLP.drawio.png" alt="Architecture" width="600" height="500">
+</div>
 
-To ensure efficient training and reduce computational overhead during each epoch, our project employs a pre-processing step where we extract features from both text and image data. These features are saved in a pickle file for reuse throughout the training process.
+---
 
-### Step 1: Data Preparation
+## **Hierarchical Loss Function**
+The **hierarchical loss** is designed to maintain consistency across classification levels:  
 
-After registering and downloading the necessary datasets from the [task webpage](https://propaganda.math.unipd.it/semeval2024task4/), place the data in the root directory of this repository.
+1. **Layer-Specific Loss:** Layer specific loss is straight forward it is summation of losses at each level for predictions made by considering both current level and previous level (parent level) representations. Formulation of this loss at each level is given as:
 
-### Step 2: Setting Up Feature Storage
-
-Create a directory named `TextFeatures` in the root directory of the repository. Within this directory, create subfolders for each model used to extract features:
-
-```bash
-mkdir -p TextFeatures/subtask1a/text-embeddings-3-large
-mkdir -p TextFeatures/subtask1a/text-embeddings-3-small
-mkdir -p TextFeatures/subtask1a/mBERT
-mkdir -p TextFeatures/subtask1a/multilingual-ner
-```
-
-Create the same structure for subtask2a under `TextFeatures` directory. 
-
-### Step 3: Setting Up Feature Storage for Image Features
-Additionally, set up directories under ImageFeatures to store image features extracted for Subtask 2a. Use the following commands to create these directories:
-```bash
-mkdir -p ImageFeatures/CLIP-ViT
-mkdir -p ImageFeatures/ResNet
-```
-
-### Step 4: Extracting Text and NER Features and Image Features
-
-Use the provided Jupyter notebooks to extract and save the features. Run the following notebooks:
-- **Feature Extractor.ipynb**: This notebook extracts general text features using models such as `text-embeddings-3-large` and `text-embeddings-3-small` from OpenAI, and `bert-base-multilingual-uncased`.
-- **Extract NER Embeddings.ipynb**: This notebook is specifically used for extracting Named Entity Recognition (NER) features using the `Babelscape/wikineural-multilingual-ner` model.
-- **Feature Extractor.ipynb**: This notebook has code to extract visual features for subtask2a using CLIP model. 
-
-Then, open each notebook and execute the cells according to the instructions provided within them. 
-`Note:` Need to have OpenAI API key to generate `text-embeddings-3-small` and `text-embeddings-3-large` embeddings
-
-### Step 5: Reusing Extracted Features
-
-Once the features are extracted and stored in the `TextFeatures` directory, you can proceed with training your models. The training scripts are configured to automatically load these pre-extracted features, significantly speeding up the training process.
-
-## Obtaining Milestone 2 Results
-
-To reproduce the results for Milestone 2 using our baseline models, follow the instructions below. These results pertain to the initial evaluations conducted with our baseline models for both text-only and multimodal approaches.
-
-### Running Baseline Models
-
-To obtain the results for the baseline models, you need to run the following Jupyter notebooks:
-- **Baseline softmax.ipynb**: This notebook executes our softmax baseline model which focuses on the text-only approach for Subtask 1.
-- **BaseLine subtask 2a.ipynb**: This notebook is used for the multimodal approach combining both text and image data, specifically for Subtask 2a.
-
-## Obtaining Milestone 3 Results
-
-Milestone 3 focuses on refining the performance of our models through hyperparameter tuning and ensemble methods. This stage is critical for enhancing the accuracy and robustness of our predictions, especially for multimodal data that includes both text and image content.
-
-### Hyperparameter Tuning
-
-To begin hyperparameter tuning, run the notebooks that start with `FineTune`. These notebooks contain code for fine-tuning various models using the features extracted previously for both text and image content.
-
-### Best Hyperparameters for Ensemble Models
-
-In our ensemble, each model was fine-tuned with specific hyperparameters that optimized its performance. Below, we detail the best hyperparameters used for each model included in the ensemble.
-
-#### Model 1: BERT-Base-Multilingual-Uncased (subtask1a)
-
-- **alpha:** 0.8551238693613787
-- **batch_size:** 256
-- **beta:** 0.9636246518811256
-- **beta1:** 0.8795857325304084
-- **learning_rate:** 0.000328898551319524
-- **optimizer:** "adam"
-
-#### Model 2: Text-Embeddings-3-Small (subtask1a)
-
-- **alpha:** 0.6903448674283283
-- **batch_size:** 256
-- **beta:** 0.5953036715609454
-- **beta1:** 0.8889795457914553
-- **learning_rate:** 0.00008545944172126079
-- **threshold:** 0.7579501306367982
-- **optimizer:** "adam"
-
-#### Model 3: Text-Embeddings-3-Large (subtask1a)
-
-- **alpha:** 0.8755203100909268
-- **batch_size:** 256
-- **beta:** 0.6818375897649283
-- **beta1:** 0.8040811213879919
-- **learning_rate:** 0.00005924267168802313
-- **threshold:** 0.6965199717281236
-- **optimizer:** "adam"
-
-#### Model 4: Multilingual-NER concatenated with Text-Embeddings-3-Large (subtask1a) [FineTuning-openAI-NER-models.ipynb]
-
-- **alpha:** 0.9654478666765854
-- **batch_size:** 128
-- **beta:** 0.7870273949525248
-- **beta1:** 0.9476979307645412
-- **learning_rate:** 0.00002919434743481965
-- **threshold:** 0.70148548183942
-- **optimizer:** "adam"
-
-#### Model 5: dslim/bert-large-NER concatenated with Text-Embeddings-3-Large (subtask1a)
-
-- **alpha:** 0.7899005629013283
-- **batch_size:** 256
-- **beta:** 0.6740115397343491
-- **beta1:** 0.8278023344142735
-- **learning_rate:** 0.00006878876239114434
-- **threshold:** 0.8328292373348003
-- **optimizer:** "adam"
-
-#### Model 6: MultiModal (Text-Embeddings-3-Small + CLIP ViT) (subtask 2a)
-- **alpha:** 0.9596038456941688
-- **batch_size:** 256
-- **beta:** 0.8280858527581143
-- **beta1:** 0.8866946466052821
-- **learning_rate:** 0.00002027017555166722
-- **threshold:** 0.777320492008404
-- **optimizer:** "adam"
-
-#### Model 7: MultiModal (Text-Embeddings-3-Large + CLIP ViT) (subtask 2a)
-- **alpha:** 0.7223389515334716
-- **batch_size:** 128
-- **beta:** 0.5988294510599028
-- **beta1:** 0.8241157015762189
-- **learning_rate:** 0.00001143725193237004
-- **threshold:** 0.7030603796002977
-- **optimizer:** "adam"
-
-#### Model 8: MultiModal (Text-Embeddings-3-Large with multilingual NER Features + CLIP ViT) (subtask 2a)
-- **alpha:** 0.9554773569147176
-- **batch_size:** 256
-- **beta:** 0.5574211699087009
-- **beta1:** 0.8820616638990478
-- **learning_rate:** 0.00004621549413784373
-- **threshold:** 0.7892825010021706
-- **optimizer:** "adam"
+<div align="center">
+<img src="images/eqn.png" alt="Architecture" width="400" height="70">
+</div>
 
 
-These parameters were identified through a rigorous process of hyperparameter tuning, involving bayes search and validation on a held-out dataset to ensure that each model performs optimally within the ensemble.
+The sum of all layers is defined as:
 
-#### Using Hyperparameters in Model Training
+$$
+L_{\text{layer specific}} = \sum_{l=1}^{5} L_{l}
+$$
 
-To utilize these hyperparameters in training, refer to the specific sections in the fine-tuning notebooks where these values are set before starting the training process. Ensure to adjust the paths and model configurations as per your setup.
+2. **Dependency Loss:** Penalizes incorrect predictions that deviate from valid parent-child relationships.  
+   
+$$
+D_l = \text{softplus} \left( \sum_{k \in C_{labels}} \delta(k, P_{labels}) \right) 
+$$
 
-## Post-Training Setup and Evaluation
 
-After training the models as per the hyperparameters discussed, the next steps involve organizing the predictions and evaluating the ensemble models for both Subtask 1a and Subtask 2a.
+where $C_{labels}$ is the set of predicted labels at $level_l$ for instance $i$, $ P_{labels}$is the set of predicted labels at $level_{l - 1}$ (parent level), and $\delta(k, P_{labels})$ is an indicator function that returns 1 if label $k$ is not a valid child of any labels in $P_l(i)$, and 0 otherwise.
 
-### Step 1: Create Directories for Storing Predictions
 
-Before moving forward with predictions, set up directories to organize the output. Use the following commands to create the necessary directories:
+The total dependency loss is then:
+
+$$
+L_{dependency} = \sum_{l=2}^{L} ploss_{l-1}^{D_l + l_{prev}} \cdot ploss_{l}^{D_l + l_{curr}}
+$$
+
+
+where $ploss_{l-1}$ and $ploss_l$ are predefined values that escalate with the hierarchy level to impose heavier penalties for misclassifications at higher levels, and $\beta$ is a scaling factor for the dependency loss’s overall impact. Where $l_{prev}$ and $l_{curr}$ are the number of classes that are correctly classified in previous and current level.
+
+Overall, Hierarchical loss is given by
+
+$$
+H_{loss} = \alpha \cdot L_{layer\_specific} + \beta \cdot L_{dependency}
+$$
+
+where $\alpha$ and $\beta$ are hyperparameters.
+
+---
+
+## Results
+
+Achieved *state-of-the-art results* in Bulgarian and Macedonian languages for SemEval 2024 Task 4 (Subtask 2a).
+
+| Language    | H-F1 (Subtask 1) | H-F1 (Subtask 2a) |
+|-------------|------------------|-------------------|
+| English     | 0.66391          | 0.69666           |
+| Bulgarian   | 0.48411          | 0.65638           |
+| Macedonian  | 0.46615          | 0.69844           |
+| Arabic      | 0.44478          | 0.53378           |
+
+---
+
+## Discussion and Error Analysis
+
+- **Misclassification Issues:** Instances where the model predicted incorrect techniques (e.g., predicting “Loaded Language” instead of “Doubt”).
+- **Multimodal Challenges:** Handling multiple speakers within memes remains a challenge. Further improvements could be made through *data cleaning* and *prompt engineering* with large language models.
+
+---
+
+## Conclusion
+
+This project successfully demonstrates the potential of hierarchical classification for detecting persuasion techniques in memes. With improvements in *loss functions* and *advanced embeddings*, the model achieves state-of-the-art performance. Future work will explore more *robust multimodal integration* and *language expansion* to further enhance meme analysis.
+
+## Usage
+
+To reproduce the results of this project, follow these steps to set up the environment and run the implementation.
+
+1. First, clone the project repository from GitHub:
 
 ```bash
-mkdir -p Predictions
-mkdir -p Predictions/subtask2a
+git clone https://github.com/iqbal-sk/Detecting-Persuasion-Techniques-in-Memes.git
+cd Detecting-Persuasion-Techniques-in-Memes
 ```
-### Step 2: Evaluate Ensemble Models
-Once the models are trained, proceed to evaluate them using the ensemble approach. We have dedicated notebooks for these evaluations:
+2. It is recommended to use a virtual environment to avoid dependency conflicts. You can create a virtual environment using `venv`:
+```bash
+python -m venv env
+source env/bin/activate
+```
+3. Once the virtual environment is activated, install the project dependencies listed in the requirements.txt file:
+```bash
+pip install -r requirements.txt
+```
+4. Configure the Task and Models
 
-- Ensemble Evaluation Subtask 1a.ipynb
-- Ensemble Evaluation Subtask 2a.ipynb
+Open the configuration file (`config.j2`) and set the task variable and the corresponding models as follows:
 
+- **task:** Choose either `subtask1` or `subtask2a`.
+  - For **subtask1**, configure only the `text_model`:
+    - Possible values: `"mBERT"`, `"XLNet"`, `"XLMRoBERTa"`, `"OpenAiSmall"`, `"OpenAiLarge"`
+  - For **subtask2a**, configure both `text_model` and `image_model`:
+    - `text_model`: `"OpenAiSmall"`, `"OpenAiLarge"`, `"mBERT"`
+    - `image_model`: `"ResNet50"`, `"CLIP"`
 
+You can adjust the `hyperparameters` to better suit your experiments. Modify the hyperparameters section in the configuration file (`config.j2`)
 
+## References
 
+1. Gao, Dehong. "Deep Hierarchical Classification for Category Prediction in E-commerce System." *Proceedings of the 3rd Workshop on e-Commerce and NLP*, Association for Computational Linguistics, Seattle, WA, USA, 2020, pp. 64-68. [doi:10.18653/v1/2020.ecnlp-1.10](https://aclanthology.org/2020.ecnlp-1.10).
 
+2. Pires, Telmo, Eva Schlinger, and Dan Garrette. "How Multilingual is Multilingual BERT?" *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics*, Association for Computational Linguistics, Florence, Italy, 2019, pp. 4996-5001. [doi:10.18653/v1/P19-1493](https://aclanthology.org/P19-1493).
 
+3. He, Kaiming, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. "Deep Residual Learning for Image Recognition." *CoRR*, vol. abs/1512.03385, 2015. [arXiv:1512.03385](http://arxiv.org/abs/1512.03385).
 
+4. Rogers, Anna, Olga Kovaleva, and Anna Rumshisky. "A Primer in BERTology: What We Know About How BERT Works." *Transactions of the Association for Computational Linguistics*, vol. 8, MIT Press, 2020, pp. 842-866. [doi:10.1162/tacl_a_00349](https://aclanthology.org/2020.tacl-1.54).
 
+5. Radford, Alec, et al. "Learning Transferable Visual Models From Natural Language Supervision." *CoRR*, vol. abs/2103.00020, 2021. [arXiv:2103.00020](https://arxiv.org/abs/2103.00020).
 
+6. He, Pengcheng, Xiaodong Liu, Jianfeng Gao, and Weizhu Chen. "DeBERTa: Decoding-enhanced BERT with Disentangled Attention." *CoRR*, vol. abs/2006.03654, 2020. [arXiv:2006.03654](https://arxiv.org/abs/2006.03654).
 
+7. Conneau, Alexis, et al. "Unsupervised Cross-lingual Representation Learning at Scale." *CoRR*, vol. abs/1911.02116, 2019. [arXiv:1911.02116](http://arxiv.org/abs/1911.02116).
 
+8. Lin, Tsung-Yi, Priya Goyal, Ross B. Girshick, Kaiming He, and Piotr Dollár. "Focal Loss for Dense Object Detection." *CoRR*, vol. abs/1708.02002, 2017. [arXiv:1708.02002](http://arxiv.org/abs/1708.02002).
 
+9. Wu, Tong, Qingqiu Huang, Ziwei Liu, Yu Wang, and Dahua Lin. "Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets." *CoRR*, vol. abs/2007.09654, 2020. [arXiv:2007.09654](https://arxiv.org/abs/2007.09654).
 
+10. Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." *CoRR*, vol. abs/1810.04805, 2018. [arXiv:1810.04805](http://arxiv.org/abs/1810.04805).
 
-
-
+11. Chung, Hyung Won, et al. "Scaling Instruction-Finetuned Language Models." 2022. [arXiv:2210.11416](https://arxiv.org/abs/2210.11416).
