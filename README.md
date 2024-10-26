@@ -112,6 +112,19 @@ where $\alpha$ and $\beta$ are hyperparameters.
 
 ## Results
 
+The following table provides the success of Hierarchical loss over conventional BCE loss for multi label classification.
+
+| Feature Extractor | Loss Function | Hierarchical F1 | Hierarchical Precision | Hierarchical Recall |
+|------------------|----------------|----------------|-----------|---------|
+| mBERT | Traditional BCE | 0.518 | 0.615 | 0.448 |
+| mBERT | Hierarchical Loss | 0.573 ⬆️ (10.62%) | 0.586 | 0.560 ⬆️ (25%) |
+| OpenAI text-embedding-3-large | Traditional BCE | 0.585 | 0.659 | 0.526 |
+| OpenAI text-embedding-3-large | Hierarchical Loss | 0.645 ⬆️ (10.26%) | 0.656 | 0.635 ⬆️ (20.72%) |
+| SOTA | - | 0.752 🏆 | 0.684 | 0.836 |
+
+Notes: ⬆️ indicates improvement over baseline | 🏆 indicates best performance | Percentages show relative improvement
+
+
 Achieved *state-of-the-art results* in Bulgarian and Macedonian languages for SemEval 2024 Task 4 (Subtask 2a).
 
 | Language    | H-F1 (Subtask 1) | H-F1 (Subtask 2a) |
@@ -189,3 +202,4 @@ You can adjust the `hyperparameters` to better suit your experiments. Modify the
 10. Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." *CoRR*, vol. abs/1810.04805, 2018. [arXiv:1810.04805](http://arxiv.org/abs/1810.04805).
 
 11. Chung, Hyung Won, et al. "Scaling Instruction-Finetuned Language Models." 2022. [arXiv:2210.11416](https://arxiv.org/abs/2210.11416).
+
