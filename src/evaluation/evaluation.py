@@ -20,16 +20,22 @@ class Evaluation:
         self.task = config.task
         logger.info(f"Initializing Evaluation for task: {self.task}")
 
+        alpha = config.training.hyperparameters.alpha
+        beta = config.training.hyperparameters.beta
+        threshold = config.training.hyperparameters.threshold
+
         if self.task == 'subtask1':
             logger.debug("Configuring HierarchicalLoss for subtask1")
             self.HL = HierarchicalLoss(id2label=id2label_1, hierarchical_labels=hierarchy_1,
-                                       persuasion_techniques=persuasion_techniques_1, device=DEVICE)
+                                       persuasion_techniques=persuasion_techniques_1, device=DEVICE,
+                                       alpha=alpha, beta=beta, threshold=threshold)
             self.id2leaf_label = id2label_1
             logger.info("HierarchicalLoss configured for subtask1")
         else:
             logger.debug("Configuring HierarchicalLoss for subtask2a")
             self.HL = HierarchicalLoss(id2label=id2label_subtask_2a, hierarchical_labels=hierarchy_subtask_2a,
-                                       persuasion_techniques=persuasion_techniques_2a, device=DEVICE)
+                                       persuasion_techniques=persuasion_techniques_2a, device=DEVICE,
+                                       alpha=alpha, beta=beta, threshold=threshold)
             self.id2leaf_label = id2label_subtask_2a
             logger.info("HierarchicalLoss configured for subtask2a")
 
